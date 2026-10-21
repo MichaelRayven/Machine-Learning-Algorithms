@@ -13,8 +13,9 @@ test:
 report:
     cd report && (which xelatex >/dev/null 2>&1 && xelatex -interaction=nonstopmode 0_main.tex && xelatex -interaction=nonstopmode 0_main.tex || tectonic -X compile 0_main.tex)
     cp report/0_main.pdf report/lab4_report.pdf 2>/dev/null || true
+    rm -f report/0_main.pdf
 
 # Очистка временных файлов компиляции LaTeX и кэшей блокнота
 clean:
-    rm -rf report/*.aux report/*.log report/*.out report/*.toc report/*.synctex.gz
+    rm -rf report/*.aux report/*.log report/*.out report/*.toc report/*.synctex.gz report/0_main.pdf
     find . -type d -name ".ipynb_checkpoints" -exec rm -rf {} +
