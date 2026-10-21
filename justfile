@@ -1,5 +1,8 @@
-# Экспорт локального каталога .bin в PATH
+# Экспорт локального каталога .bin в PATH и каталогов кэша для безопасной работы в песочнице
 export PATH := invocation_directory() + "/.bin:" + env_var('PATH')
+export MPLCONFIGDIR := env_var_or_default('MPLCONFIGDIR', '/tmp/matplotlib')
+export IPYTHONDIR := env_var_or_default('IPYTHONDIR', '/tmp/ipython')
+export JUPYTER_CONFIG_DIR := env_var_or_default('JUPYTER_CONFIG_DIR', '/tmp/jupyter')
 
 # Список доступных общих команд
 default:
@@ -8,6 +11,7 @@ default:
 # Инициализация виртуального окружения uv и установка хуков prek
 setup:
     uv sync
+    uv run python -c "import site, pathlib; [(pathlib.Path(p) / 'mpl_env.pth').write_text('import os\nos.environ.setdefault(\"MPLCONFIGDIR\", \"/tmp/matplotlib\")\nos.environ.setdefault(\"IPYTHONDIR\", \"/tmp/ipython\")\nos.environ.setdefault(\"JUPYTER_CONFIG_DIR\", \"/tmp/jupyter\")\n') for p in site.getsitepackages() if pathlib.Path(p).is_dir()]"
     uv run prek install
     uv run prek install --hook-type commit-msg
 
