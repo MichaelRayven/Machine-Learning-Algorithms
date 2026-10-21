@@ -37,6 +37,9 @@ select = [
 ]
 ignore = []
 
+[tool.ruff.lint.per-file-ignores]
+"*.ipynb" = ["E501", "B905"]
+
 [tool.ruff.format]
 quote-style = "double"
 indent-style = "space"
