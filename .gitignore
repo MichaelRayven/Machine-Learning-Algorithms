@@ -45,6 +45,17 @@ wheels/
 *.lot
 *.lof
 
+# Course materials
+assignments/
+lectures/
+
+# Heavy datasets & TFDS caches
+tensorflow_datasets/
+**/data/tfds/
+**/data/tensorflow_datasets/
+**/*.tfrecord
+*.tar.gz
+*.tgz
 # OS & Editor files
 .DS_Store
 Thumbs.db
