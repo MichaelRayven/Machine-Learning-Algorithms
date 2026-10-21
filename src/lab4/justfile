@@ -9,9 +9,10 @@ notebook:
 test:
     uv run jupyter nbconvert --to notebook --execute lab4.ipynb --output /tmp/lab4_test_run.ipynb
 
-# Двухпроходная сборка LaTeX-отчета в PDF
+# Сборка академического LaTeX-отчета в PDF
 report:
-    cd report && xelatex -interaction=nonstopmode 0_main.tex && xelatex -interaction=nonstopmode 0_main.tex
+    cd report && (which xelatex >/dev/null 2>&1 && xelatex -interaction=nonstopmode 0_main.tex && xelatex -interaction=nonstopmode 0_main.tex || tectonic -X compile 0_main.tex)
+    cp report/0_main.pdf report/lab4_report.pdf 2>/dev/null || true
 
 # Очистка временных файлов компиляции LaTeX и кэшей блокнота
 clean:

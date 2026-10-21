@@ -1,0 +1,78 @@
+\chapter{Подготовка и предобработка данных}
+
+\section{Разведочный анализ и структура данных}
+
+Исходная выборка насчитывает 2500 записей и 10 атрибутов. Первичный анализ выявил неоднородность типов: 3 числовых признака, 6 категориальных и 1 числовой целевой показатель.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Статистика пропущенных значений в признаках}
+\begin{tabular}{|l|c|c|l|}
+\hline
+\textbf{Признак} & \textbf{Пропусков (шт.)} & \textbf{Доля (\%)} & \textbf{Метод заполнения} \\
+\hline
+\texttt{bedrooms} & 102 & 4.1\% & Медиана (3.0) \\
+\texttt{bathrooms} & 119 & 4.8\% & Медиана (2.0) \\
+\texttt{level} & 166 & 6.6\% & Мода (Ground) \\
+\texttt{finishing} & 101 & 4.0\% & Мода (Finished) \\
+\hline
+\end{tabular}
+\end{table}
+
+Пропуски в объявлениях вызваны человеческим фактором при заполнении форм риелторами. Пропущенные непрерывные значения заполнены медианой, так как она устойчива к отдельным всплескам и асимметрии распределения. Категориальные признаки дополнены наиболее частым классом (модой).
+
+\begin{lstlisting}[language=Python]
+# Заполнение пропусков устойчивыми статистиками
+df_clean = df.copy()
+for col in ['bedrooms', 'bathrooms']:
+    df_clean[col] = df_clean[col].fillna(df_clean[col].median())
+
+for col in ['level', 'finishing']:
+    df_clean[col] = df_clean[col].fillna(df_clean[col].mode()[0])
+\end{lstlisting}
+
+\section{Кодирование категориальных признаков}
+
+В строгом соответствии с пунктом 1.2 методических указаний категориальные признаки преобразованы с помощью \texttt{LabelEncoder}. Каждому уникальному текстовому значению ставится в соответствие целочисленный индекс от $0$ до $K-1$:
+
+\begin{lstlisting}[language=Python]
+from sklearn.preprocessing import LabelEncoder
+
+categorical_features = ['type', 'level', 'city', 'finishing', 'furnished', 'payment_method']
+label_encoders = {}
+for col in categorical_features:
+    le = LabelEncoder()
+    df_clean[col] = le.fit_transform(df_clean[col].astype(str))
+    label_encoders[col] = le
+\end{lstlisting}
+
+\section{Разбиение выборки и масштабирование признаков}
+
+Выборка разделена на обучающую (80\%, 2000 объектов) и контрольную (20\%, 500 объектов) при фиксированном значении генератора случайных чисел \texttt{random\_state=42}.
+
+\begin{lstlisting}[language=Python]
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+
+X = df_clean.drop(columns=['price'])
+y = df_clean['price']
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.20, random_state=42
+)
+
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+\end{lstlisting}
+
+Масштабирование признаков через \texttt{StandardScaler} вычисляет центрирование и нормировку:
+\begin{equation}
+z_{ij} = \frac{x_{ij} - \mu_j}{\sigma_j}
+\end{equation}
+где $\mu_j$ и $\sigma_j$ — выборочные среднее и стандартное отклонение $j$-го признака на обучающей подвыборке. Параметры скейлера оцениваются исключительно по обучающей выборке, чтобы избежать утечки информации из теста.
+
+\section{Выводы по разделу 1}
+
+Проведенный этап устранил неполноту исходных табличных данных и нормализовал признаковое пространство. Устранение дисбаланса масштабов (когда площадь измерялась сотнями, а число комнат — единицами) является обязательным условием перед обучением регрессий с $L_1$ и $L_2$ штрафами. Без стандартизации штраф действовал бы преимущественно на признаки с искусственно завышенными коэффициентами.
