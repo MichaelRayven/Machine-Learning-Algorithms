@@ -1,5 +1,8 @@
-# Экспорт локального каталога .bin в PATH
+# Экспорт локального каталога .bin в PATH и каталогов кэша
 export PATH := invocation_directory() + "/../../.bin:" + invocation_directory() + "/.bin:" + env_var('PATH')
+export MPLCONFIGDIR := env_var_or_default('MPLCONFIGDIR', '/tmp/matplotlib')
+export IPYTHONDIR := env_var_or_default('IPYTHONDIR', '/tmp/ipython')
+export JUPYTER_CONFIG_DIR := env_var_or_default('JUPYTER_CONFIG_DIR', '/tmp/jupyter')
 
 default:
     @just -f justfile --list
