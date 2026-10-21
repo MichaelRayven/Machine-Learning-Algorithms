@@ -1,12 +1,18 @@
 default_install_hook_types: [pre-commit, commit-msg]
 
 repos:
-  - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.9.1
+  - repo: local
     hooks:
       - id: ruff
-        args: [--fix]
+        name: ruff
+        entry: .bin/uv run ruff check --fix
+        language: system
+        types_or: [python, jupyter]
       - id: ruff-format
+        name: ruff-format
+        entry: .bin/uv run ruff format
+        language: system
+        types_or: [python, jupyter]
 
   - repo: https://github.com/compilerla/conventional-pre-commit
     rev: v4.0.0

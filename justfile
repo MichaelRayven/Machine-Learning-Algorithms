@@ -1,3 +1,6 @@
+# Экспорт локального каталога .bin в PATH
+export PATH := invocation_directory() + "/.bin:" + env_var('PATH')
+
 # Список доступных общих команд
 default:
     @just --list
@@ -5,8 +8,8 @@ default:
 # Инициализация виртуального окружения uv и установка хуков prek
 setup:
     uv sync
-    prek install
-    prek install --hook-type commit-msg
+    uv run prek install
+    uv run prek install --hook-type commit-msg
 
 # Проверка кода и блокнотов линтером ruff
 lint:
@@ -29,7 +32,7 @@ check: lint format-check
 
 # Прогон хуков prek по всем файлам
 hooks:
-    prek run --all-files
+    uv run prek run --all-files
 
 # Делегирование команд в модуль 4-й лабораторной работы
 [no-cd]
