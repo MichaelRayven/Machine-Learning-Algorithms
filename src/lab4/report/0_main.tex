@@ -8,21 +8,30 @@
 \usepackage{fontspec}
 \usepackage[english, russian]{babel}
 
-\IfFontExistsTF{Times New Roman}{
-    \babelfont{rm}{Times New Roman}
-}{
-    \babelfont{rm}{DejaVu Serif}
-}
-\IfFontExistsTF{DejaVu Sans Mono}{
-    \babelfont{tt}{DejaVu Sans Mono}
-}{}
+\setmainfont{LiberationSerif}[
+    Path = fonts/,
+    Extension = .ttf,
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic
+]
+
+\setmonofont{LiberationMono}[
+    Path = fonts/,
+    Extension = .ttf,
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic
+]
 
 \setsecnumdepth{subsection}
 \renewcommand*{\chapterheadstart}{}
 \renewcommand*{\printchaptername}{}
 \renewcommand*{\chapnumfont}{\normalfont\bfseries}
 \renewcommand*{\afterchapternum}{\hspace{1em}}
-\renewcommand*{\printchaptertitle}{\normalfont\bfseries\centering\MakeUppercase}
+\renewcommand*{\printchaptertitle}{\normalfont\bfseries\centering}
 \setbeforesecskip{20pt}
 \setaftersecskip{20pt}
 \setsecheadstyle{\raggedright\normalfont\bfseries}
@@ -34,7 +43,7 @@
 \setrmarg{2.55em plus1fil}
 \renewcommand{\aftertoctitle}{\afterchaptertitle \vspace{-\cftbeforechapterskip}}
 \renewcommand*{\cftchapternumwidth}{1.5em}
-\renewcommand*{\cftchapterfont}{\normalfont\MakeUppercase}
+\renewcommand*{\cftchapterfont}{\normalfont}
 \renewcommand*{\cftchapterpagefont}{\normalfont}
 \renewcommand*{\cftchapterdotsep}{\cftdotsep}
 \renewcommand*{\cftdotsep}{1}
