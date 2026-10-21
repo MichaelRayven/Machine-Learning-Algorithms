@@ -1,0 +1,85 @@
+\chapter{Программная реализация конвейера данных и сверточной архитектуры}
+
+\section{Конвейер подготовки данных и потоковой аугментации}
+
+Реализация модели выполнена на языке Python с использованием фреймворка глубокого обучения TensorFlow 2.x и библиотеки Keras. Датасет Oxford Flowers 102 загружается через интерфейс \texttt{tensorflow\_datasets} (TFDS).
+
+Поскольку оригинальные фотографии цветковых растений имеют различные исходные разрешения и соотношения сторон, в конвейере данных реализована стандартизация входных тензоров:
+\begin{enumerate}
+    \item \textbf{Геометрическая стандартизация:} приведение всех кадров к пространственному размеру $96 \times 96 \times 3$ с помощью билинейной интерполяции \texttt{tf.image.resize}. Данный размер обеспечивает компромисс между сохранением детализации текстуры лепестков и вычислительной эффективностью сверточных слоев.
+    \item \textbf{Нормализация яркости:} деление целочисленных значений пикселей из интервала $[0, 255]$ на $255.0$, что переводит интенсивности каналов в вещественный диапазон $[0.0, 1.0]$.
+    \item \textbf{Аугментация (Data Augmentation):} ввиду ограниченного объема обучающей выборки (1020 изображений, по 10 на каждый из 102 классов), для предотвращения переобучения сконфигурирован слой аугментации, включающий случайные зеркальные отражения по горизонтали (\texttt{RandomFlip}), повороты в пределах $\pm 10\,\%$ (\texttt{RandomRotation}) и масштабирование (\texttt{RandomZoom}).
+    \item \textbf{Буферизация и предвыборка:} конвейер \texttt{tf.data} оптимизирован вызовами \texttt{cache()} (кэширование обработанных тензоров в памяти), \texttt{shuffle(1020)} (случайное перемешивание на каждой эпохе), \texttt{batch(32)} (объединение в батчи по 32 кадра) и \texttt{prefetch(tf.data.AUTOTUNE)} (асинхронная подготовка следующего пакета параллельно с вычислениями на процессоре).
+\end{enumerate}
+
+\section{Архитектура сверточной нейронной сети}
+
+В соответствии с требованиями Варианта 2 нейронная сеть состоит строго из 3 сверточных слоев (Conv2D) и 2 полносвязных слоев (Dense), с обязательным применением пакетной нормализации (BatchNormalization) и оптимизатора SGD с моментом.
+
+Послойная структура модели представлена в таблице~\ref{tab:model_architecture}.
+
+\begin{table}[H]
+\centering
+\footnotesize
+\caption{Послойная архитектура сверточной нейросети (Вариант 2)}
+\label{tab:model_architecture}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llrl@{}}
+\toprule
+\textbf{Слой (тип)} & \textbf{Выход} & \textbf{Параметры} & \textbf{Назначение} \\
+\midrule
+InputLayer & $(96, 96, 3)$ & 0 & Входной RGB-тензор \\
+Conv2D (32 фильтра $3\times3$) & $(96, 96, 32)$ & 864 & Выделение базовых градиентов \\
+BatchNormalization & $(96, 96, 32)$ & 128 & Нормализация признаковых карт \\
+ReLU & $(96, 96, 32)$ & 0 & Поэлементная нелинейность \\
+MaxPooling2D ($2\times2$) & $(48, 48, 32)$ & 0 & Пространственная редукция \\
+\midrule
+Conv2D (64 фильтра $3\times3$) & $(48, 48, 64)$ & 18\,432 & Текстуры и контуры \\
+BatchNormalization & $(48, 48, 64)$ & 256 & Нормализация активаций \\
+ReLU & $(48, 48, 64)$ & 0 & Поэлементная нелинейность \\
+MaxPooling2D ($2\times2$) & $(24, 24, 64)$ & 0 & Пространственная редукция \\
+\midrule
+Conv2D (128 фильтров $3\times3$) & $(24, 24, 128)$ & 73\,728 & Выделение форм лепестков \\
+BatchNormalization & $(24, 24, 128)$ & 512 & Нормализация активаций \\
+ReLU & $(24, 24, 128)$ & 0 & Поэлементная нелинейность \\
+MaxPooling2D ($2\times2$) & $(12, 12, 128)$ & 0 & Пространственная редукция \\
+\midrule
+Flatten & $(18\,432)$ & 0 & Вытягивание карт в вектор \\
+Dense (скрытый) & $(256)$ & 4\,718\,592 & Семантический скрытый слой \\
+BatchNormalization & $(256)$ & 1\,024 & Нормализация скрытого слоя \\
+ReLU & $(256)$ & 0 & Поэлементная нелинейность \\
+Dense (выходной) & $(102)$ & 26\,214 & Классификация с Softmax \\
+\bottomrule
+\end{tabular*}
+\end{table}
+
+Общее число параметров модели составляет $4\,839\,750$ ($\approx 18.46$~МБ). Из них $4\,838\,790$ являются обучаемыми весами, а 960 --- необучаемыми статистиками слоев BatchNormalization (скользящие средние и дисперсии).
+
+\section{Программный листинг построения и компиляции модели}
+
+В листинге~\ref{lst:model_code} приведен исходный код сборки модели на базе функционального API Keras:
+
+\begin{lstlisting}[language=Python, caption={Создание и компиляция архитектуры CNN (Вариант 2)}, label={lst:model_code}, basicstyle=\ttfamily\scriptsize]
+import tensorflow as tf
+
+def build_cnn_variant2(img_size=96, num_classes=102):
+    inputs = tf.keras.Input(shape=(img_size, img_size, 3))
+    # Сверточный блок 1: 32 фильтра 3x3 + BatchNorm + ReLU + MaxPool
+    x = tf.keras.layers.Conv2D(32, (3, 3), padding="same", use_bias=False)(inputs)
+    x = tf.keras.layers.MaxPooling2D((2, 2))(tf.keras.layers.Activation("relu")(tf.keras.layers.BatchNormalization()(x)))
+    # Сверточный блок 2: 64 фильтра 3x3 + BatchNorm + ReLU + MaxPool
+    x = tf.keras.layers.Conv2D(64, (3, 3), padding="same", use_bias=False)(x)
+    x = tf.keras.layers.MaxPooling2D((2, 2))(tf.keras.layers.Activation("relu")(tf.keras.layers.BatchNormalization()(x)))
+    # Сверточный блок 3: 128 фильтров 3x3 + BatchNorm + ReLU + MaxPool
+    x = tf.keras.layers.Conv2D(128, (3, 3), padding="same", use_bias=False)(x)
+    x = tf.keras.layers.MaxPooling2D((2, 2))(tf.keras.layers.Activation("relu")(tf.keras.layers.BatchNormalization()(x)))
+    # Полносвязный классификатор: 2 Dense слоя
+    x = tf.keras.layers.Flatten()(x)
+    x = tf.keras.layers.Activation("relu")(tf.keras.layers.BatchNormalization()(tf.keras.layers.Dense(256, use_bias=False)(x)))
+    outputs = tf.keras.layers.Dense(num_classes, activation="softmax")(x)
+    model = tf.keras.Model(inputs=inputs, outputs=outputs)
+    # Оптимизатор SGD с моментом Нестерова
+    opt = tf.keras.optimizers.SGD(learning_rate=0.015, momentum=0.9, nesterov=True)
+    model.compile(optimizer=opt, loss="sparse_categorical_crossentropy",
+                  metrics=["accuracy", tf.keras.metrics.SparseTopKCategoricalAccuracy(k=5, name="top5_acc")])
+    return model
+\end{lstlisting}
