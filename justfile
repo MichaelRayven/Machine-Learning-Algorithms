@@ -42,3 +42,8 @@ hooks:
 [no-cd]
 lab4 *args:
     just -f src/lab4/justfile {{args}}
+
+# Делегирование команд в модуль 5-й лабораторной работы
+[no-cd]
+lab5 *args:
+    just -f src/lab5/justfile {{args}}

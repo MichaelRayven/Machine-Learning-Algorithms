@@ -13,6 +13,9 @@ dependencies = [
     "jupyterlab>=4.0.0",
     "ipykernel>=6.29.0",
     "nbconvert>=7.16.0",
+    "tensorflow>=2.21.0",
+    "tensorflow-datasets>=4.9.10",
+    "importlib-resources>=7.1.0",
 ]
 
 [dependency-groups]
