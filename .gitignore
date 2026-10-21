@@ -45,6 +45,10 @@ wheels/
 *.lot
 *.lof
 
+# Course materials
+assignments/
+lectures/
+
 # Datasets & Heavy caches
 tensorflow_datasets/
 **/data/tfds/
