@@ -11,7 +11,7 @@ default:
 # Инициализация виртуального окружения uv и установка хуков prek
 setup:
     uv sync
-    uv run python -c "import site, pathlib; [(pathlib.Path(p) / 'mpl_env.pth').write_text('import os\nos.environ.setdefault(\"MPLCONFIGDIR\", \"/tmp/matplotlib\")\nos.environ.setdefault(\"IPYTHONDIR\", \"/tmp/ipython\")\nos.environ.setdefault(\"JUPYTER_CONFIG_DIR\", \"/tmp/jupyter\")\n') for p in site.getsitepackages() if pathlib.Path(p).is_dir()]"
+    uv run python -c "import site, pathlib; [(pathlib.Path(p) / 'mpl_env.pth').write_text('import os; os.environ.setdefault(\"MPLCONFIGDIR\", \"/tmp/matplotlib\"); os.environ.setdefault(\"IPYTHONDIR\", \"/tmp/ipython\"); os.environ.setdefault(\"JUPYTER_CONFIG_DIR\", \"/tmp/jupyter\")\n') for p in site.getsitepackages() if pathlib.Path(p).is_dir()]"
     uv run prek install
     uv run prek install --hook-type commit-msg
 
