@@ -1,0 +1,19 @@
+default:
+    @just -f justfile --list
+
+# Запуск Jupyter Lab для работы с блокнотом lab4.ipynb
+notebook:
+    uv run jupyter lab lab4.ipynb
+
+# Неинтерактивное тестирование сквозного выполнения всех ячеек блокнота
+test:
+    uv run jupyter nbconvert --to notebook --execute lab4.ipynb --output /tmp/lab4_test_run.ipynb
+
+# Двухпроходная сборка LaTeX-отчета в PDF
+report:
+    cd report && xelatex -interaction=nonstopmode 0_main.tex && xelatex -interaction=nonstopmode 0_main.tex
+
+# Очистка временных файлов компиляции LaTeX и кэшей блокнота
+clean:
+    rm -rf report/*.aux report/*.log report/*.out report/*.toc report/*.synctex.gz
+    find . -type d -name ".ipynb_checkpoints" -exec rm -rf {} +

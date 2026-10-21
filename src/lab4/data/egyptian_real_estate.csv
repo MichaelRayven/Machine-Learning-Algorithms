@@ -1,0 +1,2501 @@
+type,bedrooms,bathrooms,area,level,city,finishing,furnished,payment_method,price
+Apartment,2.0,1.0,202.0,3,Madinaty,Finished,No,Installment,6335000
+Twin House,6.0,,316.5,Ground,Shorouk City,Finished,Yes,Cash,9731000
+Penthouse,6.0,5.0,354.2,1,6th of October,Core & Shell,No,Cash,8557000
+Villa,6.0,5.0,451.4,Ground,North Coast,Finished,No,Installment,25316000
+Apartment,2.0,1.0,146.7,5,New Cairo,Core & Shell,No,Installment,3775000
+Apartment,1.0,,87.3,0,New Cairo,Finished,Yes,Any,4033000
+Apartment,2.0,1.0,174.3,3,Madinaty,Semi Finished,No,Cash,4564000
+Townhouse,4.0,3.0,217.9,Ground,6th of October,Core & Shell,No,Installment,4671000
+Duplex,4.0,4.0,295.4,0,Madinaty,Finished,No,Installment,11262000
+Duplex,3.0,3.0,214.8,3,Alexandria,Finished,Yes,Installment,6251000
+Apartment,3.0,3.0,183.6,2,New Cairo,Finished,Yes,Any,7379000
+Twin House,5.0,5.0,316.1,Ground,Alexandria,Semi Finished,Yes,Installment,8744000
+Chalet,2.0,2.0,131.5,3,6th of October,Semi Finished,No,Any,2622000
+Apartment,4.0,3.0,183.3,4,6th of October,Semi Finished,No,Cash,4186000
+Apartment,,2.0,190.1,0,Nasr City,Finished,No,Installment,3559000
+Apartment,2.0,1.0,90.1,0,North Coast,Finished,Yes,Cash,4593000
+Apartment,4.0,3.0,201.3,5,New Cairo,Finished,No,Cash,7147000
+Villa,6.0,5.0,373.0,Ground,6th of October,Finished,No,Cash,11343000
+Apartment,4.0,3.0,188.9,2,Maadi,Semi Finished,Yes,Cash,5092000
+Apartment,1.0,1.0,89.6,3,Maadi,Core & Shell,No,Cash,1992000
+Duplex,4.0,4.0,269.2,2,Maadi,Semi Finished,No,Cash,8384000
+Apartment,3.0,3.0,150.4,5,New Cairo,Finished,No,Cash,5512000
+Apartment,4.0,3.0,214.1,1,Sheikh Zayed,Unfinished,No,Any,5599000
+Apartment,2.0,1.0,179.1,1,Sheikh Zayed,Semi Finished,No,Cash,5195000
+Villa,6.0,5.0,520.6,,Madinaty,Unfinished,No,Installment,13890000
+Penthouse,5.0,5.0,258.2,4,Sheikh Zayed,Semi Finished,No,Cash,8589000
+Apartment,2.0,1.0,156.1,3,New Cairo,Finished,No,Any,5284000
+Villa,6.0,5.0,552.7,Ground,North Coast,Finished,No,Any,32299000
+Villa,6.0,5.0,561.2,Ground,New Cairo,Semi Finished,No,Installment,21251000
+Apartment,2.0,2.0,109.0,6,Hurghada,Finished,No,Installment,2505000
+Duplex,3.0,3.0,243.1,2,Maadi,Finished,No,Cash,7506000
+Apartment,2.0,2.0,191.7,4,Madinaty,,No,Any,4813000
+Apartment,2.0,2.0,123.6,3,Sheikh Zayed,Semi Finished,No,Any,3224000
+Twin House,6.0,5.0,338.7,Ground,New Cairo,Semi Finished,No,Any,13463000
+Twin House,3.0,3.0,243.4,Ground,Maadi,Finished,Yes,Installment,10057000
+Chalet,2.0,1.0,100.3,4,Madinaty,Finished,No,Cash,3256000
+Apartment,,3.0,193.1,4,Shorouk City,Semi Finished,Yes,Any,3468000
+Apartment,4.0,3.0,160.6,1,New Cairo,Unfinished,No,Cash,4179000
+Duplex,5.0,,289.2,4,Shorouk City,Semi Finished,No,Installment,6509000
+Apartment,3.0,2.0,189.7,5,Shorouk City,Unfinished,No,Cash,2791000
+Apartment,3.0,2.0,220.7,,Nasr City,Semi Finished,No,Any,4312000
+Villa,6.0,5.0,349.3,Ground,Shorouk City,Semi Finished,No,Cash,8769000
+Apartment,3.0,2.0,200.6,1,Madinaty,Finished,No,Cash,6610000
+Townhouse,4.0,4.0,266.1,Ground,Nasr City,Semi Finished,Yes,Installment,5862000
+Apartment,2.0,2.0,95.5,0,New Cairo,Semi Finished,No,Installment,2901000
+Duplex,6.0,5.0,324.6,6,6th of October,,No,Installment,7903000
+Apartment,4.0,3.0,202.7,,New Cairo,Finished,No,Cash,7212000
+Villa,6.0,5.0,520.0,Ground,Sheikh Zayed,Semi Finished,No,Cash,18936000
+Villa,6.0,5.0,463.8,Ground,Sheikh Zayed,Finished,Yes,Installment,24714000
+Apartment,3.0,2.0,181.6,1,New Cairo,Semi Finished,No,Any,5802000
+Twin House,5.0,5.0,346.3,,Sheikh Zayed,Finished,Yes,Any,17372000
+Penthouse,3.0,3.0,260.7,1,New Cairo,Core & Shell,No,Installment,8741000
+Twin House,4.0,3.0,237.1,,Madinaty,Finished,No,Any,10806000
+Townhouse,4.0,4.0,225.6,Ground,North Coast,Finished,No,Installment,10680000
+Villa,6.0,5.0,517.2,Ground,New Cairo,Finished,No,Installment,25753000
+Twin House,6.0,5.0,311.6,,North Coast,Semi Finished,No,Installment,16685000
+Apartment,2.0,2.0,137.1,1,6th of October,Finished,No,Installment,3219000
+Apartment,1.0,2.0,145.8,4,Sheikh Zayed,Finished,No,Installment,4231000
+Apartment,3.0,3.0,154.8,0,New Cairo,Semi Finished,No,Installment,5072000
+Apartment,2.0,2.0,200.9,2,6th of October,Finished,Yes,Cash,4683000
+Apartment,2.0,1.0,137.1,4,Shorouk City,Unfinished,No,Cash,1954000
+Apartment,4.0,3.0,223.1,4,Maadi,Unfinished,No,Cash,4852000
+Chalet,2.0,1.0,109.1,4,New Cairo,Semi Finished,No,Installment,3292000
+Apartment,2.0,2.0,131.9,1,New Cairo,Finished,No,Cash,5141000
+Apartment,3.0,,170.9,0,Sheikh Zayed,Semi Finished,No,Cash,5254000
+Villa,6.0,5.0,636.5,Ground,Sheikh Zayed,Finished,Yes,Installment,32818000
+Apartment,2.0,1.0,106.3,3,New Cairo,Finished,Yes,Installment,4102000
+Chalet,1.0,1.0,101.7,2,Sheikh Zayed,Finished,No,Installment,3498000
+Apartment,2.0,2.0,128.6,2,Madinaty,Unfinished,Yes,Installment,3073000
+Studio,1.0,1.0,69.9,3,North Coast,Finished,No,Any,2751000
+Penthouse,4.0,4.0,276.5,1,Sheikh Zayed,,No,Any,9598000
+Apartment,2.0,,117.6,3,Alexandria,Semi Finished,No,Any,2236000
+Apartment,2.0,2.0,133.5,3,Sheikh Zayed,Finished,No,Installment,4246000
+Chalet,3.0,3.0,100.1,2,6th of October,Finished,No,Cash,2641000
+Duplex,5.0,5.0,263.4,1,New Cairo,,No,Any,8931000
+Penthouse,6.0,5.0,325.4,0,Nasr City,Semi Finished,No,Cash,7525000
+Penthouse,6.0,5.0,372.1,3,Hurghada,Semi Finished,No,Cash,8347000
+Apartment,4.0,3.0,194.5,2,Nasr City,Finished,No,Installment,4460000
+Apartment,1.0,1.0,101.5,1,Sheikh Zayed,Finished,Yes,Cash,4049000
+Apartment,3.0,2.0,109.3,0,Nasr City,Finished,No,Any,2915000
+Townhouse,5.0,4.0,259.3,Ground,New Cairo,Finished,No,Installment,12289000
+Duplex,5.0,4.0,310.1,3,Alexandria,Finished,No,Installment,9358000
+Apartment,4.0,3.0,225.3,5,6th of October,Core & Shell,No,Installment,3600000
+Apartment,2.0,2.0,173.9,5,6th of October,Finished,No,Installment,4191000
+Apartment,2.0,2.0,116.0,2,Nasr City,Finished,No,Cash,2443000
+Apartment,3.0,3.0,160.3,2,Nasr City,Semi Finished,No,Installment,2682000
+Penthouse,6.0,5.0,345.3,3,New Cairo,Semi Finished,No,Installment,12885000
+Duplex,3.0,3.0,189.1,,Maadi,Finished,No,Installment,7224000
+Townhouse,4.0,3.0,280.8,Ground,New Cairo,Semi Finished,No,Installment,9315000
+Villa,6.0,5.0,484.8,Ground,Maadi,Finished,No,Cash,17187000
+Apartment,2.0,2.0,97.4,3,Madinaty,,No,Cash,3051000
+Duplex,6.0,5.0,293.1,2,Madinaty,Finished,Yes,Cash,10580000
+Penthouse,5.0,5.0,379.7,5,6th of October,Core & Shell,No,Installment,7914000
+Villa,6.0,5.0,555.7,Ground,6th of October,Finished,Yes,Any,17420000
+Penthouse,6.0,,285.6,1,New Cairo,Finished,No,Any,12762000
+Villa,6.0,5.0,364.3,Ground,Shorouk City,Finished,Yes,Installment,10473000
+Villa,6.0,5.0,622.3,Ground,Sheikh Zayed,Core & Shell,No,Installment,21578000
+Apartment,4.0,3.0,216.8,0,6th of October,Finished,No,Installment,5364000
+Apartment,3.0,3.0,140.6,5,Sheikh Zayed,Finished,Yes,Cash,5554000
+Apartment,3.0,3.0,226.3,2,New Cairo,Finished,No,Cash,8261000
+Apartment,1.0,2.0,86.5,7,Nasr City,Finished,No,Any,1878000
+Duplex,5.0,4.0,270.5,1,New Cairo,,No,Installment,9500000
+Apartment,4.0,3.0,224.1,3,Shorouk City,Semi Finished,No,Any,4126000
+Villa,6.0,5.0,503.7,Ground,Sheikh Zayed,Finished,Yes,Cash,26358000
+Townhouse,5.0,,281.0,Ground,New Cairo,Finished,No,Installment,11481000
+Apartment,2.0,1.0,129.2,0,6th of October,Finished,No,Cash,2953000
+Apartment,2.0,2.0,91.1,,New Cairo,Finished,No,Cash,3747000
+Penthouse,5.0,4.0,271.3,5,Sheikh Zayed,Finished,No,Installment,11544000
+Apartment,2.0,1.0,146.8,3,Maadi,Semi Finished,No,Cash,3614000
+Apartment,4.0,3.0,219.5,3,New Cairo,Unfinished,No,Cash,5886000
+Apartment,2.0,1.0,91.1,0,Madinaty,Unfinished,No,Cash,1995000
+Apartment,3.0,2.0,200.5,7,New Cairo,Core & Shell,No,Cash,6039000
+Twin House,5.0,4.0,277.0,Ground,New Cairo,Semi Finished,Yes,Installment,13773000
+Chalet,2.0,2.0,130.7,1,Shorouk City,Semi Finished,No,Installment,2358000
+Duplex,6.0,5.0,267.1,5,Sheikh Zayed,Finished,No,Cash,11966000
+Townhouse,4.0,4.0,313.3,Ground,New Cairo,Semi Finished,No,Cash,11533000
+Chalet,2.0,1.0,113.6,0,Sheikh Zayed,Finished,No,Cash,4114000
+Apartment,3.0,2.0,185.8,2,Sheikh Zayed,Finished,No,Installment,6596000
+Townhouse,3.0,2.0,220.4,Ground,Madinaty,,Yes,Cash,7424000
+Villa,6.0,5.0,461.6,Ground,Sheikh Zayed,Finished,No,Installment,21127000
+Chalet,1.0,2.0,88.1,3,Shorouk City,Finished,Yes,Cash,2165000
+Townhouse,4.0,4.0,316.3,Ground,Alexandria,Unfinished,No,Cash,5726000
+Apartment,2.0,1.0,161.2,3,6th of October,Finished,No,Any,3250000
+Apartment,4.0,3.0,163.7,3,Alexandria,Finished,No,Installment,4052000
+Apartment,1.0,2.0,91.3,0,Sheikh Zayed,Core & Shell,No,Cash,2871000
+Apartment,2.0,1.0,114.4,3,Hurghada,Semi Finished,No,Any,2604000
+Chalet,2.0,2.0,107.1,6,New Cairo,Semi Finished,Yes,Installment,3581000
+Townhouse,3.0,2.0,211.0,Ground,Maadi,Finished,No,Any,6246000
+Apartment,4.0,3.0,221.9,,6th of October,Finished,Yes,Installment,6016000
+Villa,6.0,5.0,620.2,,Sheikh Zayed,Core & Shell,No,Installment,22004000
+Apartment,3.0,2.0,171.0,1,Nasr City,Semi Finished,No,Any,3203000
+Apartment,2.0,2.0,112.3,3,Maadi,Semi Finished,No,Cash,2759000
+Apartment,2.0,2.0,148.0,1,New Cairo,Finished,No,Installment,5828000
+Apartment,,1.0,145.8,0,New Cairo,Finished,Yes,Installment,6305000
+Twin House,3.0,,236.0,Ground,Maadi,Unfinished,No,Cash,6948000
+Apartment,3.0,3.0,119.2,6,Maadi,Finished,No,Cash,3701000
+Villa,6.0,5.0,593.1,Ground,Hurghada,Semi Finished,No,Cash,18924000
+Duplex,6.0,5.0,316.0,2,Shorouk City,Finished,No,Installment,8678000
+Apartment,1.0,2.0,112.0,3,North Coast,,No,Installment,3967000
+Studio,1.0,1.0,72.1,3,Maadi,Unfinished,No,Installment,1629000
+Twin House,5.0,4.0,339.2,Ground,Sheikh Zayed,Semi Finished,No,Cash,12632000
+Apartment,3.0,2.0,112.5,2,New Cairo,Finished,No,Installment,4458000
+Villa,6.0,5.0,409.7,Ground,Shorouk City,Semi Finished,No,Any,8797000
+Apartment,4.0,,227.4,2,Nasr City,Semi Finished,No,Installment,3738000
+Apartment,2.0,2.0,118.9,,New Cairo,,No,Installment,4857000
+Apartment,1.0,2.0,88.6,1,Sheikh Zayed,Core & Shell,No,Installment,2425000
+Duplex,6.0,5.0,291.0,1,North Coast,Semi Finished,No,Installment,12972000
+Villa,6.0,5.0,536.0,,6th of October,Core & Shell,No,Installment,14088000
+Apartment,3.0,3.0,169.2,2,6th of October,Semi Finished,No,Any,3294000
+Apartment,2.0,1.0,115.7,2,6th of October,Finished,No,Installment,2616000
+Townhouse,3.0,,204.4,Ground,New Cairo,Finished,No,Any,9364000
+Apartment,3.0,3.0,188.9,,Sheikh Zayed,Finished,No,Cash,6172000
+Apartment,4.0,3.0,192.1,1,Sheikh Zayed,Core & Shell,No,Cash,5046000
+Villa,6.0,5.0,510.5,,New Cairo,Semi Finished,Yes,Cash,22542000
+Studio,1.0,1.0,58.9,4,Shorouk City,Semi Finished,No,Installment,1149000
+Apartment,2.0,2.0,196.9,,Sheikh Zayed,Finished,No,Installment,6794000
+Duplex,6.0,5.0,269.2,2,Madinaty,Finished,No,Cash,9335000
+Penthouse,4.0,4.0,291.2,0,Madinaty,Semi Finished,No,Cash,8476000
+Apartment,2.0,2.0,132.0,4,New Cairo,Finished,No,Any,4638000
+Penthouse,4.0,4.0,288.2,5,Nasr City,Finished,No,Any,7050000
+Apartment,3.0,3.0,174.3,6,6th of October,Semi Finished,No,Installment,3720000
+Duplex,4.0,,228.9,3,Alexandria,Finished,No,Installment,6496000
+Duplex,3.0,3.0,260.0,2,New Cairo,Finished,No,Installment,11024000
+Villa,6.0,5.0,538.5,Ground,Maadi,Finished,No,Installment,22318000
+Apartment,2.0,1.0,149.9,2,Nasr City,,No,Any,2972000
+Chalet,2.0,1.0,156.5,2,Sheikh Zayed,,No,Cash,3466000
+Apartment,4.0,3.0,210.1,5,New Cairo,Finished,No,Installment,7328000
+Apartment,3.0,2.0,136.7,1,Nasr City,Finished,No,Cash,2747000
+Apartment,3.0,2.0,183.5,3,Maadi,Finished,Yes,Installment,5873000
+Villa,6.0,,475.6,Ground,Sheikh Zayed,Semi Finished,No,Installment,17021000
+Duplex,5.0,5.0,318.9,4,Nasr City,Finished,No,Installment,7806000
+Apartment,2.0,1.0,122.3,2,Sheikh Zayed,Semi Finished,No,Cash,3886000
+Villa,6.0,5.0,411.4,Ground,Maadi,Finished,Yes,Installment,18371000
+Apartment,4.0,3.0,154.1,0,New Cairo,Finished,No,Cash,6063000
+Duplex,5.0,5.0,279.1,5,Alexandria,Finished,No,Cash,7565000
+Apartment,2.0,1.0,195.8,4,Sheikh Zayed,Core & Shell,No,Cash,5358000
+Duplex,4.0,4.0,249.0,3,Sheikh Zayed,Core & Shell,No,Installment,8179000
+Apartment,1.0,1.0,110.2,1,New Cairo,Finished,Yes,Installment,4061000
+Twin House,5.0,5.0,345.6,Ground,New Cairo,Semi Finished,No,Installment,13221000
+Apartment,1.0,2.0,91.6,3,6th of October,Core & Shell,No,Installment,2118000
+Apartment,2.0,1.0,138.0,2,Sheikh Zayed,Finished,Yes,Installment,5781000
+Apartment,3.0,2.0,111.7,1,Madinaty,Core & Shell,No,Installment,2972000
+Twin House,3.0,2.0,234.8,Ground,New Cairo,Finished,No,Installment,10740000
+Townhouse,6.0,5.0,315.2,Ground,Sheikh Zayed,Unfinished,No,Installment,9046000
+Apartment,4.0,3.0,220.4,4,Sheikh Zayed,Semi Finished,No,Installment,6891000
+Duplex,4.0,4.0,235.4,1,New Cairo,Unfinished,No,Installment,7189000
+Chalet,2.0,1.0,79.7,3,New Cairo,Semi Finished,No,Any,2650000
+Villa,6.0,5.0,417.3,,Sheikh Zayed,Finished,No,Any,19626000
+Villa,6.0,5.0,452.5,Ground,6th of October,Unfinished,No,Cash,10262000
+Apartment,3.0,2.0,117.9,3,Sheikh Zayed,Finished,Yes,Cash,4923000
+Apartment,2.0,2.0,205.6,3,6th of October,Finished,No,Installment,5348000
+Townhouse,3.0,,202.3,Ground,Nasr City,Semi Finished,Yes,Cash,4638000
+Townhouse,5.0,5.0,233.6,Ground,New Cairo,Semi Finished,No,Cash,9421000
+Duplex,,5.0,285.2,,6th of October,Unfinished,No,Any,5432000
+Apartment,2.0,1.0,119.1,3,Hurghada,Finished,Yes,Cash,3186000
+Apartment,2.0,1.0,153.3,4,6th of October,Semi Finished,No,Any,2842000
+Penthouse,6.0,5.0,271.5,,Maadi,Semi Finished,No,Installment,7538000
+Townhouse,6.0,5.0,293.7,Ground,Sheikh Zayed,Finished,No,Installment,12386000
+Townhouse,4.0,4.0,281.9,Ground,Shorouk City,Finished,No,Cash,6532000
+Penthouse,,3.0,240.5,2,Shorouk City,Finished,No,Cash,5782000
+Duplex,4.0,4.0,328.4,,6th of October,Finished,Yes,Installment,10590000
+Apartment,1.0,1.0,108.8,6,Hurghada,Unfinished,No,Cash,1732000
+Apartment,3.0,2.0,165.0,3,New Cairo,Semi Finished,No,Cash,5474000
+Townhouse,5.0,5.0,289.7,Ground,New Cairo,Semi Finished,No,Cash,10489000
+Duplex,5.0,4.0,267.9,1,Shorouk City,Unfinished,No,Cash,4379000
+Apartment,1.0,2.0,120.3,3,Madinaty,Finished,No,Cash,3356000
+Apartment,,3.0,209.9,3,New Cairo,Core & Shell,No,Installment,5341000
+Duplex,4.0,4.0,228.4,2,Sheikh Zayed,Finished,No,Cash,8365000
+Apartment,4.0,,201.0,2,New Cairo,Core & Shell,No,Cash,5745000
+Apartment,3.0,3.0,183.4,5,Sheikh Zayed,Finished,Yes,Installment,7534000
+Villa,5.0,5.0,335.6,Ground,Shorouk City,Unfinished,No,Any,6218000
+Duplex,5.0,5.0,308.5,4,6th of October,Finished,No,Cash,9073000
+Duplex,4.0,4.0,194.5,2,Sheikh Zayed,Finished,No,Cash,8820000
+Apartment,2.0,1.0,143.7,2,Sheikh Zayed,Semi Finished,No,Installment,4983000
+Duplex,6.0,5.0,332.5,0,New Cairo,Finished,No,Any,14213000
+Apartment,3.0,2.0,163.0,2,Sheikh Zayed,Semi Finished,Yes,Installment,5845000
+Apartment,4.0,3.0,225.5,0,Nasr City,Finished,No,Installment,5240000
+Penthouse,3.0,2.0,246.1,1,Hurghada,Semi Finished,Yes,Cash,6326000
+Duplex,3.0,,181.5,2,Madinaty,Finished,No,Installment,5535000
+Chalet,2.0,1.0,120.0,6,New Cairo,Finished,Yes,Cash,4505000
+Duplex,3.0,3.0,209.9,2,Alexandria,Finished,No,Installment,6168000
+Villa,6.0,5.0,379.9,,Shorouk City,Finished,Yes,Installment,10690000
+Apartment,4.0,3.0,213.8,2,Shorouk City,Finished,No,Any,4356000
+Apartment,1.0,1.0,146.6,2,6th of October,Finished,No,Cash,3518000
+Apartment,3.0,3.0,128.2,2,Sheikh Zayed,,Yes,Cash,5237000
+Apartment,3.0,3.0,90.9,1,Sheikh Zayed,Finished,No,Installment,2849000
+Studio,1.0,,44.2,0,New Cairo,Semi Finished,No,Installment,1570000
+Apartment,3.0,2.0,207.9,3,New Cairo,Core & Shell,No,Installment,6445000
+Townhouse,5.0,5.0,282.6,Ground,New Cairo,Finished,Yes,Cash,14249000
+Duplex,5.0,4.0,283.0,3,6th of October,Semi Finished,No,Cash,7779000
+Penthouse,5.0,5.0,288.8,1,Shorouk City,Semi Finished,No,Installment,6093000
+Villa,6.0,5.0,426.5,Ground,6th of October,,No,Cash,13813000
+Villa,5.0,5.0,324.7,Ground,New Cairo,Semi Finished,No,Any,15216000
+Villa,6.0,5.0,464.9,Ground,North Coast,Finished,Yes,Installment,30961000
+Apartment,,3.0,126.3,1,North Coast,Semi Finished,No,Installment,3968000
+Penthouse,6.0,5.0,358.9,6,Shorouk City,Finished,No,Installment,9104000
+Apartment,4.0,3.0,208.2,4,Hurghada,Semi Finished,Yes,Installment,5259000
+Apartment,4.0,3.0,227.7,2,6th of October,Semi Finished,No,Cash,4368000
+Duplex,3.0,3.0,186.4,3,Hurghada,Finished,No,Any,5114000
+Apartment,,3.0,103.7,4,New Cairo,Finished,No,Cash,3835000
+Twin House,5.0,5.0,294.9,Ground,Sheikh Zayed,Unfinished,No,Installment,8687000
+Twin House,6.0,5.0,357.0,Ground,New Cairo,Finished,No,Cash,18152000
+Townhouse,4.0,4.0,218.2,Ground,New Cairo,Semi Finished,No,Installment,7610000
+Apartment,3.0,2.0,165.7,0,New Cairo,Core & Shell,No,Cash,4559000
+Apartment,3.0,2.0,152.4,1,Nasr City,,No,Cash,2807000
+Twin House,5.0,4.0,274.2,Ground,Shorouk City,Semi Finished,No,Any,6193000
+Apartment,3.0,2.0,199.4,5,6th of October,Semi Finished,No,Cash,4021000
+Twin House,5.0,5.0,343.3,Ground,New Cairo,Core & Shell,No,Installment,13370000
+Twin House,5.0,5.0,315.4,Ground,Madinaty,Finished,No,Any,14661000
+Chalet,1.0,1.0,89.2,1,Nasr City,Finished,No,Cash,2052000
+Apartment,1.0,2.0,119.0,,Sheikh Zayed,Finished,No,Installment,4070000
+Apartment,2.0,1.0,152.4,0,Maadi,Unfinished,No,Cash,3175000
+Chalet,3.0,2.0,158.0,0,Sheikh Zayed,Semi Finished,No,Cash,5361000
+Apartment,2.0,2.0,112.7,4,Sheikh Zayed,Finished,No,Installment,4240000
+Apartment,4.0,3.0,201.4,2,North Coast,Core & Shell,No,Any,7308000
+Villa,6.0,5.0,544.0,Ground,Sheikh Zayed,Finished,No,Cash,26221000
+Twin House,4.0,4.0,276.2,Ground,6th of October,Finished,No,Installment,9436000
+Duplex,4.0,3.0,193.6,1,Alexandria,Semi Finished,Yes,Installment,4607000
+Villa,6.0,5.0,388.5,Ground,Maadi,Finished,Yes,Any,17041000
+Apartment,,3.0,216.8,0,New Cairo,Core & Shell,No,Cash,6484000
+Duplex,5.0,4.0,334.5,0,New Cairo,Finished,No,Installment,12478000
+Studio,1.0,1.0,50.2,0,New Cairo,Core & Shell,No,Installment,1402000
+Apartment,2.0,1.0,201.8,1,Nasr City,Semi Finished,No,Installment,3200000
+Villa,6.0,5.0,390.6,Ground,6th of October,Finished,No,Any,13167000
+Townhouse,3.0,3.0,214.6,Ground,New Cairo,Unfinished,No,Any,6257000
+Penthouse,4.0,4.0,303.8,0,North Coast,Semi Finished,No,Cash,12622000
+Duplex,3.0,3.0,185.6,0,6th of October,Finished,No,Installment,5846000
+Duplex,6.0,5.0,334.1,4,New Cairo,Finished,No,Installment,12762000
+Apartment,2.0,1.0,103.6,1,6th of October,Core & Shell,No,Cash,1843000
+Apartment,3.0,3.0,186.4,0,Maadi,Finished,No,Installment,5459000
+Chalet,1.0,2.0,82.6,0,New Cairo,Finished,No,Installment,3249000
+Chalet,2.0,2.0,76.5,2,Sheikh Zayed,Finished,No,Installment,2780000
+Townhouse,3.0,3.0,237.2,Ground,Madinaty,Finished,No,Any,8826000
+Townhouse,5.0,5.0,280.4,Ground,6th of October,Semi Finished,No,Cash,7081000
+Villa,6.0,5.0,516.3,Ground,6th of October,Finished,No,Any,17759000
+Villa,6.0,,608.8,Ground,6th of October,Finished,No,Installment,17236000
+Penthouse,5.0,4.0,288.0,,New Cairo,Finished,No,Installment,9476000
+Duplex,4.0,4.0,284.7,6,New Cairo,Finished,Yes,Any,12096000
+Duplex,4.0,4.0,287.2,4,6th of October,Unfinished,Yes,Installment,6496000
+Penthouse,5.0,5.0,245.5,4,New Cairo,Finished,No,Installment,10957000
+Townhouse,4.0,3.0,271.6,Ground,New Cairo,Unfinished,No,Installment,7723000
+Apartment,3.0,3.0,203.0,3,Madinaty,Finished,No,Installment,6244000
+Apartment,3.0,2.0,139.7,5,Hurghada,Finished,Yes,Any,4242000
+Apartment,2.0,2.0,105.2,2,Shorouk City,Core & Shell,No,Any,1727000
+Villa,6.0,5.0,561.3,Ground,Madinaty,Finished,Yes,Cash,26042000
+Apartment,1.0,1.0,110.1,0,New Cairo,Semi Finished,No,Cash,3579000
+Villa,,5.0,495.3,Ground,Hurghada,Unfinished,No,Installment,10065000
+Villa,6.0,5.0,613.0,Ground,New Cairo,Finished,Yes,Cash,36148000
+Apartment,2.0,,174.4,4,North Coast,Finished,No,Installment,7860000
+Villa,5.0,5.0,352.8,Ground,Hurghada,Semi Finished,No,Cash,10040000
+Apartment,2.0,2.0,115.6,0,Maadi,Finished,No,Installment,3739000
+Apartment,4.0,3.0,215.3,7,Hurghada,Finished,No,Cash,4600000
+Chalet,3.0,3.0,140.8,0,6th of October,Finished,No,Cash,4019000
+Apartment,2.0,2.0,135.9,6,Sheikh Zayed,Finished,No,Installment,4449000
+Apartment,2.0,2.0,90.1,7,6th of October,Semi Finished,No,Installment,1786000
+Villa,,5.0,490.8,,Nasr City,Finished,No,Any,14138000
+Penthouse,5.0,5.0,340.0,2,New Cairo,Finished,Yes,Any,14952000
+Apartment,4.0,3.0,224.2,1,Nasr City,Semi Finished,No,Installment,3970000
+Duplex,3.0,3.0,199.1,3,Hurghada,Finished,No,Cash,5637000
+Apartment,3.0,,210.0,2,New Cairo,Finished,No,Any,7104000
+Apartment,2.0,1.0,142.8,0,Shorouk City,Semi Finished,No,Any,2436000
+Villa,,5.0,576.6,Ground,Alexandria,Finished,No,Any,20196000
+Villa,6.0,5.0,508.7,Ground,North Coast,Semi Finished,Yes,Cash,28335000
+Duplex,3.0,2.0,222.5,0,Hurghada,Core & Shell,No,Any,4703000
+Penthouse,5.0,4.0,373.4,1,6th of October,Finished,No,Cash,9389000
+Studio,1.0,1.0,60.5,,Hurghada,Semi Finished,No,Installment,1287000
+Villa,6.0,5.0,530.1,Ground,Shorouk City,Finished,No,Any,14006000
+Apartment,4.0,,203.1,3,New Cairo,Finished,Yes,Cash,7902000
+Penthouse,4.0,4.0,336.0,3,6th of October,Core & Shell,No,Any,7367000
+Apartment,1.0,1.0,95.7,0,Maadi,Core & Shell,No,Cash,1974000
+Apartment,3.0,2.0,112.8,3,New Cairo,Finished,No,Any,4800000
+Apartment,3.0,3.0,170.4,2,Nasr City,Semi Finished,No,Cash,3043000
+Apartment,3.0,3.0,204.3,4,Maadi,Unfinished,No,Any,4245000
+Twin House,5.0,4.0,291.6,,New Cairo,Unfinished,No,Cash,10405000
+Chalet,3.0,3.0,156.8,1,6th of October,Semi Finished,No,Installment,3073000
+Duplex,5.0,5.0,235.6,3,Shorouk City,Finished,No,Installment,5855000
+Apartment,2.0,1.0,171.0,3,6th of October,Finished,No,Installment,4228000
+Apartment,4.0,,226.0,2,New Cairo,Unfinished,Yes,Cash,6262000
+Apartment,3.0,,193.4,3,New Cairo,,Yes,Installment,7872000
+Apartment,3.0,3.0,145.9,,Sheikh Zayed,Semi Finished,No,Cash,4719000
+Villa,6.0,5.0,496.9,Ground,North Coast,Finished,No,Installment,28291000
+Duplex,4.0,4.0,297.6,4,New Cairo,Finished,No,Cash,13137000
+Duplex,4.0,4.0,227.5,5,Nasr City,Finished,No,Any,5278000
+Apartment,3.0,2.0,163.6,2,New Cairo,Unfinished,No,Cash,4379000
+Twin House,5.0,5.0,238.2,Ground,Sheikh Zayed,Finished,No,Cash,10542000
+Penthouse,5.0,4.0,312.7,,Madinaty,Semi Finished,Yes,Cash,11985000
+Villa,6.0,5.0,541.7,Ground,Maadi,Finished,Yes,Installment,20559000
+Duplex,4.0,4.0,254.7,1,New Cairo,Finished,No,Cash,9213000
+Apartment,2.0,2.0,93.8,,Sheikh Zayed,Finished,No,Installment,3530000
+Apartment,3.0,3.0,153.0,,New Cairo,Semi Finished,No,Any,5582000
+Apartment,1.0,1.0,126.9,3,6th of October,Finished,No,Installment,2940000
+Penthouse,4.0,3.0,222.2,5,Maadi,Finished,No,Installment,8090000
+Apartment,4.0,3.0,173.0,0,New Cairo,Finished,No,Cash,6685000
+Apartment,2.0,1.0,95.1,1,Sheikh Zayed,Finished,Yes,Installment,3666000
+Apartment,3.0,2.0,211.2,4,Sheikh Zayed,Unfinished,No,Cash,5065000
+Apartment,2.0,1.0,170.0,0,North Coast,Unfinished,No,Installment,5128000
+Chalet,3.0,2.0,98.4,3,Hurghada,Finished,No,Cash,2429000
+Duplex,4.0,3.0,335.1,2,New Cairo,Semi Finished,No,Installment,9729000
+Villa,5.0,4.0,321.4,Ground,Shorouk City,Core & Shell,No,Installment,7046000
+Apartment,3.0,2.0,190.0,5,Sheikh Zayed,Finished,Yes,Any,7203000
+Villa,6.0,5.0,568.3,Ground,Sheikh Zayed,Core & Shell,No,Cash,19482000
+Villa,6.0,5.0,602.6,Ground,Shorouk City,Unfinished,No,Installment,12906000
+Apartment,3.0,2.0,92.5,5,North Coast,Finished,No,Cash,3786000
+Apartment,1.0,1.0,96.7,2,North Coast,Finished,No,Installment,3923000
+Apartment,4.0,3.0,186.7,3,6th of October,Unfinished,Yes,Any,4394000
+Duplex,4.0,,262.8,0,Sheikh Zayed,Semi Finished,No,Installment,10159000
+Duplex,4.0,4.0,196.2,5,Shorouk City,Finished,Yes,Installment,5264000
+Apartment,2.0,,158.9,5,Sheikh Zayed,Finished,No,Any,5721000
+Apartment,3.0,3.0,208.4,0,6th of October,Finished,No,Installment,5597000
+Duplex,6.0,5.0,310.7,6,Sheikh Zayed,Semi Finished,No,Installment,10847000
+Villa,5.0,5.0,353.1,Ground,Nasr City,Semi Finished,No,Installment,8641000
+Chalet,2.0,1.0,144.6,6,New Cairo,Unfinished,No,Installment,4017000
+Duplex,5.0,5.0,189.7,2,New Cairo,Finished,Yes,Cash,8417000
+Apartment,1.0,1.0,136.9,1,North Coast,Semi Finished,No,Any,4635000
+Apartment,3.0,3.0,155.9,5,New Cairo,Semi Finished,No,Installment,5523000
+Duplex,,4.0,286.8,0,6th of October,Finished,No,Cash,8668000
+Apartment,3.0,2.0,209.7,4,New Cairo,Finished,No,Installment,8117000
+Villa,5.0,4.0,301.6,Ground,New Cairo,Unfinished,No,Installment,10780000
+Twin House,4.0,,250.2,Ground,New Cairo,Core & Shell,No,Cash,9472000
+Villa,6.0,5.0,528.7,Ground,New Cairo,Finished,No,Installment,23097000
+Apartment,2.0,1.0,114.6,2,Alexandria,Semi Finished,No,Any,2138000
+Duplex,5.0,5.0,304.2,0,Sheikh Zayed,Finished,No,Any,14346000
+Villa,6.0,5.0,607.3,Ground,North Coast,Semi Finished,No,Any,28443000
+Villa,6.0,5.0,503.8,Ground,Nasr City,Semi Finished,No,Any,12026000
+Twin House,5.0,5.0,283.4,Ground,6th of October,Semi Finished,No,Cash,7475000
+Apartment,4.0,3.0,224.4,2,Nasr City,Unfinished,Yes,Installment,3629000
+Twin House,5.0,5.0,289.5,Ground,6th of October,Semi Finished,No,Any,7940000
+Townhouse,4.0,4.0,222.4,Ground,Shorouk City,Finished,No,Installment,4921000
+Apartment,3.0,2.0,151.2,0,Sheikh Zayed,Semi Finished,No,Installment,4750000
+Apartment,3.0,3.0,132.7,6,Sheikh Zayed,Finished,No,Installment,4882000
+Apartment,3.0,3.0,199.6,,Alexandria,Finished,Yes,Installment,5274000
+Apartment,4.0,3.0,196.6,5,North Coast,Finished,No,Any,8351000
+Apartment,3.0,3.0,187.4,6,Alexandria,Finished,Yes,Installment,5003000
+Duplex,5.0,5.0,287.7,6,Sheikh Zayed,Semi Finished,Yes,Installment,11476000
+Apartment,,2.0,170.0,5,Shorouk City,Finished,No,Any,3647000
+Apartment,3.0,2.0,178.5,0,6th of October,Semi Finished,No,Installment,3847000
+Chalet,1.0,2.0,145.0,2,6th of October,Semi Finished,No,Cash,3114000
+Apartment,1.0,1.0,89.6,0,New Cairo,Finished,No,Installment,3288000
+Chalet,1.0,2.0,108.7,3,Nasr City,Core & Shell,No,Any,2014000
+Apartment,2.0,2.0,148.5,3,New Cairo,Finished,No,Installment,5665000
+Apartment,,2.0,117.6,4,Sheikh Zayed,,No,Installment,4358000
+Duplex,5.0,5.0,211.6,4,Madinaty,Semi Finished,No,Installment,6875000
+Duplex,4.0,3.0,195.9,4,New Cairo,Finished,No,Cash,8421000
+Townhouse,5.0,4.0,210.6,Ground,New Cairo,Finished,Yes,Any,9710000
+Penthouse,5.0,4.0,194.0,2,New Cairo,Semi Finished,No,Any,6961000
+Chalet,2.0,1.0,129.0,2,North Coast,Semi Finished,Yes,Cash,5741000
+Apartment,3.0,2.0,106.1,2,6th of October,Finished,No,Cash,2746000
+Apartment,4.0,3.0,163.9,1,Sheikh Zayed,Unfinished,No,Any,4556000
+Penthouse,6.0,5.0,279.9,2,Madinaty,Semi Finished,No,Any,8760000
+Chalet,2.0,2.0,136.6,4,Madinaty,Core & Shell,No,Any,3355000
+Studio,1.0,1.0,48.5,0,Sheikh Zayed,Finished,No,Any,1857000
+Apartment,3.0,3.0,169.8,7,Maadi,Semi Finished,No,Installment,4255000
+Apartment,3.0,2.0,97.6,3,Shorouk City,Core & Shell,Yes,Installment,1813000
+Penthouse,4.0,4.0,205.3,2,Nasr City,Semi Finished,No,Installment,4307000
+Apartment,2.0,1.0,95.6,5,New Cairo,Semi Finished,No,Cash,2888000
+Twin House,6.0,5.0,343.1,Ground,Alexandria,Finished,Yes,Installment,10851000
+Chalet,1.0,1.0,76.5,4,6th of October,Finished,No,Installment,1586000
+Apartment,3.0,3.0,150.4,0,Sheikh Zayed,Finished,No,Installment,5209000
+Penthouse,4.0,4.0,289.6,5,Sheikh Zayed,Finished,No,Installment,12331000
+Penthouse,6.0,,309.8,0,New Cairo,Core & Shell,Yes,Installment,11234000
+Apartment,2.0,1.0,118.5,2,New Cairo,Finished,No,Cash,4566000
+Townhouse,4.0,3.0,252.0,Ground,Shorouk City,Unfinished,No,Cash,4185000
+Villa,6.0,5.0,606.9,,New Cairo,Unfinished,No,Cash,18559000
+Chalet,3.0,2.0,102.5,3,Sheikh Zayed,Finished,Yes,Cash,3713000
+Apartment,3.0,2.0,227.5,,6th of October,Finished,No,Any,5617000
+Townhouse,5.0,5.0,228.7,Ground,New Cairo,Core & Shell,Yes,Cash,7870000
+Apartment,2.0,1.0,132.7,1,Hurghada,Unfinished,No,Cash,2053000
+Apartment,3.0,3.0,161.1,3,New Cairo,Finished,Yes,Installment,6214000
+Townhouse,3.0,2.0,236.9,Ground,Sheikh Zayed,Finished,No,Installment,9222000
+Apartment,2.0,2.0,144.0,3,Sheikh Zayed,Semi Finished,No,Cash,4577000
+Apartment,2.0,1.0,91.0,2,New Cairo,Semi Finished,Yes,Installment,3172000
+Twin House,5.0,4.0,249.4,Ground,New Cairo,Finished,No,Installment,13620000
+Twin House,5.0,5.0,330.3,Ground,Maadi,Semi Finished,No,Cash,11042000
+Villa,6.0,5.0,598.3,,Hurghada,Finished,No,Cash,21033000
+Duplex,6.0,5.0,337.7,1,New Cairo,Finished,No,Any,13727000
+Apartment,3.0,3.0,152.1,2,Maadi,Finished,No,Any,4594000
+Apartment,3.0,3.0,227.5,0,Shorouk City,Finished,No,Installment,4762000
+Apartment,4.0,3.0,155.3,7,Madinaty,Finished,No,Cash,5642000
+Duplex,5.0,5.0,243.4,1,Sheikh Zayed,Finished,No,Installment,9967000
+Penthouse,6.0,5.0,335.9,3,Sheikh Zayed,Finished,No,Installment,13365000
+Penthouse,5.0,5.0,287.7,5,Sheikh Zayed,Finished,No,Cash,12923000
+Penthouse,6.0,5.0,291.8,2,Maadi,Finished,No,Installment,10793000
+Apartment,3.0,3.0,197.8,2,Madinaty,Unfinished,No,Installment,4727000
+Villa,6.0,5.0,462.5,Ground,New Cairo,Finished,No,Cash,22139000
+Apartment,2.0,1.0,125.1,5,Sheikh Zayed,Finished,Yes,Installment,4710000
+Villa,6.0,5.0,542.9,Ground,Alexandria,Semi Finished,No,Any,14462000
+Apartment,2.0,,124.6,3,Madinaty,Unfinished,Yes,Cash,3482000
+Townhouse,5.0,4.0,291.0,Ground,Hurghada,Finished,Yes,Any,9673000
+Apartment,3.0,3.0,133.5,5,Shorouk City,,No,Cash,2274000
+Apartment,3.0,3.0,163.6,2,Sheikh Zayed,Semi Finished,No,Any,5150000
+Apartment,3.0,3.0,206.2,1,Nasr City,Semi Finished,Yes,Cash,4102000
+Penthouse,4.0,4.0,291.8,0,Maadi,Finished,No,Cash,10592000
+Duplex,5.0,5.0,268.5,2,New Cairo,Semi Finished,No,Installment,9388000
+Apartment,1.0,2.0,90.3,2,6th of October,Finished,No,Installment,2309000
+Apartment,4.0,3.0,211.5,4,Maadi,Semi Finished,No,Any,5466000
+Duplex,4.0,3.0,206.9,6,New Cairo,Semi Finished,No,Installment,7341000
+Apartment,3.0,,138.9,4,Shorouk City,Finished,No,Cash,2738000
+Chalet,1.0,1.0,97.2,1,Nasr City,Core & Shell,No,Installment,1683000
+Duplex,6.0,5.0,283.0,3,North Coast,Finished,No,Installment,14652000
+Apartment,3.0,2.0,158.4,1,New Cairo,,No,Cash,4622000
+Apartment,2.0,1.0,93.1,3,Sheikh Zayed,Finished,No,Installment,3447000
+Studio,1.0,1.0,44.7,6,Nasr City,Finished,No,Installment,897000
+Apartment,3.0,2.0,214.7,3,Sheikh Zayed,Finished,Yes,Any,8305000
+Apartment,3.0,3.0,121.4,3,Maadi,Unfinished,No,Any,2557000
+Chalet,3.0,3.0,116.8,7,Shorouk City,Finished,No,Cash,2691000
+Twin House,3.0,2.0,232.4,Ground,New Cairo,Finished,No,Installment,13063000
+Studio,1.0,1.0,70.4,2,6th of October,Finished,No,Installment,1752000
+Penthouse,6.0,5.0,343.1,2,6th of October,Semi Finished,No,Installment,8779000
+Apartment,3.0,2.0,151.3,7,Sheikh Zayed,Semi Finished,Yes,Installment,4880000
+Apartment,3.0,2.0,161.4,4,North Coast,Finished,No,Any,6492000
+Penthouse,5.0,4.0,288.2,0,Madinaty,Finished,Yes,Installment,12645000
+Villa,5.0,4.0,306.1,Ground,Maadi,Finished,No,Any,12167000
+Apartment,2.0,2.0,136.2,,Maadi,Finished,No,Any,4001000
+Townhouse,5.0,4.0,261.7,Ground,6th of October,Finished,No,Any,8006000
+Apartment,1.0,1.0,123.4,5,North Coast,Semi Finished,Yes,Any,4863000
+Villa,6.0,,455.6,Ground,Maadi,Finished,No,Installment,19029000
+Apartment,2.0,2.0,163.0,2,Maadi,Finished,No,Cash,5251000
+Villa,6.0,5.0,535.8,Ground,Alexandria,Finished,Yes,Installment,16021000
+Apartment,1.0,1.0,127.0,4,Sheikh Zayed,Unfinished,No,Cash,3079000
+Apartment,3.0,3.0,127.1,7,Madinaty,Unfinished,No,Installment,2856000
+Apartment,2.0,2.0,121.9,1,New Cairo,,Yes,Installment,3528000
+Duplex,4.0,4.0,251.5,3,Sheikh Zayed,Finished,No,Installment,11964000
+Penthouse,3.0,3.0,253.7,1,Sheikh Zayed,Finished,No,Any,9486000
+Villa,6.0,5.0,477.7,Ground,Hurghada,Finished,No,Any,15745000
+Twin House,5.0,5.0,334.5,Ground,Madinaty,Finished,No,Cash,13917000
+Apartment,3.0,2.0,186.7,4,Maadi,Semi Finished,No,Installment,5125000
+Apartment,2.0,1.0,110.4,2,Maadi,Semi Finished,No,Installment,2857000
+Townhouse,5.0,5.0,295.8,Ground,6th of October,Core & Shell,No,Installment,5839000
+Apartment,4.0,3.0,228.4,5,North Coast,Core & Shell,No,Installment,7951000
+Twin House,4.0,3.0,255.5,Ground,6th of October,Finished,Yes,Installment,9780000
+Apartment,,3.0,158.1,5,Sheikh Zayed,Semi Finished,Yes,Installment,5675000
+Twin House,4.0,3.0,246.0,Ground,New Cairo,Finished,No,Any,10570000
+Apartment,2.0,1.0,91.2,0,Shorouk City,Finished,No,Any,1751000
+Townhouse,4.0,3.0,249.9,Ground,Maadi,Semi Finished,Yes,Cash,7730000
+Villa,6.0,5.0,571.0,Ground,Sheikh Zayed,Finished,No,Installment,27209000
+Studio,1.0,1.0,41.2,5,New Cairo,Finished,No,Installment,1635000
+Apartment,2.0,1.0,114.0,2,Madinaty,Finished,Yes,Cash,4004000
+Villa,6.0,5.0,326.4,Ground,New Cairo,Semi Finished,No,Cash,14729000
+Twin House,5.0,5.0,319.0,Ground,Maadi,Semi Finished,No,Installment,10699000
+Villa,5.0,5.0,356.0,Ground,Hurghada,Finished,No,Installment,11426000
+Duplex,3.0,3.0,202.0,1,6th of October,Core & Shell,No,Cash,4669000
+Duplex,4.0,4.0,252.4,0,New Cairo,Finished,No,Installment,11214000
+Villa,6.0,5.0,390.1,Ground,Maadi,Finished,No,Installment,13445000
+Duplex,4.0,4.0,198.9,4,Madinaty,Semi Finished,No,Cash,7030000
+Villa,6.0,5.0,479.5,Ground,6th of October,Semi Finished,No,Cash,13082000
+Townhouse,3.0,2.0,261.4,Ground,Hurghada,Unfinished,Yes,Any,6153000
+Apartment,2.0,1.0,151.4,0,New Cairo,Finished,Yes,Cash,7529000
+Apartment,1.0,2.0,134.0,4,6th of October,Semi Finished,No,Any,2756000
+Twin House,6.0,5.0,339.1,Ground,Maadi,Semi Finished,Yes,Installment,11266000
+Townhouse,4.0,4.0,214.9,Ground,Alexandria,Core & Shell,Yes,Cash,5006000
+Villa,6.0,5.0,649.4,Ground,New Cairo,Finished,No,Cash,26957000
+Duplex,4.0,3.0,271.4,2,Madinaty,Semi Finished,No,Cash,8088000
+Apartment,3.0,3.0,170.7,,6th of October,Semi Finished,No,Cash,3247000
+Apartment,3.0,3.0,158.0,0,Sheikh Zayed,Finished,No,Cash,6393000
+Villa,6.0,5.0,434.7,Ground,New Cairo,Finished,No,Installment,19808000
+Apartment,4.0,3.0,172.4,1,Alexandria,Finished,No,Cash,3654000
+Villa,5.0,5.0,357.0,Ground,New Cairo,Semi Finished,No,Installment,13257000
+Apartment,3.0,2.0,185.8,2,Sheikh Zayed,Core & Shell,No,Installment,5208000
+Studio,1.0,1.0,74.7,2,Sheikh Zayed,Semi Finished,Yes,Cash,2457000
+Studio,1.0,1.0,67.8,4,Alexandria,Semi Finished,No,Cash,1501000
+Duplex,,5.0,286.8,3,Maadi,Semi Finished,No,Cash,8067000
+Villa,6.0,5.0,565.4,Ground,Shorouk City,Finished,No,Cash,13472000
+Apartment,2.0,1.0,92.4,2,Sheikh Zayed,Finished,No,Installment,3440000
+Chalet,1.0,1.0,77.5,1,Nasr City,Finished,Yes,Cash,2097000
+Duplex,5.0,5.0,270.5,,6th of October,Finished,No,Installment,8314000
+Apartment,3.0,3.0,208.1,1,Madinaty,Finished,No,Installment,6615000
+Townhouse,4.0,3.0,282.6,Ground,Alexandria,Semi Finished,No,Installment,6334000
+Chalet,2.0,1.0,79.0,3,New Cairo,Finished,No,Installment,2961000
+Twin House,5.0,4.0,293.4,Ground,Maadi,Finished,No,Installment,11698000
+Penthouse,6.0,5.0,343.4,5,New Cairo,Finished,No,Cash,15414000
+Duplex,4.0,4.0,246.4,1,6th of October,Finished,Yes,Cash,8475000
+Apartment,2.0,1.0,169.5,2,Sheikh Zayed,Unfinished,No,Installment,4385000
+Twin House,6.0,5.0,294.4,Ground,Sheikh Zayed,Core & Shell,No,Cash,12342000
+Townhouse,,4.0,216.8,Ground,Sheikh Zayed,Semi Finished,No,Installment,7519000
+Apartment,1.0,1.0,148.6,0,Nasr City,Finished,No,Installment,3025000
+Apartment,2.0,2.0,185.3,0,Sheikh Zayed,Semi Finished,No,Installment,5435000
+Apartment,,3.0,222.0,3,Maadi,Core & Shell,No,Installment,4919000
+Chalet,1.0,1.0,100.8,3,Sheikh Zayed,Semi Finished,No,Installment,3005000
+Studio,1.0,1.0,56.4,2,New Cairo,Finished,No,Installment,2064000
+Apartment,3.0,2.0,99.5,,Shorouk City,Semi Finished,Yes,Installment,2047000
+Villa,6.0,5.0,420.0,Ground,Sheikh Zayed,Core & Shell,No,Installment,12682000
+Apartment,,2.0,171.0,3,6th of October,Semi Finished,Yes,Installment,3696000
+Twin House,4.0,4.0,317.0,Ground,Maadi,Semi Finished,Yes,Any,12587000
+Chalet,1.0,1.0,149.5,,Sheikh Zayed,Finished,No,Installment,5256000
+Chalet,1.0,2.0,83.2,5,New Cairo,Semi Finished,No,Installment,2747000
+Villa,6.0,5.0,613.0,Ground,Sheikh Zayed,Finished,No,Installment,30896000
+Apartment,2.0,2.0,167.5,3,North Coast,Semi Finished,Yes,Installment,6276000
+Apartment,3.0,3.0,177.9,2,Nasr City,Finished,No,Cash,3740000
+Apartment,3.0,3.0,123.7,,Maadi,Finished,No,Any,3719000
+Townhouse,3.0,3.0,203.3,Ground,Nasr City,Finished,Yes,Cash,5766000
+Chalet,2.0,2.0,143.7,4,New Cairo,Semi Finished,No,Installment,5080000
+Studio,1.0,1.0,75.0,4,Sheikh Zayed,Finished,No,Installment,2529000
+Studio,1.0,1.0,66.7,,Shorouk City,Semi Finished,No,Any,1219000
+Villa,6.0,5.0,597.8,Ground,New Cairo,Semi Finished,No,Cash,23278000
+Penthouse,5.0,,285.7,3,Sheikh Zayed,,Yes,Installment,12302000
+Twin House,5.0,5.0,287.4,Ground,Sheikh Zayed,Finished,No,Installment,12537000
+Chalet,2.0,1.0,114.4,0,6th of October,Finished,No,Cash,2867000
+Apartment,2.0,1.0,199.0,4,Hurghada,Core & Shell,Yes,Cash,3820000
+Villa,,5.0,406.8,Ground,New Cairo,Semi Finished,No,Installment,15373000
+Apartment,2.0,,160.9,1,6th of October,Finished,Yes,Installment,3954000
+Twin House,5.0,5.0,330.7,Ground,New Cairo,Finished,Yes,Cash,17091000
+Duplex,3.0,3.0,261.7,7,Hurghada,Semi Finished,No,Installment,7291000
+Apartment,2.0,1.0,95.6,1,New Cairo,Core & Shell,No,Installment,3000000
+Duplex,4.0,4.0,326.1,3,Sheikh Zayed,Core & Shell,No,Installment,9838000
+Duplex,5.0,5.0,263.5,2,Maadi,Semi Finished,No,Any,8430000
+Apartment,,1.0,195.7,5,Maadi,Finished,No,Installment,5415000
+Apartment,4.0,3.0,162.6,3,Sheikh Zayed,Finished,No,Any,6484000
+Duplex,3.0,3.0,195.6,5,Sheikh Zayed,Finished,No,Any,8087000
+Villa,6.0,5.0,628.6,Ground,Sheikh Zayed,,Yes,Cash,31816000
+Penthouse,6.0,5.0,347.7,3,Sheikh Zayed,Finished,No,Cash,13252000
+Villa,6.0,5.0,621.1,Ground,New Cairo,Finished,No,Installment,24983000
+Chalet,2.0,1.0,122.0,7,6th of October,Finished,No,Installment,2801000
+Villa,6.0,,490.2,Ground,Sheikh Zayed,Unfinished,Yes,Installment,17291000
+Villa,6.0,,582.8,Ground,Sheikh Zayed,Semi Finished,No,Installment,22358000
+Townhouse,3.0,3.0,232.6,Ground,Nasr City,Core & Shell,Yes,Installment,5199000
+Apartment,4.0,3.0,178.0,1,Hurghada,Semi Finished,No,Installment,3844000
+Apartment,3.0,3.0,201.0,5,Nasr City,Finished,No,Cash,4078000
+Apartment,3.0,2.0,177.3,3,New Cairo,Semi Finished,No,Any,6594000
+Penthouse,3.0,3.0,234.4,3,New Cairo,Finished,No,Cash,10841000
+Duplex,4.0,4.0,240.0,3,North Coast,Semi Finished,No,Any,9305000
+Duplex,5.0,4.0,237.0,5,Sheikh Zayed,Finished,No,Cash,9766000
+Apartment,3.0,3.0,162.8,5,New Cairo,Unfinished,No,Any,4545000
+Apartment,4.0,3.0,188.9,5,Nasr City,Finished,Yes,Cash,5095000
+Apartment,2.0,2.0,132.2,1,Nasr City,Finished,No,Cash,3160000
+Apartment,3.0,3.0,175.7,2,Nasr City,Unfinished,Yes,Cash,2973000
+Villa,6.0,5.0,528.8,Ground,Sheikh Zayed,Finished,No,Installment,22318000
+Apartment,4.0,3.0,220.0,7,New Cairo,Semi Finished,No,Any,6528000
+Apartment,1.0,2.0,86.8,0,Hurghada,Semi Finished,No,Installment,2001000
+Townhouse,4.0,4.0,228.0,Ground,Sheikh Zayed,Core & Shell,No,Any,7664000
+Apartment,,2.0,92.3,3,Maadi,Unfinished,No,Installment,2199000
+Villa,6.0,5.0,525.5,Ground,Maadi,Unfinished,No,Installment,13305000
+Penthouse,6.0,5.0,368.1,3,Nasr City,Finished,No,Any,9233000
+Apartment,2.0,1.0,206.0,2,Sheikh Zayed,Core & Shell,No,Cash,5596000
+Duplex,3.0,3.0,243.0,4,Sheikh Zayed,Semi Finished,No,Installment,8062000
+Townhouse,5.0,5.0,300.1,Ground,Nasr City,Semi Finished,Yes,Any,7498000
+Twin House,4.0,3.0,231.6,Ground,Alexandria,Finished,No,Any,6447000
+Apartment,4.0,3.0,218.1,3,North Coast,Semi Finished,No,Any,7731000
+Twin House,6.0,5.0,271.5,Ground,New Cairo,Unfinished,No,Any,9993000
+Villa,5.0,4.0,347.7,,New Cairo,Core & Shell,No,Cash,13013000
+Apartment,1.0,2.0,143.2,4,North Coast,Finished,No,Any,5924000
+Villa,6.0,5.0,470.6,Ground,Maadi,Finished,No,Installment,18940000
+Studio,1.0,1.0,69.0,1,Alexandria,Finished,No,Any,1697000
+Villa,6.0,5.0,611.1,Ground,New Cairo,Core & Shell,No,Installment,20627000
+Apartment,2.0,2.0,121.5,0,Nasr City,Semi Finished,No,Installment,2434000
+Duplex,4.0,3.0,312.2,6,Maadi,Finished,No,Installment,8859000
+Apartment,3.0,3.0,201.3,3,Maadi,Finished,No,Cash,5500000
+Apartment,3.0,2.0,107.2,6,Sheikh Zayed,Finished,Yes,Cash,4684000
+Apartment,2.0,1.0,126.3,4,New Cairo,Finished,No,Any,4322000
+Apartment,4.0,,165.7,4,Nasr City,Unfinished,No,Any,2641000
+Apartment,2.0,1.0,143.1,1,Sheikh Zayed,Semi Finished,Yes,Cash,4928000
+Apartment,3.0,3.0,184.5,6,6th of October,Finished,Yes,Installment,5817000
+Duplex,5.0,5.0,191.0,3,North Coast,Semi Finished,No,Installment,8775000
+Apartment,4.0,3.0,227.0,,Sheikh Zayed,Finished,No,Installment,8192000
+Apartment,3.0,2.0,171.6,2,Madinaty,Unfinished,Yes,Cash,3895000
+Townhouse,4.0,4.0,237.4,Ground,New Cairo,Finished,No,Any,8952000
+Villa,6.0,5.0,646.0,Ground,Maadi,Finished,Yes,Installment,28467000
+Duplex,5.0,5.0,256.3,4,Hurghada,Finished,No,Installment,6997000
+Apartment,3.0,2.0,203.5,5,New Cairo,Semi Finished,No,Installment,6431000
+Apartment,4.0,3.0,177.6,4,New Cairo,Semi Finished,No,Cash,5950000
+Apartment,2.0,1.0,95.1,4,6th of October,Semi Finished,No,Installment,2208000
+Apartment,4.0,3.0,164.2,3,New Cairo,Finished,Yes,Cash,7200000
+Apartment,3.0,3.0,189.8,5,Shorouk City,Finished,Yes,Cash,3996000
+Apartment,2.0,2.0,96.2,2,North Coast,Finished,No,Installment,4199000
+Apartment,2.0,2.0,144.1,,6th of October,Semi Finished,No,Any,2710000
+Apartment,1.0,2.0,88.8,7,Sheikh Zayed,Finished,Yes,Installment,3283000
+Villa,6.0,5.0,628.5,Ground,6th of October,Semi Finished,No,Cash,18640000
+Apartment,3.0,2.0,196.0,1,Maadi,Core & Shell,No,Installment,4774000
+Apartment,4.0,3.0,214.6,0,New Cairo,Core & Shell,No,Any,5879000
+Villa,5.0,5.0,319.9,Ground,Nasr City,Finished,No,Installment,9421000
+Duplex,4.0,3.0,200.9,,Nasr City,Finished,No,Any,5560000
+Apartment,2.0,2.0,159.6,6,Nasr City,Finished,No,Installment,3409000
+Penthouse,5.0,4.0,361.4,3,New Cairo,Semi Finished,No,Installment,12443000
+Duplex,5.0,5.0,275.4,0,Maadi,Core & Shell,Yes,Cash,8623000
+Apartment,3.0,2.0,182.3,0,New Cairo,Finished,No,Cash,7174000
+Townhouse,5.0,5.0,297.0,Ground,New Cairo,Finished,No,Installment,13720000
+Twin House,6.0,5.0,349.4,Ground,Alexandria,Core & Shell,No,Installment,8062000
+Apartment,4.0,3.0,216.6,4,Maadi,Core & Shell,No,Any,4775000
+Apartment,2.0,1.0,118.8,1,New Cairo,Finished,No,Any,4094000
+Chalet,3.0,3.0,110.8,5,New Cairo,Semi Finished,No,Cash,3554000
+Penthouse,5.0,4.0,299.4,4,New Cairo,Finished,No,Cash,12272000
+Apartment,4.0,3.0,193.9,1,Sheikh Zayed,Finished,No,Installment,6535000
+Apartment,2.0,1.0,126.9,0,New Cairo,Core & Shell,No,Cash,3630000
+Apartment,1.0,2.0,89.6,4,New Cairo,Core & Shell,No,Installment,2434000
+Villa,5.0,,401.9,Ground,6th of October,Semi Finished,No,Any,11161000
+Duplex,4.0,4.0,299.5,7,Maadi,Finished,No,Any,11013000
+Apartment,2.0,2.0,123.4,,Nasr City,Core & Shell,No,Installment,2216000
+Villa,6.0,5.0,538.3,Ground,Maadi,Finished,No,Any,19323000
+Penthouse,5.0,5.0,257.0,3,New Cairo,Finished,Yes,Installment,13144000
+Apartment,4.0,3.0,186.9,2,North Coast,Semi Finished,Yes,Cash,7752000
+Apartment,3.0,2.0,191.0,3,Madinaty,,No,Installment,6290000
+Duplex,6.0,,320.2,2,Madinaty,Semi Finished,No,Installment,10367000
+Townhouse,5.0,5.0,281.4,Ground,Madinaty,Semi Finished,No,Installment,8834000
+Villa,6.0,5.0,497.9,Ground,North Coast,Finished,Yes,Cash,30282000
+Villa,6.0,5.0,450.2,Ground,6th of October,Finished,No,Installment,16226000
+Apartment,3.0,3.0,121.1,5,New Cairo,Finished,No,Installment,4529000
+Apartment,1.0,,88.8,1,Nasr City,Finished,No,Any,1929000
+Villa,6.0,5.0,555.2,Ground,Shorouk City,Semi Finished,No,Installment,11188000
+Apartment,2.0,1.0,100.9,4,Maadi,Core & Shell,Yes,Installment,2408000
+Apartment,3.0,2.0,203.6,3,6th of October,Finished,No,Installment,4994000
+Apartment,2.0,2.0,184.3,6,New Cairo,Finished,No,Cash,6442000
+Apartment,3.0,3.0,202.9,6,Sheikh Zayed,Semi Finished,No,Installment,6619000
+Apartment,1.0,2.0,86.4,4,North Coast,Core & Shell,No,Any,2711000
+Apartment,4.0,3.0,199.4,1,Nasr City,Finished,No,Installment,4593000
+Apartment,2.0,2.0,97.1,5,6th of October,Finished,No,Any,2808000
+Apartment,3.0,2.0,187.6,,Sheikh Zayed,Semi Finished,Yes,Cash,6207000
+Townhouse,3.0,3.0,203.4,Ground,Sheikh Zayed,Finished,No,Cash,7707000
+Villa,6.0,5.0,446.5,Ground,Alexandria,Finished,No,Any,12768000
+Duplex,4.0,3.0,330.9,0,Maadi,Semi Finished,Yes,Any,10420000
+Penthouse,5.0,4.0,357.6,2,Shorouk City,Semi Finished,No,Any,6796000
+Villa,5.0,5.0,324.8,Ground,6th of October,Semi Finished,No,Installment,9986000
+Apartment,3.0,2.0,218.7,4,Nasr City,Semi Finished,No,Any,3644000
+Villa,6.0,5.0,565.7,Ground,New Cairo,Semi Finished,Yes,Any,24918000
+Villa,6.0,5.0,431.7,Ground,Maadi,Finished,No,Any,17909000
+Penthouse,4.0,4.0,254.5,4,Sheikh Zayed,Finished,Yes,Installment,10887000
+Apartment,4.0,3.0,218.1,4,6th of October,Finished,Yes,Installment,5758000
+Apartment,1.0,,98.9,5,Nasr City,Finished,No,Any,2145000
+Apartment,2.0,2.0,130.4,5,North Coast,Semi Finished,No,Installment,4233000
+Apartment,1.0,1.0,102.0,,New Cairo,Core & Shell,No,Installment,3040000
+Duplex,4.0,4.0,268.3,1,Madinaty,Unfinished,No,Installment,7533000
+Villa,6.0,5.0,492.8,Ground,Sheikh Zayed,Semi Finished,Yes,Installment,24502000
+Apartment,2.0,2.0,99.0,7,6th of October,Finished,Yes,Installment,2907000
+Studio,1.0,1.0,62.5,0,New Cairo,Finished,No,Cash,2368000
+Duplex,5.0,4.0,339.5,1,Sheikh Zayed,Core & Shell,No,Any,11950000
+Apartment,2.0,1.0,148.3,,6th of October,Semi Finished,No,Installment,2754000
+Apartment,,3.0,224.1,1,New Cairo,Semi Finished,No,Installment,6872000
+Apartment,2.0,2.0,115.5,0,6th of October,Semi Finished,No,Cash,2528000
+Apartment,2.0,1.0,102.7,3,North Coast,Semi Finished,No,Cash,3074000
+Apartment,1.0,2.0,101.2,,New Cairo,Core & Shell,No,Cash,2546000
+Apartment,1.0,1.0,119.0,3,Shorouk City,Finished,No,Installment,2221000
+Apartment,3.0,3.0,183.6,0,Sheikh Zayed,Semi Finished,No,Cash,6220000
+Apartment,1.0,2.0,112.9,4,Nasr City,Core & Shell,Yes,Any,1998000
+Townhouse,3.0,3.0,232.8,Ground,Sheikh Zayed,Finished,Yes,Cash,10657000
+Apartment,1.0,2.0,122.4,1,New Cairo,Semi Finished,No,Cash,3493000
+Villa,6.0,5.0,580.9,Ground,New Cairo,Finished,No,Cash,27929000
+Apartment,4.0,3.0,156.8,3,New Cairo,Unfinished,No,Cash,4175000
+Studio,1.0,1.0,52.8,0,New Cairo,Finished,No,Installment,2058000
+Apartment,3.0,3.0,170.4,0,Maadi,Semi Finished,No,Any,3954000
+Apartment,2.0,2.0,181.0,1,Alexandria,Finished,No,Installment,4058000
+Twin House,6.0,5.0,267.9,Ground,Madinaty,Semi Finished,No,Cash,9890000
+Townhouse,5.0,5.0,210.1,Ground,Maadi,Finished,No,Cash,7110000
+Chalet,2.0,1.0,93.1,4,New Cairo,Finished,No,Installment,3143000
+Apartment,2.0,2.0,90.1,2,Sheikh Zayed,Finished,No,Any,3037000
+Apartment,3.0,2.0,216.6,0,Sheikh Zayed,Core & Shell,No,Cash,5032000
+Duplex,4.0,4.0,208.9,4,New Cairo,Finished,Yes,Installment,9999000
+Twin House,5.0,4.0,275.4,Ground,6th of October,,No,Installment,9006000
+Villa,6.0,5.0,599.0,Ground,6th of October,Semi Finished,No,Cash,15383000
+Villa,6.0,5.0,439.2,Ground,Sheikh Zayed,Semi Finished,No,Installment,16082000
+Apartment,2.0,1.0,123.4,0,Sheikh Zayed,Core & Shell,Yes,Cash,3557000
+Penthouse,5.0,5.0,367.5,1,Madinaty,Finished,No,Installment,13145000
+Apartment,3.0,2.0,206.3,,Shorouk City,Semi Finished,No,Cash,3652000
+Apartment,3.0,3.0,204.2,6,Sheikh Zayed,Finished,Yes,Installment,7871000
+Apartment,2.0,1.0,87.1,5,North Coast,Finished,No,Cash,3288000
+Villa,6.0,5.0,415.3,Ground,North Coast,Semi Finished,No,Any,20725000
+Apartment,1.0,1.0,88.7,2,Sheikh Zayed,Semi Finished,No,Cash,2589000
+Apartment,2.0,2.0,110.0,,Sheikh Zayed,Semi Finished,No,Any,3555000
+Duplex,3.0,3.0,202.7,1,6th of October,Finished,No,Any,5003000
+Apartment,3.0,3.0,183.5,6,North Coast,,No,Any,7563000
+Villa,5.0,4.0,411.8,Ground,Alexandria,Finished,No,Installment,11721000
+Apartment,3.0,3.0,195.2,0,New Cairo,Unfinished,No,Installment,5593000
+Villa,6.0,,500.8,Ground,Sheikh Zayed,Finished,No,Installment,24093000
+Villa,6.0,5.0,426.5,Ground,6th of October,Finished,No,Cash,15256000
+Apartment,3.0,3.0,213.2,3,6th of October,Finished,No,Installment,4910000
+Apartment,4.0,3.0,186.6,5,New Cairo,Semi Finished,Yes,Cash,6464000
+Apartment,,3.0,180.3,3,Madinaty,Finished,No,Any,5760000
+Apartment,3.0,3.0,161.2,1,Maadi,Core & Shell,No,Cash,3848000
+Studio,1.0,1.0,61.3,2,Madinaty,Finished,No,Installment,2224000
+Apartment,4.0,3.0,224.9,0,Madinaty,Core & Shell,No,Installment,6315000
+Chalet,3.0,2.0,137.1,0,Shorouk City,Finished,No,Installment,3045000
+Apartment,2.0,2.0,153.5,,6th of October,Semi Finished,No,Installment,3015000
+Duplex,5.0,5.0,263.5,2,Nasr City,Core & Shell,No,Cash,5290000
+Penthouse,6.0,5.0,264.4,3,New Cairo,Finished,No,Installment,13063000
+Villa,6.0,5.0,338.7,Ground,Maadi,Unfinished,No,Cash,9259000
+Villa,6.0,5.0,476.9,Ground,New Cairo,Finished,No,Any,24297000
+Apartment,3.0,3.0,151.7,2,Maadi,Unfinished,No,Installment,3175000
+Apartment,3.0,2.0,193.8,4,New Cairo,Semi Finished,No,Any,5239000
+Twin House,5.0,5.0,244.2,Ground,New Cairo,Finished,No,Cash,13520000
+Chalet,2.0,,147.7,6,New Cairo,Finished,No,Cash,5541000
+Twin House,5.0,5.0,329.4,Ground,New Cairo,Finished,No,Cash,14830000
+Apartment,3.0,3.0,175.6,4,Maadi,Finished,No,Cash,5094000
+Penthouse,3.0,3.0,258.9,1,Maadi,Finished,No,Cash,8572000
+Twin House,4.0,4.0,236.9,Ground,6th of October,Finished,Yes,Installment,8558000
+Apartment,4.0,3.0,167.9,5,New Cairo,Finished,No,Cash,6292000
+Apartment,2.0,1.0,110.5,4,New Cairo,,No,Installment,3495000
+Penthouse,3.0,2.0,237.1,4,New Cairo,Finished,Yes,Any,10410000
+Villa,6.0,5.0,592.9,Ground,New Cairo,Finished,No,Installment,29869000
+Chalet,2.0,2.0,95.3,2,Alexandria,Semi Finished,No,Installment,2003000
+Apartment,4.0,3.0,212.6,2,New Cairo,Finished,No,Installment,8637000
+Penthouse,4.0,4.0,312.6,0,Sheikh Zayed,Finished,No,Installment,12604000
+Apartment,,2.0,197.9,4,New Cairo,Finished,No,Cash,6518000
+Apartment,3.0,3.0,134.0,5,New Cairo,Unfinished,No,Installment,3475000
+Apartment,4.0,,220.9,1,6th of October,Core & Shell,No,Installment,4431000
+Chalet,2.0,2.0,91.3,,Nasr City,Finished,No,Any,2242000
+Duplex,5.0,4.0,322.2,2,New Cairo,Semi Finished,Yes,Installment,12996000
+Villa,6.0,5.0,617.7,Ground,New Cairo,Semi Finished,No,Installment,25474000
+Apartment,3.0,3.0,154.2,6,Sheikh Zayed,Semi Finished,No,Installment,4747000
+Townhouse,5.0,4.0,223.1,Ground,New Cairo,,No,Cash,7587000
+Apartment,2.0,2.0,154.4,4,New Cairo,Semi Finished,No,Installment,5116000
+Chalet,3.0,3.0,157.8,1,North Coast,Finished,Yes,Installment,7318000
+Apartment,3.0,,169.8,0,Nasr City,Finished,No,Cash,3546000
+Apartment,3.0,3.0,163.6,2,6th of October,Finished,No,Cash,3915000
+Villa,6.0,5.0,447.4,Ground,Sheikh Zayed,Core & Shell,No,Cash,16234000
+Apartment,2.0,2.0,179.2,5,Sheikh Zayed,Semi Finished,No,Installment,5466000
+Penthouse,6.0,5.0,369.1,3,6th of October,Core & Shell,No,Cash,9279000
+Villa,6.0,5.0,355.1,Ground,Maadi,Unfinished,No,Installment,8560000
+Apartment,3.0,2.0,150.2,4,Maadi,Finished,No,Installment,4684000
+Townhouse,5.0,5.0,280.5,Ground,New Cairo,Semi Finished,No,Installment,9980000
+Apartment,3.0,3.0,91.6,7,6th of October,Semi Finished,No,Any,2404000
+Villa,5.0,4.0,319.7,Ground,Sheikh Zayed,Unfinished,No,Any,10800000
+Townhouse,5.0,5.0,293.4,Ground,Alexandria,Unfinished,Yes,Installment,6602000
+Duplex,5.0,5.0,234.1,2,Nasr City,Semi Finished,Yes,Cash,5311000
+Apartment,2.0,2.0,147.1,0,6th of October,Finished,Yes,Installment,4096000
+Twin House,5.0,5.0,276.8,Ground,New Cairo,Semi Finished,Yes,Installment,13310000
+Duplex,4.0,4.0,187.3,5,Nasr City,Finished,No,Installment,4532000
+Apartment,3.0,2.0,188.6,6,New Cairo,Semi Finished,No,Installment,6338000
+Apartment,3.0,3.0,150.6,3,Sheikh Zayed,Core & Shell,No,Cash,3985000
+Penthouse,5.0,5.0,293.1,4,New Cairo,Finished,Yes,Installment,13243000
+Duplex,4.0,4.0,290.5,2,Maadi,Semi Finished,No,Cash,8147000
+Villa,6.0,5.0,318.1,Ground,New Cairo,Finished,Yes,Installment,17180000
+Townhouse,3.0,2.0,210.5,Ground,Sheikh Zayed,Finished,No,Cash,9464000
+Penthouse,6.0,5.0,365.5,4,Alexandria,,Yes,Installment,10540000
+Apartment,4.0,3.0,223.6,2,New Cairo,Semi Finished,No,Cash,7826000
+Apartment,,3.0,219.5,1,6th of October,Unfinished,No,Installment,3665000
+Apartment,2.0,1.0,115.7,,Sheikh Zayed,Unfinished,No,Installment,3076000
+Penthouse,6.0,5.0,343.5,3,New Cairo,,No,Cash,13865000
+Apartment,4.0,3.0,229.0,0,Shorouk City,Core & Shell,Yes,Installment,3857000
+Villa,6.0,5.0,584.6,Ground,New Cairo,Semi Finished,No,Installment,22869000
+Penthouse,3.0,2.0,251.9,2,6th of October,Finished,No,Installment,6372000
+Townhouse,5.0,5.0,275.7,Ground,6th of October,,No,Installment,8856000
+Apartment,3.0,2.0,177.0,0,Nasr City,Finished,No,Installment,3569000
+Chalet,3.0,,126.6,1,Maadi,,No,Installment,2622000
+Apartment,2.0,1.0,113.1,4,Sheikh Zayed,Semi Finished,No,Installment,3563000
+Chalet,3.0,3.0,149.5,4,New Cairo,Semi Finished,No,Installment,4305000
+Apartment,4.0,3.0,216.4,0,Maadi,Finished,No,Installment,6606000
+Apartment,2.0,2.0,112.1,6,6th of October,Semi Finished,No,Cash,2425000
+Penthouse,6.0,5.0,312.9,2,Madinaty,Finished,No,Cash,9663000
+Apartment,1.0,2.0,85.2,4,Madinaty,Finished,No,Cash,2923000
+Apartment,2.0,1.0,135.0,0,Madinaty,Semi Finished,No,Cash,3343000
+Penthouse,4.0,4.0,205.2,6,6th of October,Finished,No,Installment,5942000
+Penthouse,6.0,5.0,287.9,,Sheikh Zayed,Core & Shell,No,Installment,9939000
+Duplex,3.0,2.0,237.8,2,Shorouk City,Finished,No,Cash,5311000
+Duplex,3.0,2.0,182.7,1,6th of October,Semi Finished,No,Any,4124000
+Villa,6.0,5.0,505.8,Ground,New Cairo,Finished,Yes,Installment,27334000
+Apartment,1.0,1.0,145.9,1,Madinaty,Semi Finished,Yes,Any,5172000
+Apartment,3.0,3.0,222.6,3,Alexandria,Finished,No,Installment,4494000
+Apartment,4.0,3.0,159.9,0,6th of October,Finished,No,Installment,3759000
+Townhouse,3.0,3.0,202.1,Ground,New Cairo,Core & Shell,Yes,Cash,8067000
+Villa,6.0,5.0,515.9,Ground,Sheikh Zayed,Finished,No,Cash,18908000
+Apartment,3.0,3.0,226.2,3,Madinaty,,No,Cash,5071000
+Villa,6.0,5.0,578.5,,Alexandria,Unfinished,No,Installment,11416000
+Twin House,6.0,5.0,294.5,Ground,New Cairo,Finished,No,Cash,14000000
+Apartment,3.0,3.0,179.5,3,New Cairo,Finished,Yes,Installment,7697000
+Villa,6.0,5.0,514.0,Ground,Alexandria,Semi Finished,No,Cash,13078000
+Villa,6.0,,534.5,Ground,Sheikh Zayed,Unfinished,No,Any,17580000
+Duplex,4.0,4.0,289.3,2,6th of October,Core & Shell,No,Cash,7080000
+Apartment,3.0,3.0,171.6,4,Hurghada,,No,Cash,3602000
+Townhouse,5.0,4.0,279.3,Ground,New Cairo,Semi Finished,Yes,Cash,10324000
+Twin House,5.0,5.0,318.8,Ground,Nasr City,Finished,No,Installment,8844000
+Villa,6.0,,542.4,Ground,New Cairo,Unfinished,No,Cash,17539000
+Duplex,6.0,5.0,312.3,2,Sheikh Zayed,Unfinished,No,Installment,8871000
+Twin House,4.0,4.0,232.8,Ground,Madinaty,Finished,Yes,Cash,11316000
+Duplex,6.0,5.0,338.2,1,6th of October,Finished,Yes,Installment,10359000
+Apartment,2.0,2.0,206.5,,Hurghada,Finished,No,Any,5226000
+Villa,5.0,5.0,324.0,Ground,6th of October,Finished,No,Cash,9828000
+Duplex,4.0,4.0,234.8,2,Sheikh Zayed,Core & Shell,No,Any,7924000
+Apartment,2.0,,203.3,1,New Cairo,Finished,No,Any,8074000
+Penthouse,4.0,4.0,260.8,2,Sheikh Zayed,Finished,No,Cash,8815000
+Twin House,5.0,4.0,279.7,Ground,Sheikh Zayed,Finished,No,Cash,13715000
+Twin House,4.0,4.0,269.3,Ground,New Cairo,Unfinished,No,Installment,9217000
+Villa,6.0,5.0,438.3,Ground,Sheikh Zayed,Semi Finished,No,Installment,15018000
+Apartment,2.0,2.0,102.8,1,6th of October,Finished,No,Installment,2447000
+Studio,1.0,1.0,65.0,3,Maadi,Finished,No,Installment,1712000
+Chalet,2.0,1.0,103.2,1,Nasr City,Unfinished,No,Installment,1576000
+Apartment,3.0,2.0,101.9,3,Maadi,Core & Shell,No,Cash,2674000
+Twin House,5.0,4.0,301.1,Ground,New Cairo,,No,Any,14835000
+Townhouse,4.0,4.0,286.4,Ground,New Cairo,Finished,No,Installment,12579000
+Villa,6.0,5.0,490.8,Ground,Maadi,Finished,No,Installment,19668000
+Villa,6.0,5.0,453.7,Ground,6th of October,Finished,Yes,Any,14422000
+Apartment,2.0,2.0,108.3,3,New Cairo,Semi Finished,No,Installment,3729000
+Apartment,2.0,2.0,140.5,,Madinaty,Unfinished,Yes,Cash,3894000
+Apartment,3.0,3.0,164.2,7,Shorouk City,Finished,No,Installment,3425000
+Chalet,1.0,1.0,74.9,1,6th of October,Core & Shell,No,Installment,1312000
+Apartment,4.0,3.0,224.7,3,New Cairo,Finished,No,Cash,8138000
+Apartment,4.0,3.0,162.4,0,Shorouk City,Semi Finished,No,Any,3218000
+Apartment,4.0,3.0,158.9,3,Nasr City,Semi Finished,No,Cash,3348000
+Villa,6.0,5.0,512.8,Ground,Shorouk City,Finished,No,Installment,12729000
+Townhouse,5.0,5.0,307.5,Ground,Shorouk City,Finished,Yes,Installment,7800000
+Apartment,4.0,3.0,227.4,0,Madinaty,Semi Finished,No,Cash,7110000
+Apartment,3.0,3.0,163.7,2,6th of October,Finished,Yes,Any,4562000
+Penthouse,5.0,5.0,351.2,0,New Cairo,Finished,Yes,Any,14841000
+Villa,6.0,5.0,581.8,Ground,Maadi,Semi Finished,No,Installment,16735000
+Apartment,2.0,1.0,179.6,3,Nasr City,Unfinished,No,Cash,2903000
+Villa,6.0,5.0,441.0,Ground,Shorouk City,Finished,No,Cash,12513000
+Apartment,4.0,3.0,224.7,3,New Cairo,Core & Shell,Yes,Installment,6050000
+Apartment,3.0,2.0,161.3,3,New Cairo,Finished,No,Cash,6150000
+Villa,6.0,5.0,417.5,Ground,Alexandria,Semi Finished,Yes,Installment,13195000
+Apartment,3.0,2.0,146.4,3,Shorouk City,Semi Finished,No,Any,2725000
+Townhouse,4.0,4.0,259.0,Ground,Alexandria,Core & Shell,Yes,Installment,5649000
+Apartment,3.0,2.0,172.9,2,Shorouk City,Finished,No,Any,3486000
+Villa,6.0,5.0,480.2,Ground,Nasr City,Semi Finished,No,Installment,12588000
+Duplex,4.0,3.0,283.7,2,Nasr City,Semi Finished,Yes,Installment,6397000
+Apartment,4.0,3.0,157.3,,Alexandria,Finished,Yes,Any,4119000
+Duplex,3.0,3.0,184.9,6,6th of October,Finished,No,Installment,4877000
+Apartment,4.0,3.0,211.3,0,Nasr City,Finished,No,Any,4524000
+Twin House,6.0,5.0,343.0,Ground,New Cairo,Finished,No,Cash,17544000
+Apartment,2.0,2.0,107.9,4,6th of October,Core & Shell,Yes,Cash,2515000
+Apartment,3.0,3.0,130.1,3,Maadi,Finished,No,Any,3489000
+Apartment,2.0,1.0,146.4,0,Sheikh Zayed,Finished,Yes,Installment,6052000
+Studio,1.0,1.0,61.9,0,New Cairo,Semi Finished,No,Any,1936000
+Villa,6.0,5.0,609.7,Ground,Sheikh Zayed,Finished,No,Any,30005000
+Villa,6.0,5.0,490.6,Ground,New Cairo,Semi Finished,No,Cash,17594000
+Apartment,2.0,1.0,130.9,4,New Cairo,Finished,Yes,Installment,5867000
+Penthouse,5.0,5.0,281.5,,Sheikh Zayed,Unfinished,No,Installment,8797000
+Apartment,1.0,2.0,93.1,4,Alexandria,Core & Shell,Yes,Installment,1893000
+Townhouse,4.0,4.0,257.7,,6th of October,Core & Shell,No,Installment,5765000
+Apartment,4.0,3.0,156.5,6,New Cairo,Finished,No,Cash,5599000
+Apartment,2.0,1.0,128.2,2,New Cairo,Semi Finished,No,Installment,3756000
+Apartment,3.0,3.0,175.0,5,Maadi,Finished,No,Installment,5297000
+Villa,6.0,5.0,502.3,Ground,Sheikh Zayed,Finished,No,Cash,26343000
+Villa,6.0,5.0,523.4,Ground,Madinaty,Finished,No,Any,27230000
+Apartment,3.0,3.0,205.8,5,Nasr City,Semi Finished,No,Installment,3885000
+Penthouse,6.0,5.0,340.1,3,Shorouk City,Finished,Yes,Any,8627000
+Villa,6.0,5.0,582.8,Ground,Sheikh Zayed,Semi Finished,No,Cash,24010000
+Villa,6.0,5.0,465.7,Ground,Maadi,Finished,No,Cash,19310000
+Apartment,3.0,2.0,160.3,6,Sheikh Zayed,Finished,No,Installment,5699000
+Apartment,2.0,2.0,110.7,1,North Coast,Semi Finished,No,Cash,3521000
+Villa,,5.0,565.9,Ground,Nasr City,Finished,No,Any,16266000
+Apartment,4.0,3.0,214.7,3,Sheikh Zayed,Semi Finished,No,Cash,7347000
+Apartment,4.0,3.0,216.7,2,Sheikh Zayed,Finished,Yes,Installment,7894000
+Townhouse,3.0,3.0,252.2,Ground,New Cairo,Core & Shell,No,Installment,9757000
+Twin House,5.0,4.0,277.2,Ground,Maadi,Semi Finished,No,Installment,9167000
+Apartment,4.0,3.0,223.5,7,New Cairo,Finished,No,Cash,7699000
+Apartment,1.0,1.0,106.3,0,Nasr City,Finished,No,Installment,2480000
+Duplex,,4.0,324.3,5,Sheikh Zayed,Semi Finished,No,Installment,11479000
+Apartment,4.0,3.0,225.3,,Maadi,Core & Shell,No,Cash,5298000
+Apartment,,2.0,95.2,5,Madinaty,,No,Any,3414000
+Apartment,1.0,1.0,86.8,3,Shorouk City,Finished,No,Cash,1531000
+Duplex,4.0,4.0,310.8,1,Shorouk City,Core & Shell,No,Installment,5666000
+Duplex,4.0,4.0,192.7,0,New Cairo,Semi Finished,No,Installment,6527000
+Apartment,3.0,2.0,164.7,3,New Cairo,,No,Cash,6359000
+Apartment,2.0,2.0,104.0,0,Maadi,Finished,No,Any,3316000
+Apartment,4.0,3.0,209.0,5,Sheikh Zayed,Finished,No,Installment,7967000
+Duplex,6.0,5.0,288.6,1,6th of October,Semi Finished,No,Cash,7726000
+Apartment,3.0,2.0,139.5,4,New Cairo,Finished,No,Installment,5255000
+Apartment,4.0,3.0,229.1,5,Sheikh Zayed,Unfinished,Yes,Installment,6420000
+Penthouse,4.0,4.0,244.1,1,New Cairo,Finished,No,Installment,8838000
+Apartment,4.0,3.0,176.8,1,Alexandria,Finished,No,Installment,3923000
+Duplex,5.0,4.0,286.7,0,New Cairo,Semi Finished,Yes,Cash,11557000
+Apartment,2.0,1.0,175.1,1,6th of October,Core & Shell,No,Cash,3495000
+Apartment,2.0,2.0,121.9,4,New Cairo,Core & Shell,No,Any,3784000
+Apartment,3.0,3.0,147.0,1,Maadi,Finished,No,Cash,5216000
+Penthouse,4.0,4.0,233.7,0,Sheikh Zayed,Semi Finished,No,Any,8503000
+Chalet,1.0,1.0,129.6,,Alexandria,,No,Cash,2611000
+Chalet,2.0,1.0,147.6,2,Alexandria,Finished,Yes,Any,4120000
+Apartment,4.0,3.0,225.1,5,Sheikh Zayed,Finished,No,Installment,7438000
+Duplex,4.0,3.0,186.1,6,Alexandria,Finished,Yes,Installment,4394000
+Apartment,3.0,3.0,133.1,3,Hurghada,Finished,No,Cash,3403000
+Apartment,2.0,2.0,108.6,2,Madinaty,Core & Shell,No,Cash,2721000
+Townhouse,5.0,,295.5,,Madinaty,Finished,No,Cash,10815000
+Apartment,1.0,1.0,108.8,2,New Cairo,Unfinished,Yes,Cash,2847000
+Apartment,4.0,3.0,212.0,0,6th of October,Semi Finished,Yes,Cash,4676000
+Apartment,2.0,,137.9,0,New Cairo,Semi Finished,No,Installment,4203000
+Apartment,3.0,3.0,224.0,7,New Cairo,Semi Finished,Yes,Installment,7424000
+Apartment,4.0,3.0,226.8,1,Hurghada,Finished,No,Installment,6482000
+Villa,6.0,5.0,559.0,Ground,Sheikh Zayed,Finished,No,Installment,27388000
+Apartment,3.0,2.0,184.4,4,Shorouk City,Finished,No,Installment,3302000
+Townhouse,5.0,4.0,296.2,Ground,Madinaty,Semi Finished,No,Installment,9059000
+Chalet,1.0,1.0,84.9,5,Madinaty,Finished,No,Installment,2744000
+Apartment,3.0,3.0,199.7,5,Hurghada,Semi Finished,No,Installment,4173000
+Apartment,1.0,1.0,127.7,1,New Cairo,Finished,No,Any,4592000
+Apartment,2.0,1.0,164.5,1,New Cairo,Finished,No,Cash,5622000
+Villa,6.0,5.0,487.6,Ground,Sheikh Zayed,Finished,No,Cash,23472000
+Apartment,4.0,3.0,183.4,5,New Cairo,Unfinished,Yes,Installment,5267000
+Duplex,5.0,5.0,318.5,6,New Cairo,Semi Finished,No,Cash,11786000
+Apartment,,2.0,200.6,1,Sheikh Zayed,Finished,No,Any,7229000
+Villa,6.0,5.0,639.1,Ground,Shorouk City,Semi Finished,No,Any,15483000
+Apartment,2.0,1.0,126.4,0,6th of October,Finished,No,Cash,3271000
+Apartment,3.0,3.0,199.5,4,Sheikh Zayed,Unfinished,No,Cash,4534000
+Twin House,5.0,5.0,297.1,Ground,Nasr City,Semi Finished,No,Installment,8068000
+Penthouse,6.0,5.0,351.1,0,New Cairo,Finished,No,Installment,15243000
+Apartment,3.0,3.0,160.9,0,New Cairo,Semi Finished,No,Cash,6139000
+Townhouse,5.0,4.0,268.8,Ground,Shorouk City,Finished,No,Installment,5915000
+Villa,6.0,5.0,500.5,Ground,Nasr City,Unfinished,No,Installment,10028000
+Townhouse,4.0,4.0,203.7,Ground,Shorouk City,Finished,No,Cash,5217000
+Penthouse,4.0,4.0,326.8,4,New Cairo,,No,Cash,11561000
+Apartment,3.0,3.0,214.7,3,Madinaty,Finished,No,Installment,7158000
+Apartment,4.0,3.0,193.4,3,Nasr City,Semi Finished,No,Cash,3764000
+Apartment,3.0,3.0,174.2,1,6th of October,Semi Finished,No,Any,3620000
+Villa,6.0,5.0,558.8,Ground,Nasr City,Semi Finished,Yes,Installment,13842000
+Duplex,4.0,3.0,282.9,3,Alexandria,Semi Finished,No,Installment,6612000
+Apartment,2.0,2.0,122.2,0,Nasr City,Core & Shell,No,Any,2230000
+Apartment,4.0,,184.0,5,Nasr City,Finished,No,Any,4193000
+Chalet,2.0,1.0,90.8,5,Hurghada,Finished,No,Installment,2390000
+Studio,1.0,1.0,69.7,3,Shorouk City,Finished,No,Cash,1382000
+Villa,6.0,5.0,563.6,Ground,6th of October,Unfinished,Yes,Installment,13590000
+Apartment,4.0,3.0,190.9,3,Maadi,Finished,Yes,Installment,6796000
+Apartment,3.0,2.0,179.4,1,Sheikh Zayed,Semi Finished,No,Cash,5380000
+Apartment,3.0,2.0,163.8,3,New Cairo,Semi Finished,No,Any,5352000
+Townhouse,,4.0,258.1,Ground,Nasr City,Finished,No,Cash,6260000
+Apartment,2.0,,132.1,4,North Coast,Finished,No,Cash,5796000
+Villa,6.0,5.0,385.2,Ground,North Coast,Finished,No,Cash,19391000
+Apartment,3.0,3.0,166.7,4,Sheikh Zayed,Finished,No,Installment,6815000
+Villa,6.0,5.0,597.2,,6th of October,Finished,No,Installment,20677000
+Duplex,4.0,4.0,217.5,2,New Cairo,Finished,No,Cash,9371000
+Chalet,2.0,1.0,125.0,,Hurghada,Core & Shell,No,Cash,2475000
+Apartment,3.0,2.0,174.2,3,Hurghada,Unfinished,No,Cash,3438000
+Apartment,4.0,3.0,217.7,3,Nasr City,Finished,No,Installment,5472000
+Apartment,4.0,3.0,225.9,2,Madinaty,Finished,No,Cash,6973000
+Townhouse,4.0,3.0,237.5,Ground,Maadi,Finished,Yes,Any,10029000
+Townhouse,5.0,5.0,317.0,Ground,Nasr City,Semi Finished,No,Cash,6325000
+Villa,6.0,5.0,374.5,Ground,New Cairo,,Yes,Any,14981000
+Duplex,3.0,3.0,180.1,4,6th of October,Finished,No,Cash,4856000
+Duplex,,4.0,203.8,3,Maadi,Finished,No,Installment,5929000
+Apartment,2.0,2.0,99.2,,Maadi,Semi Finished,No,Cash,2234000
+Townhouse,4.0,4.0,211.8,,Sheikh Zayed,Semi Finished,No,Cash,6766000
+Apartment,3.0,,152.9,,North Coast,Finished,Yes,Any,7458000
+Apartment,2.0,1.0,96.6,0,New Cairo,,No,Any,2832000
+Villa,6.0,5.0,601.7,Ground,6th of October,Finished,No,Installment,19114000
+Apartment,4.0,3.0,218.9,0,Maadi,Finished,No,Installment,6283000
+Apartment,3.0,3.0,167.4,0,Maadi,Semi Finished,Yes,Installment,5381000
+Penthouse,5.0,4.0,328.5,3,Nasr City,Core & Shell,No,Any,7000000
+Apartment,2.0,2.0,116.3,6,Sheikh Zayed,Finished,Yes,Cash,4700000
+Duplex,3.0,3.0,230.0,3,New Cairo,Unfinished,Yes,Installment,7009000
+Apartment,1.0,2.0,86.4,7,Nasr City,Finished,No,Installment,1978000
+Apartment,2.0,2.0,146.9,4,Nasr City,Semi Finished,Yes,Installment,2773000
+Apartment,2.0,2.0,88.3,4,New Cairo,Finished,Yes,Any,3579000
+Apartment,3.0,3.0,194.0,1,Maadi,Core & Shell,No,Cash,4924000
+Duplex,4.0,4.0,226.8,2,6th of October,Core & Shell,No,Cash,5435000
+Apartment,3.0,2.0,160.9,2,Maadi,Finished,No,Installment,4775000
+Villa,6.0,5.0,480.5,Ground,Madinaty,Unfinished,No,Installment,13419000
+Villa,6.0,5.0,426.1,Ground,New Cairo,Core & Shell,No,Cash,14494000
+Duplex,4.0,3.0,231.9,1,New Cairo,Semi Finished,No,Installment,8576000
+Twin House,6.0,5.0,288.1,Ground,Shorouk City,Finished,No,Any,9095000
+Penthouse,6.0,5.0,357.8,5,Nasr City,Core & Shell,No,Cash,7228000
+Apartment,3.0,3.0,194.2,0,Maadi,Core & Shell,No,Installment,4873000
+Apartment,3.0,2.0,98.0,1,Madinaty,Finished,Yes,Installment,3820000
+Apartment,3.0,3.0,171.3,2,Madinaty,Unfinished,No,Installment,3460000
+Villa,6.0,5.0,553.9,Ground,Hurghada,Finished,No,Any,18233000
+Apartment,1.0,2.0,140.8,0,6th of October,Finished,No,Installment,3588000
+Villa,6.0,5.0,476.5,Ground,6th of October,Semi Finished,No,Installment,13778000
+Villa,6.0,5.0,394.4,Ground,Sheikh Zayed,Semi Finished,Yes,Installment,16744000
+Apartment,3.0,2.0,109.6,7,New Cairo,Semi Finished,No,Installment,3818000
+Penthouse,5.0,,340.5,3,6th of October,Finished,No,Installment,10280000
+Apartment,2.0,2.0,148.8,0,Sheikh Zayed,Unfinished,Yes,Any,4323000
+Apartment,2.0,1.0,180.1,2,North Coast,Finished,Yes,Installment,8877000
+Penthouse,,2.0,243.2,3,Nasr City,Finished,No,Cash,5294000
+Villa,6.0,5.0,621.3,Ground,Nasr City,Finished,No,Cash,18028000
+Duplex,5.0,4.0,334.7,3,Sheikh Zayed,Semi Finished,No,Cash,10986000
+Apartment,1.0,2.0,132.1,,New Cairo,Unfinished,No,Cash,3188000
+Apartment,,2.0,203.2,7,New Cairo,,No,Any,6721000
+Chalet,2.0,2.0,138.0,2,Sheikh Zayed,Core & Shell,No,Installment,3552000
+Penthouse,5.0,5.0,336.7,4,New Cairo,Finished,Yes,Installment,16812000
+Duplex,6.0,5.0,318.5,2,Nasr City,Semi Finished,No,Installment,6537000
+Apartment,4.0,3.0,227.4,1,Alexandria,Finished,No,Any,5623000
+Villa,,5.0,535.1,Ground,Alexandria,Finished,Yes,Installment,18968000
+Apartment,2.0,1.0,101.0,2,Nasr City,Finished,No,Any,2163000
+Apartment,3.0,3.0,96.1,2,New Cairo,Semi Finished,Yes,Installment,3433000
+Townhouse,5.0,4.0,264.2,Ground,Alexandria,Semi Finished,Yes,Any,6442000
+Apartment,4.0,,226.5,0,Alexandria,Semi Finished,No,Installment,4258000
+Twin House,5.0,5.0,233.4,Ground,New Cairo,Finished,No,Cash,11358000
+Apartment,2.0,1.0,96.8,3,Maadi,Finished,No,Installment,2902000
+Apartment,3.0,3.0,148.6,4,Sheikh Zayed,Semi Finished,No,Installment,4512000
+Villa,6.0,5.0,348.9,Ground,Madinaty,Finished,No,Cash,14629000
+Townhouse,5.0,5.0,250.8,Ground,Hurghada,Core & Shell,No,Installment,5521000
+Penthouse,4.0,3.0,250.5,2,New Cairo,Semi Finished,Yes,Cash,10058000
+Chalet,1.0,1.0,75.8,1,Alexandria,Finished,No,Cash,1670000
+Duplex,4.0,4.0,254.4,,Nasr City,Unfinished,No,Any,4593000
+Duplex,6.0,5.0,337.7,1,Hurghada,Semi Finished,No,Installment,7058000
+Chalet,1.0,1.0,100.8,5,6th of October,Finished,No,Any,2312000
+Apartment,2.0,2.0,185.1,5,Madinaty,Semi Finished,Yes,Installment,5170000
+Villa,6.0,5.0,603.7,Ground,New Cairo,Finished,No,Installment,30348000
+Apartment,4.0,3.0,161.3,6,Sheikh Zayed,Core & Shell,No,Installment,3719000
+Studio,1.0,1.0,61.2,2,New Cairo,Core & Shell,No,Installment,2036000
+Twin House,5.0,5.0,351.5,Ground,Hurghada,Unfinished,No,Any,9335000
+Apartment,3.0,2.0,158.3,5,Madinaty,Semi Finished,No,Cash,4654000
+Duplex,4.0,4.0,202.4,3,Madinaty,Finished,No,Any,7790000
+Twin House,5.0,4.0,326.1,Ground,North Coast,Semi Finished,No,Any,15634000
+Apartment,3.0,3.0,154.4,2,New Cairo,Finished,Yes,Installment,6287000
+Villa,6.0,5.0,494.2,Ground,Sheikh Zayed,Semi Finished,Yes,Any,22659000
+Townhouse,5.0,4.0,306.1,Ground,New Cairo,Semi Finished,No,Installment,10402000
+Apartment,4.0,3.0,216.4,0,New Cairo,Finished,Yes,Any,7386000
+Duplex,6.0,5.0,316.0,3,New Cairo,Finished,No,Installment,13830000
+Apartment,4.0,3.0,229.1,4,6th of October,Core & Shell,No,Cash,4874000
+Twin House,6.0,5.0,294.2,Ground,Sheikh Zayed,Core & Shell,No,Any,10226000
+Studio,1.0,1.0,53.8,,New Cairo,Finished,No,Installment,1991000
+Twin House,5.0,5.0,349.8,Ground,New Cairo,Finished,No,Installment,17846000
+Villa,6.0,5.0,636.1,Ground,New Cairo,Finished,No,Installment,28791000
+Townhouse,4.0,3.0,266.4,,Hurghada,Core & Shell,No,Cash,6764000
+Chalet,3.0,3.0,150.9,6,Shorouk City,Finished,Yes,Installment,3854000
+Apartment,4.0,3.0,228.5,2,Hurghada,Semi Finished,No,Any,5063000
+Chalet,1.0,2.0,103.2,1,6th of October,Finished,No,Cash,2848000
+Apartment,2.0,2.0,123.5,2,Sheikh Zayed,Semi Finished,Yes,Cash,3780000
+Villa,6.0,5.0,578.2,Ground,Shorouk City,Finished,No,Cash,16385000
+Apartment,3.0,2.0,198.5,0,Sheikh Zayed,Semi Finished,No,Installment,6195000
+Apartment,2.0,1.0,132.5,2,Sheikh Zayed,Finished,Yes,Installment,5454000
+Apartment,1.0,1.0,87.7,2,New Cairo,Semi Finished,No,Installment,2412000
+Duplex,3.0,2.0,187.3,2,New Cairo,Finished,No,Any,6634000
+Apartment,3.0,2.0,188.7,3,Sheikh Zayed,Semi Finished,No,Installment,5749000
+Penthouse,6.0,5.0,370.3,2,Sheikh Zayed,Core & Shell,Yes,Cash,12623000
+Apartment,3.0,3.0,178.5,5,Maadi,Finished,No,Any,5321000
+Apartment,3.0,2.0,152.0,,New Cairo,Core & Shell,Yes,Installment,5497000
+Villa,4.0,4.0,305.7,Ground,New Cairo,Semi Finished,No,Installment,12150000
+Penthouse,5.0,5.0,289.3,6,Madinaty,Finished,No,Installment,11333000
+Apartment,2.0,2.0,208.9,2,New Cairo,Finished,Yes,Any,8729000
+Duplex,4.0,3.0,313.6,0,Sheikh Zayed,Finished,No,Installment,11192000
+Townhouse,4.0,3.0,310.3,Ground,Alexandria,Semi Finished,No,Installment,5364000
+Duplex,6.0,5.0,335.7,0,New Cairo,Semi Finished,No,Installment,11656000
+Apartment,3.0,3.0,158.4,3,New Cairo,Finished,Yes,Cash,6316000
+Apartment,3.0,,167.7,0,6th of October,Semi Finished,No,Installment,3677000
+Townhouse,4.0,4.0,275.2,Ground,Sheikh Zayed,Core & Shell,No,Installment,9158000
+Apartment,2.0,2.0,102.2,1,6th of October,Unfinished,No,Cash,1968000
+Townhouse,5.0,4.0,302.3,Ground,Madinaty,Semi Finished,Yes,Cash,9682000
+Villa,6.0,5.0,617.1,Ground,New Cairo,Unfinished,No,Cash,19005000
+Twin House,4.0,3.0,308.1,Ground,Nasr City,Semi Finished,No,Installment,7979000
+Penthouse,5.0,,339.1,,6th of October,Finished,No,Any,9709000
+Studio,1.0,1.0,54.6,7,New Cairo,Core & Shell,No,Any,1642000
+Apartment,4.0,3.0,210.4,2,Nasr City,Finished,No,Cash,4488000
+Penthouse,4.0,4.0,255.1,3,Sheikh Zayed,Finished,No,Installment,10227000
+Apartment,3.0,3.0,112.1,6,6th of October,Finished,No,Any,3066000
+Villa,5.0,5.0,357.9,Ground,New Cairo,Core & Shell,No,Cash,13129000
+Duplex,4.0,4.0,275.8,3,6th of October,Core & Shell,Yes,Installment,7792000
+Townhouse,4.0,4.0,251.9,Ground,Sheikh Zayed,Finished,No,Installment,9365000
+Studio,1.0,1.0,54.4,0,Madinaty,Finished,Yes,Cash,1813000
+Penthouse,6.0,5.0,317.0,0,New Cairo,Finished,No,Any,13214000
+Apartment,3.0,3.0,192.1,2,Sheikh Zayed,Semi Finished,Yes,Any,6073000
+Apartment,2.0,2.0,102.1,3,6th of October,,No,Cash,2782000
+Penthouse,4.0,4.0,256.4,1,Maadi,Semi Finished,No,Cash,7645000
+Apartment,1.0,1.0,87.9,5,6th of October,Finished,Yes,Cash,2506000
+Apartment,1.0,2.0,126.4,4,Maadi,Finished,Yes,Cash,4261000
+Apartment,2.0,1.0,205.9,4,Shorouk City,Finished,No,Installment,4120000
+Apartment,1.0,1.0,147.2,1,Alexandria,Finished,No,Installment,3072000
+Apartment,2.0,1.0,101.2,1,Sheikh Zayed,Unfinished,No,Cash,2529000
+Apartment,2.0,2.0,141.9,0,6th of October,Finished,No,Any,3713000
+Apartment,2.0,1.0,150.0,4,Madinaty,,No,Installment,4406000
+Apartment,4.0,3.0,223.8,4,Hurghada,Finished,No,Cash,5499000
+Studio,1.0,1.0,50.0,1,Alexandria,Finished,Yes,Cash,1318000
+Apartment,2.0,1.0,173.0,3,Sheikh Zayed,Finished,No,Installment,5961000
+Apartment,3.0,3.0,208.1,1,New Cairo,Finished,No,Installment,7284000
+Duplex,4.0,4.0,198.3,1,6th of October,Semi Finished,No,Cash,5503000
+Apartment,2.0,1.0,137.0,1,Shorouk City,Semi Finished,No,Cash,2374000
+Twin House,4.0,4.0,285.7,Ground,6th of October,Finished,No,Any,9051000
+Penthouse,5.0,4.0,271.6,5,6th of October,,No,Any,7559000
+Apartment,2.0,2.0,136.3,4,Madinaty,Unfinished,No,Cash,2692000
+Apartment,4.0,3.0,228.9,0,Sheikh Zayed,Finished,Yes,Installment,9157000
+Townhouse,5.0,5.0,284.1,Ground,Madinaty,Finished,No,Installment,10561000
+Twin House,5.0,5.0,352.5,Ground,Sheikh Zayed,Finished,No,Installment,17274000
+Villa,4.0,4.0,321.7,Ground,Sheikh Zayed,Finished,No,Installment,14663000
+Duplex,4.0,4.0,262.3,6,6th of October,Semi Finished,Yes,Any,7222000
+Apartment,2.0,1.0,119.4,2,Shorouk City,Finished,No,Installment,2746000
+Studio,1.0,1.0,50.2,4,New Cairo,Semi Finished,No,Installment,1869000
+Apartment,2.0,1.0,112.4,3,New Cairo,,No,Installment,4075000
+Twin House,5.0,5.0,331.5,Ground,North Coast,Finished,Yes,Any,21309000
+Duplex,4.0,3.0,280.1,,New Cairo,Semi Finished,No,Installment,10087000
+Duplex,5.0,5.0,319.5,0,6th of October,Finished,No,Cash,9496000
+Villa,5.0,4.0,307.3,Ground,6th of October,Semi Finished,Yes,Cash,9257000
+Apartment,2.0,2.0,142.3,2,6th of October,Finished,No,Installment,3666000
+Apartment,2.0,1.0,100.4,4,Nasr City,Semi Finished,No,Cash,1933000
+Apartment,,2.0,124.0,6,New Cairo,Finished,No,Installment,5375000
+Apartment,2.0,1.0,138.3,0,6th of October,Core & Shell,No,Any,2726000
+Penthouse,,5.0,265.1,3,Sheikh Zayed,Finished,No,Installment,10213000
+Apartment,3.0,3.0,206.9,2,Maadi,Core & Shell,No,Any,4814000
+Apartment,4.0,3.0,224.8,2,New Cairo,Finished,No,Cash,9135000
+Twin House,5.0,5.0,281.3,Ground,6th of October,Semi Finished,No,Any,8967000
+Townhouse,5.0,5.0,268.9,,New Cairo,Finished,Yes,Installment,13007000
+Twin House,4.0,3.0,238.8,Ground,Sheikh Zayed,Core & Shell,No,Installment,9822000
+Studio,1.0,1.0,66.4,1,New Cairo,Finished,No,Installment,2460000
+Apartment,2.0,2.0,137.1,5,New Cairo,Finished,No,Cash,5003000
+Apartment,2.0,1.0,143.2,0,Madinaty,Finished,No,Installment,4321000
+Penthouse,5.0,5.0,329.4,3,Sheikh Zayed,Finished,No,Installment,13673000
+Duplex,4.0,3.0,209.3,2,North Coast,Finished,No,Cash,10481000
+Apartment,2.0,1.0,112.1,2,Hurghada,Unfinished,Yes,Installment,2130000
+Chalet,2.0,1.0,146.6,,6th of October,Unfinished,No,Installment,2772000
+Apartment,3.0,3.0,175.2,4,New Cairo,Finished,Yes,Cash,7474000
+Apartment,,2.0,204.1,2,Sheikh Zayed,Unfinished,Yes,Cash,5880000
+Villa,6.0,5.0,395.3,Ground,Shorouk City,Semi Finished,No,Installment,9437000
+Villa,6.0,5.0,502.5,Ground,Sheikh Zayed,Finished,No,Installment,22217000
+Villa,6.0,5.0,606.6,Ground,New Cairo,Semi Finished,Yes,Any,29192000
+Apartment,1.0,1.0,132.8,,6th of October,Semi Finished,Yes,Any,3106000
+Townhouse,4.0,3.0,254.4,Ground,Madinaty,Unfinished,No,Installment,6630000
+Apartment,3.0,3.0,188.1,4,Shorouk City,Finished,No,Installment,4159000
+Apartment,4.0,3.0,222.8,4,New Cairo,Semi Finished,No,Installment,6735000
+Townhouse,5.0,4.0,279.5,Ground,Maadi,Finished,Yes,Installment,9986000
+Twin House,6.0,5.0,339.8,Ground,New Cairo,Finished,No,Cash,16731000
+Townhouse,3.0,2.0,216.6,Ground,New Cairo,Finished,No,Installment,9312000
+Chalet,2.0,1.0,144.1,3,Alexandria,Unfinished,Yes,Installment,2481000
+Duplex,5.0,5.0,322.3,2,New Cairo,Core & Shell,No,Cash,11747000
+Villa,6.0,5.0,370.9,Ground,Sheikh Zayed,Semi Finished,No,Installment,15557000
+Apartment,4.0,3.0,215.7,5,New Cairo,,No,Any,7012000
+Apartment,1.0,2.0,140.2,1,Alexandria,Finished,Yes,Installment,3825000
+Apartment,3.0,3.0,152.8,5,Shorouk City,Finished,No,Installment,2788000
+Apartment,2.0,1.0,119.8,7,Nasr City,Finished,No,Any,2432000
+Penthouse,4.0,4.0,299.0,3,Shorouk City,Finished,No,Installment,6734000
+Villa,6.0,5.0,632.8,Ground,New Cairo,Semi Finished,No,Cash,25971000
+Apartment,2.0,1.0,96.1,0,6th of October,Semi Finished,No,Cash,2250000
+Apartment,2.0,1.0,101.2,1,Sheikh Zayed,Finished,No,Installment,3241000
+Duplex,3.0,3.0,261.0,3,New Cairo,Finished,No,Installment,10613000
+Apartment,3.0,3.0,146.5,5,6th of October,Finished,Yes,Cash,4043000
+Chalet,3.0,3.0,148.5,3,North Coast,Finished,Yes,Cash,6476000
+Villa,6.0,5.0,540.3,,New Cairo,Unfinished,No,Any,17484000
+Villa,6.0,5.0,553.3,Ground,Sheikh Zayed,Semi Finished,No,Installment,22184000
+Villa,6.0,5.0,428.4,Ground,New Cairo,Core & Shell,No,Any,12943000
+Chalet,,2.0,149.5,2,New Cairo,Finished,Yes,Installment,6658000
+Apartment,1.0,1.0,129.2,4,Alexandria,Finished,No,Any,2681000
+Duplex,4.0,3.0,232.3,4,6th of October,Finished,No,Cash,6436000
+Villa,6.0,5.0,358.3,Ground,6th of October,Core & Shell,No,Installment,9657000
+Apartment,2.0,1.0,188.5,4,Shorouk City,Semi Finished,No,Cash,3473000
+Townhouse,5.0,4.0,297.4,Ground,New Cairo,Finished,No,Installment,13455000
+Penthouse,6.0,5.0,273.5,1,6th of October,Semi Finished,No,Installment,7214000
+Duplex,4.0,4.0,328.0,5,Sheikh Zayed,Finished,No,Cash,12168000
+Chalet,3.0,2.0,152.4,3,Nasr City,Semi Finished,No,Any,3082000
+Townhouse,3.0,,212.9,Ground,Hurghada,Unfinished,No,Any,4261000
+Duplex,3.0,,225.8,4,Shorouk City,Semi Finished,No,Cash,4984000
+Chalet,2.0,2.0,90.3,3,Sheikh Zayed,Semi Finished,No,Installment,2610000
+Duplex,5.0,4.0,303.0,2,Madinaty,Finished,No,Installment,11317000
+Duplex,6.0,5.0,338.4,1,New Cairo,Finished,No,Installment,15332000
+Duplex,5.0,5.0,271.5,4,New Cairo,Finished,No,Any,10886000
+Penthouse,4.0,3.0,200.2,1,New Cairo,Finished,No,Cash,8184000
+Apartment,2.0,1.0,174.0,4,Sheikh Zayed,Semi Finished,No,Any,5724000
+Townhouse,6.0,5.0,299.8,Ground,6th of October,Semi Finished,No,Cash,6714000
+Townhouse,4.0,3.0,258.4,Ground,Nasr City,Finished,No,Installment,6121000
+Apartment,2.0,2.0,112.9,1,North Coast,Core & Shell,Yes,Installment,4342000
+Chalet,1.0,1.0,79.4,1,6th of October,Finished,No,Cash,1863000
+Apartment,3.0,2.0,170.9,0,6th of October,,No,Cash,3946000
+Apartment,2.0,1.0,127.1,3,New Cairo,Finished,No,Any,4576000
+Penthouse,3.0,2.0,222.7,2,New Cairo,Finished,No,Installment,9077000
+Apartment,2.0,1.0,205.5,1,6th of October,Finished,No,Cash,4562000
+Chalet,2.0,1.0,106.8,6,6th of October,Finished,No,Installment,2823000
+Chalet,2.0,2.0,119.4,3,Madinaty,Finished,No,Cash,3932000
+Villa,,5.0,354.4,Ground,New Cairo,Unfinished,No,Cash,11521000
+Apartment,3.0,3.0,198.4,0,New Cairo,Finished,No,Installment,7165000
+Apartment,4.0,3.0,189.3,0,6th of October,Finished,Yes,Cash,5225000
+Duplex,5.0,,256.1,0,New Cairo,Finished,Yes,Any,10285000
+Studio,,1.0,56.1,5,New Cairo,Semi Finished,No,Installment,1683000
+Duplex,,3.0,285.5,0,Maadi,Finished,No,Any,10062000
+Apartment,1.0,2.0,112.2,2,New Cairo,Core & Shell,No,Installment,3502000
+Duplex,5.0,4.0,284.7,2,Nasr City,Semi Finished,No,Any,5748000
+Villa,6.0,5.0,600.7,Ground,Sheikh Zayed,Semi Finished,No,Installment,21213000
+Penthouse,6.0,5.0,367.6,7,New Cairo,Semi Finished,No,Installment,12355000
+Apartment,2.0,2.0,119.4,1,Sheikh Zayed,Finished,No,Any,4468000
+Penthouse,4.0,4.0,238.8,1,Madinaty,Finished,No,Installment,9003000
+Villa,6.0,5.0,572.7,Ground,Sheikh Zayed,Finished,No,Cash,25445000
+Twin House,5.0,4.0,286.2,Ground,Shorouk City,Semi Finished,No,Installment,6379000
+Apartment,2.0,2.0,140.7,2,New Cairo,Finished,Yes,Any,6083000
+Duplex,5.0,5.0,309.6,5,Shorouk City,Finished,No,Installment,7802000
+Twin House,5.0,5.0,354.3,,New Cairo,Unfinished,No,Installment,12739000
+Apartment,4.0,3.0,213.9,0,Maadi,,No,Installment,5913000
+Twin House,4.0,4.0,295.5,Ground,6th of October,Core & Shell,No,Any,7577000
+Duplex,3.0,3.0,181.9,0,North Coast,Semi Finished,No,Cash,6920000
+Apartment,4.0,3.0,221.5,5,Sheikh Zayed,Finished,No,Installment,7675000
+Apartment,3.0,3.0,178.9,6,New Cairo,Finished,No,Cash,6842000
+Duplex,5.0,5.0,286.0,1,New Cairo,Finished,No,Installment,13304000
+Apartment,4.0,3.0,224.4,4,Madinaty,Semi Finished,No,Installment,6011000
+Villa,6.0,5.0,557.7,Ground,6th of October,Semi Finished,No,Cash,15028000
+Apartment,4.0,3.0,223.7,0,Shorouk City,Semi Finished,No,Cash,3563000
+Duplex,5.0,5.0,236.5,4,New Cairo,Unfinished,No,Installment,7875000
+Apartment,4.0,3.0,167.9,0,Sheikh Zayed,Semi Finished,No,Cash,5090000
+Townhouse,5.0,4.0,274.2,Ground,New Cairo,Finished,No,Cash,12541000
+Studio,,1.0,73.2,7,Hurghada,Finished,Yes,Any,2177000
+Twin House,6.0,5.0,322.2,Ground,Maadi,Core & Shell,No,Cash,9518000
+Penthouse,4.0,3.0,206.2,1,North Coast,Finished,No,Installment,11136000
+Apartment,2.0,,139.2,6,Sheikh Zayed,Finished,No,Any,4306000
+Penthouse,4.0,3.0,332.6,4,Nasr City,Semi Finished,Yes,Cash,7135000
+Apartment,3.0,2.0,197.8,7,Maadi,Finished,Yes,Installment,7528000
+Apartment,2.0,1.0,120.1,1,Sheikh Zayed,Unfinished,No,Installment,2680000
+Apartment,2.0,2.0,150.2,3,Madinaty,Semi Finished,No,Installment,3989000
+Villa,6.0,5.0,321.9,Ground,North Coast,Finished,No,Any,19106000
+Penthouse,5.0,5.0,279.1,4,Alexandria,Unfinished,No,Any,4908000
+Duplex,4.0,4.0,278.7,5,Maadi,Finished,No,Installment,8709000
+Apartment,2.0,2.0,139.1,5,Sheikh Zayed,Finished,No,Cash,5035000
+Apartment,2.0,2.0,148.3,3,Sheikh Zayed,Finished,No,Cash,4636000
+Studio,1.0,1.0,61.3,3,Hurghada,Finished,No,Installment,1648000
+Apartment,3.0,3.0,142.5,4,New Cairo,Finished,Yes,Cash,5054000
+Villa,6.0,5.0,364.7,Ground,Maadi,Finished,No,Installment,16594000
+Apartment,4.0,3.0,150.8,2,Maadi,,No,Installment,4730000
+Penthouse,6.0,5.0,359.0,0,Nasr City,Finished,No,Cash,10484000
+Duplex,4.0,4.0,200.9,4,Hurghada,Semi Finished,Yes,Any,6432000
+Apartment,3.0,3.0,196.6,0,Sheikh Zayed,Core & Shell,Yes,Cash,5493000
+Apartment,2.0,1.0,144.6,5,Sheikh Zayed,Finished,No,Installment,5662000
+Duplex,3.0,3.0,243.2,,New Cairo,Finished,No,Installment,9563000
+Duplex,4.0,3.0,233.1,1,6th of October,Finished,Yes,Installment,7150000
+Apartment,2.0,2.0,112.7,0,Sheikh Zayed,Finished,No,Installment,4171000
+Twin House,4.0,4.0,258.7,Ground,Sheikh Zayed,,No,Cash,10539000
+Apartment,3.0,2.0,108.3,4,Madinaty,Semi Finished,No,Installment,3491000
+Apartment,4.0,3.0,198.1,3,North Coast,Finished,No,Installment,9214000
+Twin House,5.0,4.0,290.2,Ground,New Cairo,Finished,No,Any,13087000
+Apartment,3.0,3.0,92.3,2,Sheikh Zayed,Finished,Yes,Installment,3277000
+Duplex,5.0,5.0,339.1,4,North Coast,Semi Finished,No,Installment,13634000
+Apartment,4.0,3.0,220.5,0,New Cairo,Finished,No,Installment,7614000
+Apartment,4.0,3.0,212.8,3,New Cairo,Unfinished,No,Any,5426000
+Studio,1.0,1.0,57.7,0,New Cairo,Semi Finished,No,Cash,1722000
+Apartment,2.0,2.0,190.1,4,Nasr City,Finished,No,Installment,3961000
+Townhouse,3.0,3.0,255.1,Ground,New Cairo,Semi Finished,No,Installment,9853000
+Apartment,3.0,3.0,101.5,1,Hurghada,Core & Shell,No,Installment,2098000
+Apartment,3.0,3.0,189.3,1,6th of October,Semi Finished,No,Cash,3864000
+Apartment,2.0,2.0,138.1,6,6th of October,Finished,No,Installment,3236000
+Duplex,3.0,2.0,189.4,1,New Cairo,Finished,No,Cash,8324000
+Apartment,2.0,1.0,99.8,,6th of October,Core & Shell,Yes,Installment,1828000
+Townhouse,4.0,3.0,300.1,Ground,Maadi,Semi Finished,No,Installment,8988000
+Villa,6.0,5.0,372.7,Ground,Shorouk City,Semi Finished,No,Any,8742000
+Twin House,5.0,5.0,330.6,Ground,Shorouk City,Core & Shell,No,Installment,6949000
+Apartment,2.0,2.0,116.9,2,6th of October,Core & Shell,No,Cash,2397000
+Townhouse,5.0,4.0,258.4,Ground,Alexandria,Core & Shell,No,Cash,5357000
+Penthouse,6.0,5.0,375.4,,Madinaty,Finished,No,Any,13432000
+Penthouse,5.0,5.0,331.0,3,Shorouk City,Semi Finished,No,Cash,6531000
+Chalet,3.0,3.0,144.4,4,New Cairo,Semi Finished,No,Installment,5449000
+Penthouse,5.0,4.0,282.7,2,New Cairo,Semi Finished,No,Cash,10236000
+Duplex,4.0,4.0,202.7,,New Cairo,Semi Finished,No,Installment,6510000
+Apartment,4.0,3.0,223.7,,Maadi,Finished,No,Installment,6889000
+Apartment,4.0,3.0,171.8,,Sheikh Zayed,Semi Finished,No,Installment,5617000
+Twin House,5.0,5.0,282.2,Ground,Sheikh Zayed,Semi Finished,No,Installment,13452000
+Duplex,6.0,5.0,339.6,2,Alexandria,Finished,No,Any,9621000
+Penthouse,6.0,5.0,378.3,1,Alexandria,Finished,No,Installment,10418000
+Villa,6.0,5.0,631.5,Ground,Alexandria,Finished,No,Installment,18905000
+Apartment,2.0,2.0,110.6,0,Sheikh Zayed,Finished,No,Any,3805000
+Apartment,3.0,3.0,152.8,4,Maadi,Finished,No,Any,4769000
+Duplex,5.0,5.0,289.6,2,Sheikh Zayed,Finished,Yes,Cash,12883000
+Apartment,2.0,1.0,122.6,5,New Cairo,Semi Finished,Yes,Any,4534000
+Apartment,2.0,1.0,132.5,,New Cairo,Semi Finished,No,Cash,4446000
+Villa,6.0,5.0,638.5,Ground,Sheikh Zayed,Semi Finished,No,Installment,24194000
+Apartment,4.0,3.0,186.5,0,Sheikh Zayed,Core & Shell,No,Any,5398000
+Villa,4.0,3.0,305.8,Ground,Madinaty,Finished,No,Cash,14672000
+Apartment,4.0,3.0,219.3,4,New Cairo,Finished,No,Cash,8187000
+Penthouse,6.0,5.0,351.0,6,Maadi,Core & Shell,No,Cash,8193000
+Apartment,4.0,3.0,157.5,1,6th of October,Finished,No,Installment,3987000
+Villa,6.0,5.0,476.2,Ground,Sheikh Zayed,Unfinished,Yes,Installment,18286000
+Apartment,3.0,3.0,229.3,0,6th of October,Core & Shell,No,Installment,4005000
+Apartment,2.0,2.0,194.8,1,Sheikh Zayed,Semi Finished,Yes,Any,6249000
+Apartment,2.0,1.0,104.4,1,Nasr City,Unfinished,Yes,Installment,1888000
+Villa,6.0,,530.9,Ground,6th of October,Finished,No,Cash,14850000
+Duplex,4.0,3.0,249.0,4,New Cairo,,No,Any,9326000
+Apartment,4.0,3.0,186.6,4,New Cairo,Semi Finished,No,Cash,6494000
+Duplex,5.0,5.0,299.9,4,6th of October,Finished,No,Cash,8852000
+Townhouse,6.0,5.0,296.5,Ground,Alexandria,Unfinished,No,Cash,5446000
+Penthouse,3.0,2.0,226.6,,Sheikh Zayed,Finished,No,Installment,8496000
+Apartment,4.0,3.0,220.6,3,Maadi,Semi Finished,No,Cash,5756000
+Villa,6.0,5.0,572.0,Ground,Nasr City,Semi Finished,Yes,Cash,15544000
+Apartment,4.0,3.0,185.3,7,North Coast,Semi Finished,No,Cash,6250000
+Apartment,4.0,3.0,159.3,2,Madinaty,Finished,Yes,Cash,6166000
+Studio,1.0,1.0,74.5,1,6th of October,Finished,No,Installment,1740000
+Apartment,3.0,3.0,93.1,6,Nasr City,Core & Shell,No,Any,1817000
+Villa,6.0,5.0,472.4,Ground,Alexandria,Finished,No,Installment,14226000
+Duplex,3.0,3.0,200.2,6,Sheikh Zayed,Core & Shell,No,Cash,6119000
+Duplex,5.0,4.0,323.8,,Sheikh Zayed,Semi Finished,Yes,Cash,10840000
+Villa,6.0,5.0,590.1,Ground,New Cairo,Semi Finished,No,Any,24368000
+Apartment,3.0,3.0,125.2,5,Madinaty,Semi Finished,No,Cash,3824000
+Apartment,2.0,2.0,90.8,1,Madinaty,Finished,No,Any,3041000
+Villa,6.0,5.0,526.4,Ground,New Cairo,Semi Finished,No,Cash,23340000
+Apartment,4.0,3.0,176.4,7,6th of October,Core & Shell,No,Any,2992000
+Apartment,2.0,2.0,198.5,1,6th of October,Finished,No,Cash,4419000
+Apartment,2.0,2.0,147.2,0,New Cairo,Unfinished,No,Installment,3910000
+Apartment,2.0,2.0,112.0,0,Hurghada,Finished,No,Installment,2804000
+Apartment,1.0,1.0,148.4,4,New Cairo,Finished,Yes,Installment,6774000
+Apartment,3.0,,133.2,2,New Cairo,,No,Cash,4621000
+Villa,6.0,5.0,557.0,Ground,Nasr City,Unfinished,No,Installment,10713000
+Duplex,4.0,4.0,259.7,3,Maadi,Finished,No,Installment,7527000
+Chalet,2.0,1.0,128.1,2,New Cairo,Core & Shell,No,Cash,3589000
+Apartment,4.0,3.0,218.7,2,Nasr City,Core & Shell,No,Cash,3232000
+Apartment,3.0,3.0,204.0,1,6th of October,Finished,No,Installment,5904000
+Apartment,4.0,3.0,230.0,2,New Cairo,Finished,No,Cash,7690000
+Duplex,5.0,5.0,236.7,7,New Cairo,Semi Finished,No,Installment,8224000
+Duplex,4.0,4.0,289.2,2,6th of October,Finished,No,Cash,7999000
+Apartment,3.0,2.0,192.2,3,Sheikh Zayed,Semi Finished,No,Installment,6138000
+Twin House,5.0,5.0,294.9,Ground,North Coast,Finished,No,Cash,16425000
+Apartment,3.0,3.0,195.3,0,Madinaty,Finished,No,Installment,7173000
+Villa,,4.0,333.3,Ground,Hurghada,Semi Finished,Yes,Cash,10245000
+Duplex,5.0,5.0,249.7,,Sheikh Zayed,Finished,No,Cash,10407000
+Townhouse,4.0,3.0,316.5,Ground,Hurghada,Finished,Yes,Cash,12272000
+Duplex,4.0,3.0,290.6,2,6th of October,Finished,No,Any,7764000
+Chalet,2.0,1.0,146.6,3,Sheikh Zayed,Finished,No,Cash,5642000
+Apartment,2.0,,112.7,0,New Cairo,Semi Finished,No,Installment,3584000
+Chalet,2.0,1.0,113.3,4,New Cairo,Core & Shell,No,Cash,2882000
+Apartment,3.0,3.0,187.1,3,Maadi,Finished,No,Cash,5152000
+Townhouse,5.0,4.0,200.1,Ground,6th of October,Semi Finished,No,Installment,5323000
+Villa,6.0,5.0,343.1,Ground,New Cairo,Semi Finished,Yes,Installment,17147000
+Chalet,1.0,1.0,82.6,2,Nasr City,Finished,No,Any,1843000
+Villa,6.0,5.0,305.3,Ground,Sheikh Zayed,Finished,No,Any,13858000
+Duplex,5.0,5.0,241.9,1,6th of October,Unfinished,No,Installment,4668000
+Villa,4.0,3.0,322.7,Ground,Sheikh Zayed,,No,Installment,14531000
+Penthouse,4.0,4.0,319.6,4,Madinaty,Semi Finished,No,Installment,9516000
+Apartment,3.0,2.0,189.6,0,Madinaty,Semi Finished,No,Installment,4972000
+Apartment,1.0,2.0,102.6,3,6th of October,Finished,No,Any,2240000
+Apartment,4.0,3.0,220.5,1,Sheikh Zayed,Semi Finished,No,Installment,6273000
+Apartment,2.0,,85.3,6,Sheikh Zayed,Semi Finished,Yes,Installment,3055000
+Townhouse,4.0,4.0,240.1,Ground,Madinaty,Semi Finished,No,Cash,7827000
+Apartment,3.0,3.0,219.2,2,Sheikh Zayed,Finished,No,Cash,8849000
+Studio,1.0,1.0,46.3,3,New Cairo,Finished,Yes,Any,1791000
+Apartment,2.0,1.0,114.3,,New Cairo,Finished,No,Cash,4225000
+Apartment,,2.0,106.5,6,6th of October,Unfinished,No,Installment,1855000
+Penthouse,4.0,4.0,318.0,6,6th of October,,No,Cash,8784000
+Duplex,6.0,5.0,280.8,2,Madinaty,,No,Any,9724000
+Villa,6.0,5.0,358.4,Ground,New Cairo,Finished,No,Cash,17408000
+Villa,6.0,5.0,463.7,Ground,Sheikh Zayed,Finished,No,Any,24587000
+Duplex,5.0,4.0,214.5,3,Madinaty,Semi Finished,No,Cash,6874000
+Apartment,,3.0,100.4,,Madinaty,Semi Finished,No,Any,2874000
+Studio,1.0,1.0,60.2,1,Sheikh Zayed,Semi Finished,No,Installment,1781000
+Studio,1.0,1.0,63.1,3,6th of October,Finished,Yes,Cash,1770000
+Duplex,4.0,4.0,327.8,2,Sheikh Zayed,Semi Finished,No,Installment,10593000
+Apartment,3.0,2.0,151.6,0,North Coast,Finished,No,Cash,6443000
+Duplex,4.0,4.0,260.1,2,New Cairo,Finished,No,Cash,11145000
+Apartment,,1.0,137.2,1,North Coast,Finished,Yes,Any,6951000
+Apartment,1.0,1.0,107.2,7,Maadi,Finished,No,Installment,3133000
+Apartment,3.0,3.0,205.2,2,6th of October,Finished,No,Installment,5289000
+Villa,6.0,5.0,432.4,Ground,New Cairo,Semi Finished,Yes,Cash,18021000
+Townhouse,4.0,4.0,274.2,Ground,6th of October,Semi Finished,No,Installment,6805000
+Penthouse,3.0,3.0,213.9,5,Sheikh Zayed,Core & Shell,Yes,Any,8540000
+Penthouse,5.0,5.0,222.9,4,New Cairo,Finished,No,Installment,9441000
+Apartment,4.0,3.0,224.0,,Nasr City,Finished,No,Any,4786000
+Apartment,2.0,2.0,103.7,2,Hurghada,Finished,Yes,Any,2811000
+Apartment,3.0,2.0,201.3,2,6th of October,Unfinished,No,Cash,3476000
+Studio,1.0,1.0,42.4,4,Maadi,Semi Finished,No,Cash,1155000
+Apartment,2.0,1.0,119.3,2,New Cairo,Semi Finished,No,Any,3802000
+Townhouse,4.0,3.0,262.7,Ground,Sheikh Zayed,Finished,Yes,Installment,13078000
+Villa,6.0,5.0,395.1,Ground,New Cairo,Semi Finished,No,Cash,16672000
+Apartment,4.0,3.0,218.3,3,Nasr City,Finished,No,Cash,5067000
+Penthouse,6.0,5.0,325.4,1,North Coast,Semi Finished,No,Installment,12340000
+Villa,6.0,5.0,539.3,Ground,Maadi,Unfinished,No,Installment,14911000
+Townhouse,3.0,3.0,220.4,Ground,New Cairo,Unfinished,No,Cash,5502000
+Townhouse,4.0,4.0,303.8,Ground,Sheikh Zayed,Semi Finished,No,Cash,10434000
+Apartment,3.0,3.0,222.8,3,6th of October,Finished,No,Any,5536000
+Apartment,2.0,1.0,121.2,5,Sheikh Zayed,Unfinished,No,Installment,3292000
+Villa,5.0,,355.6,Ground,Madinaty,Semi Finished,No,Installment,11312000
+Townhouse,6.0,5.0,290.4,Ground,Madinaty,Finished,No,Installment,10807000
+Apartment,2.0,2.0,156.7,2,Nasr City,Finished,Yes,Installment,3436000
+Duplex,4.0,4.0,209.8,4,Sheikh Zayed,Finished,Yes,Installment,11663000
+Duplex,5.0,4.0,202.2,4,Sheikh Zayed,Finished,No,Installment,7282000
+Penthouse,4.0,3.0,193.3,7,New Cairo,Finished,No,Cash,9058000
+Apartment,2.0,1.0,144.0,0,Sheikh Zayed,Semi Finished,No,Installment,4456000
+Duplex,5.0,5.0,237.1,1,Sheikh Zayed,Finished,No,Installment,9717000
+Townhouse,4.0,4.0,319.6,Ground,Maadi,Finished,No,Any,9877000
+Apartment,4.0,3.0,217.7,4,Nasr City,Semi Finished,No,Cash,4507000
+Apartment,4.0,3.0,156.7,1,New Cairo,Core & Shell,No,Any,4900000
+Studio,1.0,1.0,53.9,2,Sheikh Zayed,Semi Finished,Yes,Any,1866000
+Apartment,2.0,1.0,91.5,7,New Cairo,Finished,No,Cash,3628000
+Chalet,2.0,2.0,123.9,4,New Cairo,Unfinished,No,Installment,2925000
+Villa,6.0,5.0,605.9,Ground,Madinaty,Core & Shell,No,Installment,20419000
+Apartment,4.0,3.0,229.5,6,New Cairo,Finished,Yes,Any,9491000
+Townhouse,5.0,4.0,269.7,Ground,Sheikh Zayed,Finished,No,Installment,10102000
+Apartment,3.0,3.0,195.6,1,New Cairo,Semi Finished,No,Installment,6337000
+Villa,5.0,4.0,409.5,Ground,Alexandria,Core & Shell,No,Installment,10762000
+Apartment,4.0,3.0,171.3,1,6th of October,Unfinished,No,Cash,2886000
+Villa,6.0,5.0,640.5,Ground,New Cairo,Core & Shell,No,Cash,20943000
+Apartment,4.0,3.0,227.2,7,6th of October,Semi Finished,No,Installment,4677000
+Apartment,3.0,2.0,117.5,3,Maadi,Semi Finished,No,Installment,3059000
+Twin House,3.0,3.0,239.8,Ground,North Coast,Finished,No,Installment,13649000
+Apartment,4.0,3.0,215.8,2,New Cairo,Finished,No,Installment,8693000
+Duplex,5.0,5.0,282.2,,Alexandria,,Yes,Cash,9131000
+Apartment,2.0,2.0,199.0,1,North Coast,Semi Finished,No,Installment,7261000
+Penthouse,5.0,4.0,300.8,0,North Coast,Semi Finished,No,Cash,13377000
+Apartment,3.0,3.0,207.4,1,Nasr City,Semi Finished,No,Any,3799000
+Twin House,3.0,,241.5,Ground,Nasr City,Finished,No,Any,7359000
+Villa,6.0,5.0,418.9,Ground,Sheikh Zayed,Semi Finished,No,Installment,18181000
+Apartment,2.0,1.0,94.3,0,Shorouk City,Finished,No,Cash,1870000
+Apartment,3.0,3.0,189.7,4,6th of October,Finished,Yes,Cash,5656000
+Apartment,,3.0,169.3,3,Maadi,Semi Finished,Yes,Installment,5178000
+Villa,6.0,5.0,609.0,Ground,Sheikh Zayed,Semi Finished,No,Installment,24336000
+Apartment,2.0,2.0,145.3,4,Maadi,Unfinished,No,Installment,3058000
+Chalet,,3.0,159.6,4,Madinaty,Finished,No,Cash,4842000
+Apartment,2.0,2.0,135.8,2,New Cairo,Finished,No,Installment,5679000
+Apartment,3.0,2.0,197.7,1,Madinaty,Finished,No,Installment,6560000
+Duplex,4.0,4.0,261.2,0,6th of October,Finished,No,Cash,6075000
+Duplex,5.0,5.0,265.5,5,Madinaty,Core & Shell,Yes,Installment,8604000
+Apartment,2.0,2.0,111.8,3,6th of October,Semi Finished,No,Cash,1870000
+Apartment,1.0,1.0,86.2,3,Sheikh Zayed,Core & Shell,Yes,Installment,2527000
+Apartment,3.0,,221.1,2,North Coast,Finished,Yes,Any,11460000
+Penthouse,4.0,3.0,274.2,5,Sheikh Zayed,Core & Shell,No,Installment,8430000
+Duplex,4.0,4.0,262.2,1,Madinaty,Finished,No,Any,9322000
+Villa,6.0,5.0,624.9,Ground,6th of October,Core & Shell,No,Installment,13472000
+Chalet,2.0,2.0,93.9,2,6th of October,Finished,No,Cash,2599000
+Chalet,1.0,1.0,91.8,1,Sheikh Zayed,Finished,No,Installment,2738000
+Villa,5.0,4.0,332.1,Ground,6th of October,Semi Finished,No,Installment,9638000
+Townhouse,4.0,3.0,302.3,,Sheikh Zayed,Unfinished,Yes,Installment,10516000
+Apartment,2.0,1.0,142.9,0,New Cairo,Finished,No,Cash,4708000
+Apartment,1.0,1.0,95.8,1,Sheikh Zayed,Finished,No,Installment,3082000
+Apartment,4.0,3.0,210.7,3,New Cairo,Core & Shell,Yes,Cash,6799000
+Apartment,3.0,3.0,119.7,5,Hurghada,Finished,No,Cash,2962000
+Villa,6.0,5.0,410.2,Ground,Hurghada,Finished,No,Installment,15839000
+Twin House,4.0,3.0,251.5,Ground,Sheikh Zayed,Finished,No,Cash,11099000
+Apartment,2.0,1.0,140.9,4,Maadi,Finished,No,Any,4215000
+Apartment,3.0,3.0,124.0,,Sheikh Zayed,Core & Shell,Yes,Installment,4481000
+Villa,6.0,5.0,538.8,Ground,Maadi,Semi Finished,No,Installment,18482000
+Twin House,6.0,5.0,346.4,Ground,Madinaty,Semi Finished,No,Installment,11499000
+Apartment,2.0,2.0,137.4,3,North Coast,Unfinished,No,Installment,4143000
+Villa,6.0,5.0,493.2,Ground,Sheikh Zayed,Finished,No,Cash,22880000
+Apartment,3.0,2.0,134.9,3,Shorouk City,Finished,No,Any,3223000
+Apartment,2.0,2.0,125.9,3,Sheikh Zayed,Finished,Yes,Installment,4992000
+Studio,1.0,1.0,43.7,1,Hurghada,Finished,No,Any,1066000
+Twin House,6.0,,345.1,Ground,New Cairo,,No,Installment,19498000
+Apartment,2.0,1.0,86.6,6,Nasr City,,No,Cash,1580000
+Twin House,4.0,4.0,239.0,Ground,Nasr City,Semi Finished,No,Installment,5961000
+Duplex,3.0,3.0,236.2,1,Maadi,Finished,No,Cash,8322000
+Townhouse,4.0,,244.2,Ground,New Cairo,Semi Finished,Yes,Installment,9573000
+Villa,6.0,5.0,506.9,Ground,North Coast,Semi Finished,No,Cash,23487000
+Villa,6.0,5.0,571.3,,New Cairo,,No,Installment,20881000
+Villa,5.0,5.0,326.1,Ground,Nasr City,Core & Shell,No,Any,7348000
+Duplex,5.0,5.0,300.2,4,New Cairo,Semi Finished,No,Installment,12322000
+Apartment,4.0,3.0,205.8,4,Sheikh Zayed,Semi Finished,No,Any,6035000
+Apartment,1.0,1.0,108.8,2,6th of October,Semi Finished,No,Installment,2274000
+Apartment,4.0,3.0,229.7,4,Sheikh Zayed,Semi Finished,No,Installment,7969000
+Duplex,6.0,5.0,339.7,2,New Cairo,Finished,Yes,Any,16612000
+Apartment,3.0,2.0,185.0,0,New Cairo,Finished,No,Any,6811000
+Duplex,4.0,3.0,299.3,1,Sheikh Zayed,Semi Finished,No,Installment,10130000
+Twin House,5.0,4.0,333.6,Ground,Shorouk City,Finished,No,Cash,7858000
+Apartment,2.0,1.0,202.4,1,Alexandria,Finished,No,Installment,4592000
+Duplex,5.0,4.0,287.9,2,New Cairo,Semi Finished,Yes,Cash,9289000
+Apartment,2.0,1.0,170.4,2,Sheikh Zayed,Finished,Yes,Installment,6771000
+Townhouse,3.0,2.0,227.3,Ground,New Cairo,Semi Finished,No,Installment,7094000
+Apartment,4.0,3.0,185.0,5,New Cairo,Semi Finished,Yes,Any,7991000
+Duplex,4.0,4.0,273.4,2,Maadi,Unfinished,Yes,Any,6582000
+Chalet,,1.0,118.1,5,Nasr City,Finished,Yes,Installment,3035000
+Twin House,6.0,5.0,343.0,Ground,New Cairo,Finished,No,Cash,18795000
+Duplex,5.0,5.0,280.7,1,New Cairo,Semi Finished,No,Any,8941000
+Villa,6.0,5.0,598.3,Ground,New Cairo,Core & Shell,No,Cash,23987000
+Duplex,4.0,3.0,212.5,3,Madinaty,Unfinished,Yes,Installment,6836000
+Townhouse,5.0,4.0,202.2,Ground,Hurghada,Finished,No,Cash,6470000
+Villa,6.0,5.0,623.1,Ground,New Cairo,Finished,No,Installment,26860000
+Apartment,3.0,3.0,151.2,2,New Cairo,Core & Shell,No,Any,4408000
+Twin House,4.0,3.0,323.4,Ground,Alexandria,Finished,No,Cash,9392000
+Duplex,4.0,3.0,289.9,4,North Coast,,No,Installment,9862000
+Duplex,6.0,5.0,279.1,2,Sheikh Zayed,Finished,Yes,Cash,12503000
+Apartment,2.0,2.0,152.3,1,New Cairo,Finished,No,Any,5571000
+Duplex,3.0,3.0,180.5,0,New Cairo,Finished,Yes,Any,7880000
+Apartment,4.0,3.0,204.5,3,6th of October,Finished,No,Cash,5083000
+Duplex,3.0,2.0,249.9,0,Sheikh Zayed,Semi Finished,No,Cash,7333000
+Apartment,2.0,2.0,92.7,2,New Cairo,Unfinished,No,Installment,2439000
+Duplex,4.0,4.0,249.9,3,Nasr City,Finished,No,Cash,4791000
+Studio,1.0,1.0,64.2,4,New Cairo,Core & Shell,No,Installment,1675000
+Apartment,2.0,1.0,139.2,5,Shorouk City,Finished,No,Cash,2455000
+Studio,1.0,1.0,64.4,5,Sheikh Zayed,Semi Finished,No,Cash,2017000
+Apartment,1.0,2.0,107.9,,New Cairo,Finished,No,Installment,4009000
+Townhouse,3.0,3.0,250.1,Ground,Nasr City,Unfinished,No,Cash,3911000
+Penthouse,6.0,5.0,325.8,1,Sheikh Zayed,Semi Finished,No,Any,12322000
+Villa,6.0,5.0,414.4,Ground,Hurghada,Semi Finished,No,Cash,12148000
+Penthouse,5.0,4.0,259.4,0,6th of October,,No,Cash,5596000
+Townhouse,5.0,5.0,318.6,Ground,Sheikh Zayed,Semi Finished,No,Any,11424000
+Apartment,2.0,1.0,132.1,3,Maadi,Unfinished,No,Installment,2213000
+Apartment,1.0,2.0,124.9,3,Sheikh Zayed,Semi Finished,No,Installment,3531000
+Duplex,5.0,,322.9,3,Alexandria,Unfinished,No,Cash,6012000
+Chalet,1.0,2.0,114.8,4,Sheikh Zayed,Semi Finished,No,Installment,3252000
+Penthouse,6.0,5.0,353.8,0,6th of October,Finished,No,Installment,10410000
+Penthouse,5.0,5.0,282.4,4,New Cairo,Semi Finished,No,Cash,10162000
+Apartment,3.0,2.0,173.2,7,Sheikh Zayed,Finished,No,Any,6220000
+Chalet,3.0,3.0,150.7,1,Madinaty,Semi Finished,No,Installment,4566000
+Apartment,3.0,3.0,157.3,3,Madinaty,Finished,No,Installment,4939000
+Villa,6.0,5.0,463.6,Ground,New Cairo,Semi Finished,No,Installment,19902000
+Apartment,4.0,3.0,183.4,3,New Cairo,Finished,No,Installment,6816000
+Apartment,4.0,3.0,225.9,3,Madinaty,Finished,No,Cash,6682000
+Apartment,4.0,3.0,213.8,4,North Coast,Finished,No,Installment,8806000
+Apartment,3.0,2.0,209.6,1,New Cairo,Unfinished,No,Cash,4999000
+Duplex,3.0,3.0,218.6,1,6th of October,Finished,Yes,Installment,5955000
+Apartment,2.0,2.0,200.4,6,Sheikh Zayed,Finished,Yes,Installment,8454000
+Apartment,4.0,3.0,220.4,4,Alexandria,Semi Finished,No,Installment,4721000
+Apartment,3.0,,190.4,3,New Cairo,Semi Finished,No,Any,6682000
+Apartment,2.0,1.0,96.9,,New Cairo,Finished,No,Cash,3850000
+Apartment,1.0,1.0,110.0,2,Shorouk City,Finished,No,Installment,2332000
+Apartment,2.0,2.0,110.1,7,New Cairo,Finished,No,Installment,4408000
+Duplex,5.0,4.0,299.6,1,6th of October,Unfinished,No,Installment,5547000
+Duplex,6.0,5.0,280.6,1,6th of October,Finished,No,Installment,8575000
+Duplex,3.0,3.0,197.1,0,Sheikh Zayed,Finished,No,Cash,6948000
+Villa,6.0,5.0,547.3,Ground,Sheikh Zayed,Finished,Yes,Installment,27155000
+Apartment,2.0,2.0,161.9,2,6th of October,Finished,No,Cash,3592000
+Townhouse,6.0,5.0,304.6,,New Cairo,Semi Finished,Yes,Any,11710000
+Villa,6.0,5.0,424.2,Ground,6th of October,Finished,Yes,Cash,15373000
+Villa,,,633.5,Ground,Madinaty,Finished,No,Any,25089000
+Apartment,4.0,3.0,222.8,1,Shorouk City,,No,Installment,4950000
+Apartment,,2.0,120.8,2,New Cairo,Finished,No,Cash,4730000
+Apartment,1.0,2.0,109.3,7,New Cairo,Finished,No,Installment,3949000
+Apartment,3.0,2.0,162.8,2,Sheikh Zayed,Core & Shell,No,Any,4960000
+Villa,6.0,5.0,462.2,Ground,Sheikh Zayed,Semi Finished,No,Any,20697000
+Villa,6.0,5.0,344.8,Ground,Sheikh Zayed,Core & Shell,No,Cash,14196000
+Duplex,5.0,5.0,320.4,,Maadi,Core & Shell,No,Cash,8772000
+Penthouse,5.0,5.0,361.6,4,New Cairo,Semi Finished,No,Cash,11971000
+Chalet,2.0,2.0,94.6,,New Cairo,Finished,No,Cash,3646000
+Duplex,5.0,4.0,319.0,0,Sheikh Zayed,Semi Finished,No,Installment,12143000
+Twin House,3.0,3.0,261.7,Ground,Maadi,Core & Shell,No,Any,7754000
+Apartment,3.0,2.0,208.2,5,New Cairo,Semi Finished,No,Installment,6965000
+Apartment,2.0,1.0,146.7,6,Nasr City,Semi Finished,No,Installment,2983000
+Apartment,2.0,2.0,98.0,5,Sheikh Zayed,Finished,No,Installment,3702000
+Duplex,3.0,3.0,187.5,1,Alexandria,Core & Shell,No,Installment,3678000
+Townhouse,4.0,4.0,241.6,Ground,Alexandria,Semi Finished,Yes,Cash,6375000
+Apartment,4.0,3.0,192.1,4,Sheikh Zayed,Unfinished,No,Installment,4748000
+Twin House,3.0,3.0,234.3,Ground,New Cairo,Finished,No,Any,10215000
+Apartment,3.0,3.0,134.6,7,Sheikh Zayed,Finished,No,Installment,4440000
+Twin House,5.0,5.0,272.6,Ground,New Cairo,Finished,Yes,Cash,15762000
+Apartment,3.0,2.0,182.6,,Maadi,Semi Finished,No,Cash,4646000
+Apartment,,,101.3,,Madinaty,Finished,No,Cash,3192000
+Villa,6.0,5.0,584.5,Ground,Maadi,Finished,No,Installment,23593000
+Apartment,3.0,2.0,187.9,5,Madinaty,Unfinished,No,Installment,3959000
+Apartment,1.0,2.0,130.5,,Sheikh Zayed,Finished,No,Cash,3971000
+Apartment,4.0,3.0,192.9,0,New Cairo,Core & Shell,No,Any,6348000
+Chalet,3.0,2.0,152.2,3,Maadi,Finished,Yes,Installment,5356000
+Villa,6.0,5.0,622.0,Ground,Sheikh Zayed,Core & Shell,No,Installment,23597000
+Apartment,3.0,3.0,177.8,2,Maadi,Semi Finished,No,Any,4491000
+Duplex,5.0,5.0,290.5,1,Sheikh Zayed,Core & Shell,No,Cash,8449000
+Duplex,4.0,4.0,246.4,4,New Cairo,Unfinished,No,Any,6428000
+Apartment,2.0,2.0,200.4,1,Hurghada,Finished,Yes,Cash,5631000
+Apartment,2.0,1.0,94.7,4,New Cairo,Finished,No,Installment,3765000
+Apartment,2.0,2.0,144.4,2,Hurghada,Finished,No,Any,3964000
+Apartment,4.0,3.0,171.6,5,Hurghada,Semi Finished,No,Any,3887000
+Duplex,4.0,4.0,226.1,5,Shorouk City,Core & Shell,Yes,Installment,4607000
+Apartment,3.0,2.0,205.1,6,Nasr City,Finished,No,Installment,4462000
+Villa,6.0,5.0,545.7,Ground,6th of October,Semi Finished,No,Installment,16134000
+Duplex,4.0,4.0,233.0,2,Alexandria,Finished,No,Any,6347000
+Apartment,4.0,3.0,224.6,1,Sheikh Zayed,Core & Shell,No,Cash,6303000
+Villa,6.0,5.0,543.4,Ground,6th of October,Unfinished,Yes,Any,12111000
+Apartment,3.0,2.0,92.2,0,Nasr City,Finished,No,Installment,2366000
+Twin House,3.0,3.0,239.7,Ground,Sheikh Zayed,Finished,No,Installment,10722000
+Villa,6.0,5.0,581.6,Ground,Sheikh Zayed,Finished,No,Installment,29596000
+Chalet,2.0,2.0,131.9,6,Sheikh Zayed,Semi Finished,No,Installment,4009000
+Villa,6.0,5.0,609.4,Ground,6th of October,Semi Finished,No,Any,14386000
+Apartment,2.0,1.0,118.8,1,Madinaty,Finished,Yes,Installment,4928000
+Duplex,4.0,3.0,219.8,6,New Cairo,Finished,No,Any,8771000
+Twin House,5.0,5.0,317.7,,North Coast,Finished,Yes,Cash,19386000
+Duplex,,4.0,309.1,7,Maadi,Semi Finished,No,Installment,7724000
+Chalet,1.0,1.0,76.5,2,Madinaty,Semi Finished,No,Any,2164000
+Townhouse,5.0,5.0,316.7,Ground,6th of October,Finished,No,Installment,9063000
+Apartment,2.0,2.0,113.1,0,Shorouk City,Semi Finished,No,Installment,2080000
+Apartment,3.0,2.0,178.1,4,New Cairo,Semi Finished,Yes,Installment,5966000
+Duplex,4.0,3.0,265.4,6,Madinaty,Finished,Yes,Any,10631000
+Apartment,2.0,2.0,155.7,1,New Cairo,Finished,No,Any,5464000
+Chalet,2.0,2.0,140.5,1,Alexandria,Semi Finished,No,Cash,2641000
+Townhouse,5.0,4.0,300.0,Ground,Hurghada,Unfinished,No,Any,5667000
+Apartment,2.0,2.0,148.7,1,Sheikh Zayed,Finished,Yes,Installment,6050000
+Apartment,3.0,2.0,203.5,1,New Cairo,Finished,Yes,Cash,8964000
+Penthouse,4.0,3.0,203.3,4,Shorouk City,Finished,No,Any,5224000
+Apartment,3.0,2.0,196.5,0,Sheikh Zayed,Semi Finished,No,Installment,5703000
+Chalet,3.0,,149.0,1,Alexandria,Finished,No,Any,3654000
+Apartment,2.0,1.0,120.2,4,New Cairo,Finished,No,Cash,4879000
+Duplex,5.0,5.0,241.9,5,New Cairo,Semi Finished,No,Cash,8428000
+Apartment,2.0,2.0,174.2,3,Hurghada,Semi Finished,No,Installment,3223000
+Duplex,5.0,4.0,261.3,3,Maadi,Finished,No,Cash,9055000
+Villa,6.0,5.0,423.9,Ground,Madinaty,Finished,No,Installment,16681000
+Villa,6.0,5.0,441.7,Ground,Sheikh Zayed,Semi Finished,Yes,Cash,18287000
+Apartment,3.0,2.0,133.7,1,Maadi,Finished,No,Installment,3771000
+Penthouse,6.0,5.0,361.9,1,Nasr City,Finished,No,Cash,8767000
+Townhouse,5.0,,300.2,Ground,Nasr City,Core & Shell,No,Cash,5235000
+Apartment,4.0,3.0,160.2,1,Maadi,Finished,No,Installment,5025000
+Apartment,2.0,2.0,208.9,1,6th of October,Semi Finished,No,Cash,4803000
+Apartment,2.0,2.0,180.0,4,Sheikh Zayed,Unfinished,Yes,Installment,4446000
+Duplex,6.0,5.0,266.0,1,Sheikh Zayed,Finished,No,Any,10632000
+Duplex,5.0,,224.6,0,Shorouk City,Finished,No,Installment,5816000
+Villa,6.0,5.0,345.0,Ground,New Cairo,Semi Finished,No,Any,15562000
+Apartment,3.0,3.0,157.6,1,Maadi,Core & Shell,No,Cash,3542000
+Apartment,3.0,3.0,195.1,1,New Cairo,Unfinished,No,Cash,4925000
+Villa,6.0,5.0,527.9,Ground,Nasr City,Semi Finished,No,Any,12214000
+Villa,6.0,5.0,565.3,,Shorouk City,Finished,No,Installment,16375000
+Studio,1.0,1.0,73.9,7,New Cairo,Semi Finished,No,Installment,2233000
+Apartment,3.0,3.0,94.1,2,New Cairo,Finished,No,Installment,3261000
+Duplex,5.0,5.0,198.0,1,New Cairo,Finished,No,Installment,7843000
+Apartment,4.0,3.0,172.3,2,Nasr City,Finished,Yes,Cash,4097000
+Apartment,3.0,2.0,204.8,7,Madinaty,Finished,No,Installment,5980000
+Duplex,5.0,4.0,338.4,6,New Cairo,Semi Finished,No,Installment,10991000
+Duplex,3.0,3.0,261.9,0,Maadi,Finished,No,Installment,9606000
+Studio,1.0,1.0,55.4,2,Sheikh Zayed,Finished,No,Any,1949000
+Apartment,3.0,3.0,165.7,1,6th of October,Finished,No,Cash,4227000
+Apartment,2.0,1.0,128.6,,North Coast,Core & Shell,No,Cash,4526000
+Penthouse,5.0,5.0,233.9,6,Sheikh Zayed,Semi Finished,No,Any,8244000
+Villa,4.0,3.0,308.0,Ground,6th of October,Finished,Yes,Installment,10659000
+Apartment,2.0,1.0,90.3,2,New Cairo,Finished,No,Installment,3480000
+Apartment,3.0,3.0,191.8,4,New Cairo,Finished,No,Cash,7712000
+Apartment,2.0,2.0,146.2,3,Sheikh Zayed,Unfinished,Yes,Cash,3835000
+Townhouse,4.0,,226.8,Ground,New Cairo,Semi Finished,No,Installment,9194000
+Apartment,,2.0,157.7,4,Nasr City,Semi Finished,No,Installment,2821000
+Apartment,3.0,3.0,202.2,6,Sheikh Zayed,Semi Finished,Yes,Any,5975000
+Apartment,3.0,2.0,162.7,0,6th of October,Finished,No,Any,3778000
+Apartment,3.0,3.0,207.6,1,New Cairo,,No,Any,4871000
+Apartment,2.0,1.0,205.9,1,Sheikh Zayed,Semi Finished,No,Installment,5629000
+Villa,6.0,5.0,534.7,,Maadi,Finished,No,Installment,19073000
+Apartment,1.0,2.0,98.2,6,Hurghada,Finished,No,Installment,2781000
+Chalet,2.0,1.0,126.3,3,New Cairo,Semi Finished,Yes,Cash,4757000
+Apartment,2.0,2.0,141.0,0,Alexandria,Unfinished,No,Cash,2226000
+Villa,6.0,5.0,642.9,Ground,6th of October,Finished,No,Installment,20026000
+Townhouse,,5.0,307.0,Ground,6th of October,Core & Shell,Yes,Any,6975000
+Duplex,3.0,3.0,212.0,4,6th of October,Semi Finished,No,Cash,4929000
+Villa,6.0,5.0,505.1,Ground,New Cairo,Finished,No,Cash,26478000
+Apartment,,2.0,97.7,5,New Cairo,Finished,No,Any,3662000
+Apartment,2.0,2.0,131.1,4,Nasr City,Finished,No,Cash,3230000
+Duplex,5.0,5.0,333.7,3,Sheikh Zayed,Semi Finished,No,Installment,12165000
+Studio,1.0,1.0,50.1,2,North Coast,Finished,No,Cash,2027000
+Duplex,4.0,3.0,257.8,3,Sheikh Zayed,Finished,Yes,Cash,11687000
+Villa,5.0,5.0,364.8,Ground,New Cairo,Semi Finished,Yes,Any,17579000
+Penthouse,6.0,5.0,378.9,2,Maadi,Semi Finished,Yes,Cash,11116000
+Villa,6.0,5.0,409.4,Ground,Sheikh Zayed,Finished,Yes,Installment,18557000
+Apartment,2.0,2.0,196.7,5,6th of October,Finished,No,Cash,4695000
+Villa,6.0,5.0,343.7,Ground,Maadi,Finished,No,Cash,13534000
+Twin House,4.0,4.0,262.0,Ground,Alexandria,,Yes,Cash,8047000
+Apartment,2.0,2.0,114.9,0,Shorouk City,Core & Shell,No,Cash,2013000
+Duplex,5.0,5.0,190.0,,Maadi,Finished,Yes,Cash,8131000
+Apartment,3.0,2.0,197.6,5,Maadi,Core & Shell,No,Installment,4529000
+Villa,6.0,5.0,468.7,Ground,North Coast,Semi Finished,No,Installment,23419000
+Apartment,2.0,1.0,144.4,4,Sheikh Zayed,Semi Finished,No,Cash,4781000
+Villa,6.0,5.0,513.6,Ground,New Cairo,Semi Finished,Yes,Installment,23980000
+Penthouse,4.0,4.0,254.5,4,Sheikh Zayed,Finished,No,Any,10926000
+Apartment,3.0,3.0,173.4,2,New Cairo,Finished,No,Any,6553000
+Duplex,6.0,5.0,294.9,2,Maadi,Semi Finished,No,Installment,8453000
+Penthouse,6.0,5.0,358.2,5,Nasr City,Semi Finished,No,Any,6870000
+Twin House,5.0,4.0,297.0,Ground,Nasr City,Semi Finished,No,Cash,8458000
+Apartment,1.0,1.0,97.4,2,New Cairo,Finished,No,Installment,3521000
+Apartment,4.0,3.0,225.0,1,Maadi,Core & Shell,No,Installment,5792000
+Apartment,1.0,2.0,87.4,3,Sheikh Zayed,Semi Finished,No,Installment,2513000
+Studio,1.0,1.0,52.7,2,Maadi,,No,Installment,1619000
+Twin House,4.0,,281.8,Ground,6th of October,Finished,No,Installment,9640000
+Villa,6.0,5.0,642.4,Ground,Sheikh Zayed,Semi Finished,No,Any,27387000
+Chalet,2.0,1.0,124.4,0,New Cairo,Semi Finished,No,Any,3875000
+Villa,,5.0,625.8,Ground,New Cairo,Finished,Yes,Installment,36218000
+Duplex,4.0,4.0,276.1,7,Madinaty,Core & Shell,No,Installment,8070000
+Apartment,3.0,2.0,135.9,2,North Coast,Finished,No,Cash,5600000
+Penthouse,3.0,2.0,212.6,0,Nasr City,Finished,No,Cash,5192000
+Apartment,1.0,2.0,128.3,3,New Cairo,Core & Shell,No,Installment,3263000
+Chalet,1.0,,88.7,,Sheikh Zayed,Core & Shell,No,Installment,2746000
+Penthouse,,4.0,282.5,4,Maadi,Semi Finished,No,Cash,7176000
+Duplex,5.0,4.0,229.6,5,Shorouk City,Core & Shell,No,Any,4462000
+Apartment,3.0,2.0,151.7,0,New Cairo,Finished,No,Installment,6336000
+Apartment,3.0,2.0,126.6,,New Cairo,Core & Shell,No,Installment,3283000
+Apartment,2.0,1.0,103.1,1,Maadi,Finished,No,Cash,2933000
+Apartment,3.0,3.0,163.8,2,Sheikh Zayed,Finished,No,Cash,4859000
+Apartment,3.0,3.0,130.8,2,Sheikh Zayed,Finished,No,Any,4323000
+Twin House,6.0,5.0,316.2,Ground,New Cairo,Finished,No,Installment,14757000
+Villa,6.0,5.0,608.6,Ground,6th of October,Finished,Yes,Any,21835000
+Apartment,4.0,3.0,227.3,3,Madinaty,Finished,No,Any,7502000
+Apartment,4.0,3.0,215.6,2,North Coast,,No,Installment,8485000
+Apartment,2.0,1.0,192.8,4,6th of October,Finished,No,Cash,4572000
+Duplex,,5.0,254.8,6,6th of October,Semi Finished,Yes,Any,7084000
+Villa,6.0,5.0,381.2,Ground,New Cairo,Finished,No,Any,19568000
+Townhouse,5.0,5.0,314.1,Ground,6th of October,Finished,No,Installment,7547000
+Villa,6.0,,486.8,Ground,Sheikh Zayed,Semi Finished,No,Installment,18506000
+Studio,1.0,1.0,49.1,1,Nasr City,Core & Shell,Yes,Installment,994000
+Chalet,3.0,3.0,138.7,7,Sheikh Zayed,Semi Finished,Yes,Installment,5181000
+Apartment,1.0,1.0,130.2,2,New Cairo,Finished,Yes,Installment,5302000
+Twin House,5.0,5.0,268.0,Ground,New Cairo,Semi Finished,No,Any,12132000
+Apartment,2.0,2.0,108.5,5,Sheikh Zayed,Finished,No,Installment,3418000
+Chalet,1.0,2.0,77.8,2,New Cairo,Finished,No,Cash,3199000
+Apartment,3.0,3.0,119.1,3,New Cairo,Finished,No,Cash,4672000
+Townhouse,5.0,4.0,213.9,Ground,Hurghada,Core & Shell,Yes,Cash,5279000
+Townhouse,4.0,3.0,244.0,Ground,6th of October,Finished,No,Cash,7219000
+Chalet,1.0,2.0,82.0,1,6th of October,Finished,No,Any,2205000
+Penthouse,5.0,4.0,355.5,3,Alexandria,Finished,No,Cash,10121000
+Apartment,4.0,3.0,198.4,,Hurghada,Core & Shell,No,Cash,3809000
+Apartment,3.0,3.0,172.4,0,Nasr City,Semi Finished,No,Cash,3388000
+Apartment,3.0,3.0,110.9,2,Madinaty,Finished,Yes,Installment,3615000
+Apartment,3.0,3.0,203.1,0,Sheikh Zayed,Semi Finished,No,Installment,5738000
+Duplex,5.0,5.0,290.4,2,Sheikh Zayed,Semi Finished,No,Cash,9897000
+Apartment,3.0,2.0,115.4,5,Sheikh Zayed,Semi Finished,No,Cash,4255000
+Studio,1.0,1.0,50.6,7,Maadi,Finished,No,Cash,1557000
+Duplex,4.0,3.0,225.1,5,Maadi,Core & Shell,No,Installment,6022000
+Chalet,2.0,1.0,133.1,2,Sheikh Zayed,Finished,No,Cash,4720000
+Apartment,,2.0,134.9,0,New Cairo,Semi Finished,No,Any,4128000
+Townhouse,6.0,5.0,319.6,Ground,Nasr City,Finished,No,Installment,8538000
+Twin House,4.0,4.0,335.4,Ground,New Cairo,Finished,No,Cash,15478000
+Villa,6.0,5.0,513.8,Ground,6th of October,Finished,No,Installment,15335000
+Duplex,5.0,5.0,327.0,2,Maadi,Semi Finished,Yes,Cash,10704000
+Penthouse,4.0,4.0,242.8,6,Maadi,Finished,Yes,Installment,9655000
+Apartment,1.0,2.0,110.4,5,Shorouk City,Semi Finished,Yes,Cash,2153000
+Villa,6.0,5.0,530.9,Ground,Alexandria,Finished,No,Installment,17336000
+Apartment,2.0,1.0,171.4,6,6th of October,Semi Finished,Yes,Installment,3951000
+Apartment,2.0,2.0,121.3,4,Maadi,Core & Shell,Yes,Any,3083000
+Apartment,4.0,3.0,157.7,6,Nasr City,Semi Finished,Yes,Cash,3521000
+Apartment,3.0,3.0,143.1,1,New Cairo,Semi Finished,No,Cash,4568000
+Apartment,4.0,3.0,218.1,5,New Cairo,Semi Finished,No,Installment,6800000
+Apartment,4.0,3.0,158.0,3,Sheikh Zayed,Finished,Yes,Any,6325000
+Twin House,6.0,5.0,322.5,Ground,6th of October,Core & Shell,No,Any,8596000
+Villa,6.0,5.0,451.8,Ground,Nasr City,Finished,No,Cash,14114000
+Twin House,6.0,5.0,359.1,Ground,Madinaty,Semi Finished,Yes,Cash,17115000
+Apartment,,3.0,185.0,1,New Cairo,Semi Finished,No,Installment,5825000
+Apartment,4.0,3.0,221.6,,New Cairo,Finished,No,Cash,7961000
+Villa,4.0,3.0,317.0,Ground,Hurghada,Finished,No,Cash,10583000
+Apartment,3.0,3.0,169.7,0,New Cairo,Finished,Yes,Cash,6923000
+Apartment,1.0,,107.5,,6th of October,Core & Shell,No,Installment,1921000
+Duplex,6.0,5.0,300.4,4,Nasr City,Unfinished,No,Any,5278000
+Apartment,3.0,3.0,126.9,4,6th of October,Semi Finished,No,Any,2705000
+Duplex,5.0,4.0,280.6,4,New Cairo,Semi Finished,Yes,Installment,11140000
+Duplex,5.0,5.0,233.4,6,New Cairo,Core & Shell,No,Installment,8047000
+Apartment,4.0,3.0,158.6,4,New Cairo,Finished,Yes,Any,7867000
+Apartment,4.0,,158.1,1,Nasr City,Finished,Yes,Cash,3954000
+Penthouse,5.0,5.0,362.8,0,6th of October,Semi Finished,No,Installment,8401000
+Villa,6.0,5.0,390.6,Ground,New Cairo,Core & Shell,No,Installment,15425000
+Apartment,2.0,2.0,105.5,0,Nasr City,Core & Shell,No,Cash,1907000
+Studio,1.0,1.0,63.4,2,Madinaty,Finished,No,Installment,2238000
+Apartment,2.0,2.0,186.2,0,New Cairo,Finished,No,Cash,6183000
+Duplex,5.0,5.0,311.8,2,6th of October,Finished,Yes,Installment,9626000
+Studio,,1.0,67.0,2,Maadi,Finished,Yes,Cash,2242000
+Apartment,,2.0,222.3,1,Sheikh Zayed,Finished,No,Cash,7052000
+Apartment,3.0,3.0,178.0,,Sheikh Zayed,Semi Finished,No,Cash,5215000
+Apartment,3.0,2.0,175.9,6,Nasr City,Finished,No,Any,3612000
+Apartment,2.0,2.0,134.5,1,Alexandria,Core & Shell,No,Installment,2510000
+Apartment,2.0,1.0,142.4,4,Madinaty,Finished,No,Installment,4618000
+Duplex,5.0,5.0,229.4,0,Nasr City,Semi Finished,Yes,Installment,5342000
+Apartment,3.0,3.0,158.7,1,Maadi,Finished,Yes,Installment,5070000
+Villa,6.0,5.0,547.4,Ground,Sheikh Zayed,Finished,No,Cash,24520000
+Studio,,1.0,66.4,6,Nasr City,Finished,Yes,Installment,1791000
+Chalet,1.0,1.0,72.1,3,6th of October,Unfinished,No,Cash,1460000
+Duplex,6.0,5.0,268.2,5,New Cairo,Core & Shell,No,Cash,8270000
+Apartment,2.0,1.0,131.4,1,Maadi,Finished,No,Installment,4229000
+Duplex,5.0,5.0,272.8,1,6th of October,Finished,No,Cash,6815000
+Villa,6.0,5.0,514.1,Ground,Sheikh Zayed,Unfinished,Yes,Cash,19686000
+Apartment,2.0,2.0,93.9,4,North Coast,Finished,No,Installment,3665000
+Apartment,3.0,2.0,129.3,,New Cairo,Finished,No,Installment,5622000
+Townhouse,4.0,4.0,280.5,Ground,Sheikh Zayed,,No,Installment,9401000
+Apartment,4.0,3.0,153.1,4,New Cairo,Unfinished,No,Installment,4134000
+Apartment,3.0,2.0,177.5,2,Shorouk City,Finished,No,Installment,3503000
+Apartment,2.0,1.0,169.7,3,Maadi,Finished,No,Installment,4421000
+Apartment,4.0,3.0,162.6,3,Sheikh Zayed,Unfinished,No,Cash,4256000
+Chalet,1.0,1.0,76.6,2,Maadi,Finished,No,Cash,2140000
+Penthouse,5.0,5.0,308.9,3,Sheikh Zayed,Finished,No,Installment,13531000
+Penthouse,6.0,5.0,341.5,2,Shorouk City,Semi Finished,No,Cash,6659000
+Apartment,4.0,3.0,192.1,2,6th of October,Core & Shell,No,Any,3950000
+Apartment,3.0,,178.9,7,Sheikh Zayed,Finished,No,Any,5864000
+Villa,5.0,5.0,307.2,Ground,North Coast,Unfinished,Yes,Cash,13718000
+Apartment,2.0,2.0,105.5,,Sheikh Zayed,Semi Finished,No,Cash,3595000
+Apartment,4.0,3.0,226.3,,New Cairo,Finished,No,Cash,8085000
+Penthouse,5.0,5.0,320.4,3,Nasr City,Unfinished,No,Cash,6424000
+Apartment,3.0,2.0,229.5,0,Hurghada,Finished,No,Cash,6054000
+Villa,6.0,5.0,560.0,Ground,Sheikh Zayed,Finished,No,Installment,25322000
+Apartment,3.0,3.0,116.3,6,New Cairo,Semi Finished,No,Any,3302000
+Apartment,2.0,1.0,168.3,7,Sheikh Zayed,Finished,No,Installment,5576000
+Apartment,1.0,2.0,129.5,0,6th of October,Finished,No,Cash,3501000
+Studio,1.0,1.0,50.1,1,New Cairo,Finished,No,Installment,1899000
+Chalet,1.0,2.0,71.1,1,Nasr City,Finished,No,Installment,1479000
+Twin House,5.0,5.0,276.9,Ground,Hurghada,Core & Shell,No,Any,7166000
+Villa,6.0,5.0,605.1,Ground,6th of October,Semi Finished,No,Any,16858000
+Apartment,1.0,2.0,97.6,5,Sheikh Zayed,Unfinished,No,Any,2193000
+Villa,5.0,4.0,331.7,Ground,Sheikh Zayed,Finished,No,Installment,16242000
+Villa,,5.0,360.4,Ground,New Cairo,Finished,No,Installment,20006000
+Chalet,2.0,1.0,142.9,4,Alexandria,Finished,No,Cash,3420000
+Apartment,4.0,3.0,227.7,1,Sheikh Zayed,Finished,No,Installment,8569000
+Villa,6.0,5.0,537.4,,Sheikh Zayed,Finished,No,Cash,26140000
+Apartment,2.0,1.0,150.4,3,Nasr City,Semi Finished,Yes,Installment,2850000
+Apartment,,3.0,192.4,1,6th of October,Core & Shell,No,Installment,3674000
+Penthouse,4.0,4.0,321.1,2,Nasr City,Unfinished,No,Cash,5434000
+Villa,5.0,5.0,303.9,Ground,New Cairo,Finished,No,Cash,16352000
+Apartment,4.0,3.0,222.6,1,Madinaty,Core & Shell,No,Cash,5758000
+Apartment,1.0,2.0,85.9,1,North Coast,Finished,No,Cash,3491000
+Villa,5.0,5.0,332.3,Ground,Nasr City,Finished,No,Cash,9967000
+Penthouse,4.0,3.0,213.6,5,North Coast,Core & Shell,No,Cash,7974000
+Townhouse,4.0,4.0,247.3,Ground,New Cairo,Semi Finished,No,Cash,8835000
+Twin House,4.0,4.0,254.4,Ground,6th of October,Finished,No,Cash,10274000
+Penthouse,4.0,4.0,313.9,,Nasr City,Finished,No,Any,7422000
+Apartment,2.0,2.0,125.1,5,Nasr City,Finished,No,Cash,2657000
+Duplex,5.0,4.0,227.3,2,Sheikh Zayed,Semi Finished,No,Cash,7904000
+Apartment,4.0,3.0,223.7,1,Sheikh Zayed,Finished,No,Installment,7803000
+Apartment,3.0,2.0,202.0,2,New Cairo,Unfinished,No,Any,4411000
+Chalet,3.0,3.0,115.3,4,Sheikh Zayed,Finished,No,Installment,3855000
+Apartment,2.0,1.0,99.7,0,New Cairo,Finished,No,Cash,4000000
+Townhouse,,4.0,318.7,Ground,Maadi,Finished,Yes,Installment,12061000
+Villa,6.0,5.0,564.0,Ground,New Cairo,Semi Finished,No,Installment,21864000
+Duplex,4.0,4.0,201.6,7,New Cairo,Finished,No,Installment,9465000
+Duplex,5.0,4.0,291.7,5,6th of October,Semi Finished,Yes,Installment,8259000
+Townhouse,3.0,3.0,248.5,Ground,Nasr City,Core & Shell,No,Any,4773000
+Duplex,5.0,4.0,286.0,4,Alexandria,Unfinished,No,Any,4871000
+Duplex,,5.0,281.2,1,6th of October,Core & Shell,Yes,Installment,6965000
+Apartment,4.0,3.0,177.8,5,Sheikh Zayed,Core & Shell,No,Installment,4567000
+Villa,6.0,5.0,538.5,Ground,Madinaty,Semi Finished,No,Installment,19471000
+Apartment,1.0,2.0,122.1,2,6th of October,Core & Shell,No,Any,1967000
+Penthouse,3.0,3.0,255.4,2,New Cairo,Finished,No,Cash,11237000
+Villa,6.0,5.0,491.8,Ground,6th of October,Finished,No,Any,16028000
+Duplex,4.0,4.0,314.4,3,Alexandria,Finished,No,Cash,7102000
+Apartment,,3.0,177.7,3,Sheikh Zayed,Finished,Yes,Installment,6983000
+Apartment,3.0,2.0,167.0,5,Sheikh Zayed,Finished,Yes,Any,6758000
+Duplex,3.0,3.0,180.7,,New Cairo,Unfinished,Yes,Cash,6102000
+Apartment,2.0,1.0,107.1,5,New Cairo,Finished,Yes,Installment,4529000
+Apartment,3.0,,189.8,0,6th of October,Finished,Yes,Cash,4499000
+Apartment,4.0,3.0,226.0,6,Nasr City,,No,Installment,4374000
+Twin House,6.0,5.0,275.1,Ground,New Cairo,Finished,No,Cash,14727000
+Penthouse,4.0,4.0,193.5,7,North Coast,Finished,No,Installment,10100000
+Apartment,2.0,2.0,102.7,,Shorouk City,Finished,Yes,Installment,2860000
+Apartment,2.0,1.0,108.2,1,Nasr City,Finished,No,Any,2326000
+Apartment,3.0,3.0,166.0,5,Madinaty,Finished,No,Any,4510000
+Penthouse,3.0,,251.8,4,New Cairo,Semi Finished,No,Cash,8755000
+Duplex,3.0,3.0,229.7,0,6th of October,Semi Finished,No,Installment,5482000
+Apartment,3.0,3.0,157.0,0,Nasr City,Finished,No,Cash,4036000
+Apartment,4.0,3.0,211.1,4,Madinaty,Finished,No,Cash,7009000
+Apartment,3.0,3.0,181.1,3,Shorouk City,Finished,No,Cash,3562000
+Duplex,5.0,5.0,302.6,6,Sheikh Zayed,Semi Finished,No,Any,10560000
+Penthouse,5.0,5.0,328.5,0,North Coast,Finished,No,Any,15782000
+Apartment,4.0,3.0,179.1,2,New Cairo,Finished,No,Cash,6199000
+Apartment,1.0,1.0,88.0,1,Alexandria,Semi Finished,No,Cash,1605000
+Apartment,2.0,2.0,97.7,6,Hurghada,Finished,No,Cash,2499000
+Twin House,4.0,3.0,326.3,Ground,New Cairo,Finished,No,Installment,16094000
+Apartment,3.0,3.0,198.0,4,Maadi,Finished,Yes,Installment,5989000
+Penthouse,5.0,4.0,365.7,1,New Cairo,Unfinished,No,Cash,11354000
+Duplex,5.0,5.0,200.8,5,Sheikh Zayed,Core & Shell,No,Installment,6879000
+Apartment,3.0,2.0,185.3,0,6th of October,Semi Finished,No,Cash,3768000
+Apartment,2.0,,205.4,3,Nasr City,Finished,No,Any,3861000
+Apartment,1.0,2.0,105.4,0,North Coast,Semi Finished,Yes,Installment,4140000
+Duplex,4.0,4.0,336.3,3,Maadi,Unfinished,No,Installment,7897000
+Penthouse,5.0,4.0,351.6,2,6th of October,Unfinished,No,Installment,6460000
+Duplex,3.0,2.0,205.5,0,Madinaty,Finished,No,Any,7525000
+Villa,5.0,4.0,313.7,Ground,North Coast,Core & Shell,Yes,Cash,16318000
+Apartment,3.0,3.0,190.3,0,New Cairo,Finished,No,Cash,7547000
+Twin House,5.0,5.0,300.7,Ground,Hurghada,Finished,No,Any,10784000
+Penthouse,4.0,4.0,257.5,2,New Cairo,Semi Finished,No,Cash,8822000
+Apartment,3.0,2.0,131.7,4,Madinaty,Finished,Yes,Cash,4653000
+Studio,1.0,1.0,46.1,2,Sheikh Zayed,Unfinished,No,Installment,1321000
+Duplex,,3.0,214.1,1,New Cairo,Finished,No,Any,10207000
+Villa,5.0,5.0,306.7,Ground,6th of October,Semi Finished,No,Installment,8561000
+Penthouse,5.0,5.0,279.4,0,Nasr City,Core & Shell,No,Any,5678000
+Chalet,3.0,2.0,153.7,3,Sheikh Zayed,Core & Shell,No,Installment,4759000
+Duplex,4.0,3.0,273.4,0,New Cairo,Finished,No,Cash,12624000
+Apartment,3.0,3.0,173.3,5,Nasr City,Finished,No,Installment,3793000
+Apartment,3.0,2.0,92.1,5,Alexandria,Semi Finished,Yes,Installment,2228000
+Twin House,5.0,,270.7,Ground,Sheikh Zayed,Finished,No,Cash,13306000
+Apartment,2.0,1.0,130.8,0,New Cairo,Unfinished,No,Cash,3436000
+Apartment,2.0,1.0,154.2,5,6th of October,Core & Shell,No,Cash,3263000
+Apartment,3.0,3.0,112.2,3,New Cairo,Finished,No,Installment,4669000
+Apartment,4.0,,217.3,4,Madinaty,Finished,Yes,Any,7625000
+Duplex,3.0,,190.7,5,Madinaty,Finished,No,Installment,6724000
+Twin House,5.0,5.0,261.2,,Nasr City,Core & Shell,No,Any,6052000
+Apartment,3.0,3.0,116.8,0,Sheikh Zayed,Finished,Yes,Cash,4267000
+Apartment,4.0,,222.4,4,Shorouk City,Finished,No,Any,4272000
+Apartment,2.0,1.0,195.0,0,6th of October,Finished,Yes,Any,5379000
+Townhouse,5.0,5.0,316.2,Ground,Madinaty,Semi Finished,No,Cash,9151000
+Duplex,4.0,3.0,302.7,6,Nasr City,Finished,Yes,Any,8013000
+Apartment,3.0,2.0,183.1,2,Shorouk City,Finished,No,Cash,4242000
+Chalet,2.0,2.0,119.9,0,Nasr City,,No,Any,2043000
+Townhouse,4.0,4.0,256.0,Ground,Sheikh Zayed,Core & Shell,Yes,Any,9612000
+Chalet,1.0,,129.5,2,North Coast,Semi Finished,No,Installment,4687000
+Townhouse,5.0,,228.0,Ground,6th of October,Finished,No,Installment,6733000
+Apartment,3.0,,192.4,1,Nasr City,Finished,Yes,Cash,4603000
+Penthouse,6.0,5.0,374.5,2,New Cairo,Semi Finished,Yes,Installment,16380000
+Villa,6.0,5.0,563.3,,Nasr City,Finished,No,Installment,15231000
+Chalet,3.0,3.0,111.9,2,6th of October,Core & Shell,Yes,Installment,2451000
+Penthouse,4.0,4.0,244.4,3,New Cairo,Semi Finished,No,Installment,9238000
+Penthouse,5.0,5.0,293.5,4,New Cairo,,No,Any,12653000
+Duplex,6.0,5.0,283.2,0,Nasr City,Core & Shell,Yes,Cash,5201000
+Apartment,4.0,,206.6,7,Shorouk City,Unfinished,No,Any,2739000
+Villa,6.0,5.0,416.0,Ground,6th of October,Finished,No,Any,15636000
+Studio,1.0,1.0,43.7,0,New Cairo,Semi Finished,No,Installment,1343000
+Twin House,4.0,3.0,301.8,Ground,Maadi,,No,Cash,10301000
+Apartment,2.0,1.0,127.3,1,New Cairo,Finished,No,Cash,4704000
+Apartment,2.0,1.0,193.9,0,6th of October,Finished,Yes,Cash,4870000
+Apartment,3.0,2.0,206.7,2,New Cairo,Semi Finished,Yes,Installment,7103000
+Penthouse,5.0,5.0,290.0,7,New Cairo,Unfinished,No,Installment,8955000
+Chalet,3.0,2.0,159.8,2,New Cairo,Semi Finished,Yes,Any,5436000
+Apartment,1.0,2.0,86.8,3,Sheikh Zayed,Finished,No,Installment,3547000
+Villa,5.0,5.0,363.8,Ground,New Cairo,Semi Finished,No,Cash,17551000
+Chalet,2.0,,118.5,3,Sheikh Zayed,Finished,Yes,Installment,5179000
+Penthouse,3.0,2.0,213.1,5,6th of October,Core & Shell,No,Any,4384000
+Villa,6.0,5.0,624.4,Ground,6th of October,Finished,No,Any,19810000
+Villa,6.0,5.0,509.4,Ground,Sheikh Zayed,Finished,No,Any,22428000
+Villa,5.0,5.0,377.0,,Madinaty,Finished,No,Installment,15426000
+Apartment,1.0,2.0,133.2,3,New Cairo,Semi Finished,Yes,Installment,4657000
+Villa,6.0,5.0,649.5,Ground,6th of October,Finished,No,Any,19175000
+Duplex,5.0,5.0,307.3,1,New Cairo,Semi Finished,No,Installment,11306000
+Townhouse,5.0,5.0,279.3,Ground,New Cairo,Finished,No,Cash,10139000
+Duplex,4.0,4.0,231.5,7,6th of October,Finished,No,Cash,6165000
+Penthouse,5.0,5.0,264.1,5,6th of October,Finished,No,Cash,8437000
+Apartment,3.0,,152.4,5,Alexandria,Unfinished,No,Installment,2939000
+Villa,5.0,5.0,320.6,Ground,6th of October,Unfinished,Yes,Cash,7610000
+Apartment,1.0,1.0,89.2,4,North Coast,Finished,Yes,Cash,4175000
+Apartment,2.0,,101.3,3,New Cairo,Finished,No,Cash,4330000
+Penthouse,6.0,5.0,366.0,2,New Cairo,Finished,No,Installment,15420000
+Studio,1.0,1.0,46.4,3,New Cairo,Semi Finished,No,Installment,1393000
+Apartment,3.0,2.0,185.5,2,New Cairo,Finished,Yes,Installment,7772000
+Apartment,4.0,3.0,199.6,3,6th of October,Core & Shell,Yes,Cash,4154000
+Chalet,3.0,3.0,121.1,0,Nasr City,,No,Cash,2322000
+Apartment,4.0,3.0,186.5,6,New Cairo,Finished,No,Installment,6613000
+Villa,6.0,5.0,320.7,Ground,North Coast,Finished,No,Cash,19817000
+Penthouse,3.0,3.0,203.8,0,Madinaty,Core & Shell,No,Cash,6126000
+Duplex,4.0,3.0,267.6,2,Sheikh Zayed,Core & Shell,No,Cash,9044000
+Apartment,2.0,1.0,131.4,4,New Cairo,Finished,No,Any,5303000
+Apartment,3.0,3.0,170.0,0,New Cairo,Finished,No,Installment,6110000
+Penthouse,6.0,5.0,328.9,2,New Cairo,Finished,No,Cash,15916000
+Villa,6.0,5.0,352.8,Ground,New Cairo,Finished,No,Cash,17712000
+Apartment,1.0,2.0,127.3,2,6th of October,Finished,No,Any,2978000
+Penthouse,4.0,3.0,243.4,0,New Cairo,,No,Installment,11133000
+Apartment,,1.0,115.4,4,Sheikh Zayed,Semi Finished,No,Installment,3689000
+Penthouse,5.0,4.0,351.0,4,Hurghada,Finished,No,Installment,11239000
+Apartment,,,85.0,3,Maadi,Finished,No,Installment,2419000
+Twin House,5.0,4.0,316.4,Ground,North Coast,Finished,No,Installment,18811000
+Apartment,2.0,2.0,169.4,4,New Cairo,Core & Shell,No,Installment,4864000
+Apartment,4.0,,186.4,2,Sheikh Zayed,Core & Shell,No,Installment,5532000
+Apartment,4.0,3.0,202.0,4,6th of October,Finished,No,Cash,4567000
+Apartment,4.0,3.0,218.0,3,New Cairo,Finished,No,Any,8632000
+Townhouse,3.0,2.0,224.0,Ground,New Cairo,,No,Installment,6641000
+Studio,1.0,1.0,44.7,1,Maadi,Finished,No,Cash,1546000
+Apartment,3.0,3.0,172.6,6,Nasr City,Finished,No,Any,3433000
+Apartment,2.0,2.0,141.8,3,Sheikh Zayed,Finished,No,Any,4566000
+Penthouse,3.0,3.0,256.1,4,6th of October,Finished,No,Any,6095000
+Townhouse,5.0,5.0,289.0,Ground,Sheikh Zayed,Finished,No,Any,13219000
+Villa,6.0,5.0,520.5,Ground,New Cairo,Core & Shell,No,Any,19302000
+Apartment,4.0,3.0,216.5,7,Sheikh Zayed,Semi Finished,No,Cash,6938000
+Apartment,2.0,2.0,90.4,4,New Cairo,Finished,No,Any,3880000
+Duplex,5.0,5.0,250.1,4,New Cairo,Unfinished,Yes,Any,8085000
+Apartment,3.0,2.0,201.4,3,North Coast,Finished,No,Cash,6708000
+Duplex,5.0,4.0,264.6,0,Nasr City,Finished,No,Cash,7551000
+Apartment,4.0,3.0,227.9,3,Maadi,Semi Finished,No,Any,6126000
+Penthouse,4.0,4.0,220.7,4,Sheikh Zayed,Semi Finished,Yes,Cash,9517000
+Apartment,2.0,1.0,147.2,1,Sheikh Zayed,Finished,No,Any,5539000
+Villa,6.0,5.0,357.0,Ground,New Cairo,Finished,No,Cash,16815000
+Villa,6.0,5.0,464.0,Ground,New Cairo,Semi Finished,Yes,Cash,22556000
+Duplex,3.0,2.0,213.6,2,New Cairo,Semi Finished,No,Installment,6961000
+Apartment,2.0,2.0,139.9,4,Shorouk City,Semi Finished,Yes,Cash,3208000
+Villa,6.0,5.0,396.2,Ground,Maadi,,Yes,Installment,18284000
+Villa,5.0,4.0,369.5,Ground,6th of October,Finished,No,Installment,11481000
+Villa,6.0,5.0,414.3,Ground,6th of October,Finished,No,Cash,12927000
+Duplex,5.0,,322.8,1,North Coast,Finished,No,Cash,16653000
+Duplex,4.0,4.0,219.0,6,New Cairo,Unfinished,No,Installment,8027000
+Chalet,2.0,1.0,107.5,1,Sheikh Zayed,Finished,No,Cash,3216000
+Apartment,3.0,3.0,210.0,3,Sheikh Zayed,Finished,No,Installment,6960000
+Chalet,2.0,1.0,73.0,4,Shorouk City,Semi Finished,No,Installment,1474000
+Villa,5.0,5.0,328.8,Ground,Hurghada,Finished,No,Cash,13050000
+Apartment,2.0,2.0,109.9,2,New Cairo,Finished,No,Installment,4221000
+Apartment,4.0,3.0,201.4,5,Alexandria,Core & Shell,No,Cash,3788000
+Apartment,4.0,3.0,202.8,6,Madinaty,Core & Shell,No,Cash,5104000
+Penthouse,6.0,5.0,337.8,1,New Cairo,Semi Finished,No,Cash,12203000
+Duplex,5.0,5.0,243.7,2,Sheikh Zayed,,No,Any,10581000
+Penthouse,4.0,4.0,261.4,1,Sheikh Zayed,Semi Finished,No,Any,9395000
+Villa,6.0,5.0,621.8,Ground,Hurghada,Semi Finished,No,Any,16091000
+Apartment,3.0,3.0,108.1,2,New Cairo,Finished,Yes,Cash,4916000
+Apartment,3.0,3.0,197.4,4,Shorouk City,Finished,No,Cash,3655000
+Apartment,3.0,3.0,224.3,2,Sheikh Zayed,Core & Shell,No,Installment,6420000
+Apartment,3.0,2.0,155.6,0,Maadi,Finished,No,Installment,5204000
+Apartment,3.0,2.0,155.9,6,Sheikh Zayed,Semi Finished,No,Any,4613000
+Apartment,2.0,1.0,107.5,2,6th of October,Finished,No,Cash,2365000
+Villa,5.0,4.0,378.6,Ground,Madinaty,Finished,No,Cash,14276000
+Penthouse,,5.0,199.0,6,Madinaty,Finished,No,Installment,8240000
+Studio,1.0,1.0,56.8,2,Alexandria,Core & Shell,Yes,Any,1212000
+Twin House,5.0,5.0,278.2,Ground,New Cairo,Finished,No,Any,14222000
+Duplex,5.0,,327.6,1,Maadi,Semi Finished,No,Installment,8873000
+Apartment,2.0,1.0,118.4,2,New Cairo,Semi Finished,Yes,Any,3848000
+Duplex,4.0,4.0,280.0,0,Sheikh Zayed,Semi Finished,No,Installment,9309000
+Penthouse,4.0,4.0,264.3,3,6th of October,Unfinished,No,Any,5281000
+Apartment,3.0,2.0,154.8,4,Sheikh Zayed,Semi Finished,No,Any,5046000
+Apartment,2.0,1.0,92.9,4,6th of October,Finished,No,Any,2166000
+Chalet,2.0,2.0,147.7,0,Hurghada,Unfinished,No,Cash,2318000
+Apartment,3.0,,111.6,3,New Cairo,Semi Finished,No,Cash,3354000
+Villa,6.0,5.0,611.5,,Maadi,,Yes,Installment,27098000
+Villa,6.0,5.0,396.8,Ground,Sheikh Zayed,Finished,Yes,Installment,20306000
+Apartment,2.0,2.0,198.9,5,New Cairo,Core & Shell,Yes,Any,6934000
+Apartment,1.0,2.0,100.6,2,New Cairo,,Yes,Cash,4430000
+Apartment,2.0,2.0,100.5,3,North Coast,Semi Finished,No,Cash,3781000
+Apartment,4.0,3.0,179.4,,Alexandria,Finished,No,Installment,4867000
+Apartment,4.0,3.0,221.3,,Alexandria,Finished,No,Cash,5248000
+Chalet,3.0,3.0,96.8,2,Hurghada,Semi Finished,No,Cash,2462000
+Apartment,3.0,3.0,166.2,2,New Cairo,Finished,Yes,Installment,7124000
+Villa,,5.0,588.5,Ground,Sheikh Zayed,Finished,No,Installment,28337000
+Apartment,1.0,2.0,141.1,2,Maadi,Semi Finished,Yes,Cash,3993000
+Twin House,4.0,3.0,322.4,Ground,6th of October,Finished,Yes,Any,10891000
+Apartment,2.0,1.0,125.8,,Sheikh Zayed,Semi Finished,Yes,Installment,3722000
+Apartment,2.0,2.0,207.0,3,Sheikh Zayed,Core & Shell,Yes,Any,5658000
+Townhouse,4.0,4.0,251.9,Ground,Nasr City,Semi Finished,No,Installment,5561000
+Chalet,2.0,1.0,91.2,3,6th of October,Finished,No,Cash,2273000
+Apartment,2.0,2.0,114.7,1,New Cairo,Finished,No,Cash,4631000
+Chalet,2.0,2.0,120.9,0,6th of October,Semi Finished,No,Cash,2909000
+Villa,6.0,5.0,615.0,Ground,6th of October,Unfinished,No,Installment,14939000
+Villa,6.0,5.0,643.0,Ground,6th of October,Core & Shell,Yes,Cash,16795000
+Apartment,,3.0,108.0,2,New Cairo,Core & Shell,Yes,Installment,3413000
+Apartment,3.0,2.0,180.1,0,Shorouk City,Finished,No,Installment,3121000
+Penthouse,4.0,3.0,273.6,0,New Cairo,Finished,No,Cash,11720000
+Villa,5.0,5.0,337.4,Ground,Sheikh Zayed,Finished,No,Cash,16567000
+Apartment,4.0,3.0,228.2,4,Shorouk City,,No,Installment,4824000
+Penthouse,5.0,4.0,318.2,0,6th of October,Finished,No,Any,9014000
+Penthouse,6.0,5.0,357.9,6,Sheikh Zayed,,No,Cash,11061000
+Apartment,4.0,3.0,209.2,1,Maadi,Finished,No,Cash,6240000
+Duplex,6.0,5.0,320.1,2,6th of October,Finished,No,Any,8661000
+Apartment,3.0,3.0,180.8,0,Shorouk City,Finished,No,Cash,3658000
+Penthouse,4.0,4.0,191.1,1,Maadi,Unfinished,No,Any,3806000
+Duplex,4.0,3.0,322.5,3,Nasr City,Semi Finished,No,Cash,6649000
+Twin House,3.0,3.0,249.7,Ground,6th of October,Semi Finished,No,Any,6400000
+Apartment,2.0,2.0,120.5,0,New Cairo,Core & Shell,No,Cash,3223000
+Apartment,3.0,2.0,161.3,5,Sheikh Zayed,Finished,Yes,Any,6746000
+Apartment,3.0,3.0,106.5,3,Sheikh Zayed,Semi Finished,No,Cash,3463000
+Apartment,2.0,,159.7,3,Nasr City,Finished,No,Installment,3508000
+Apartment,3.0,2.0,174.0,3,6th of October,Finished,No,Cash,4105000
+Townhouse,3.0,3.0,262.0,Ground,Sheikh Zayed,Core & Shell,No,Cash,8582000
+Apartment,3.0,2.0,172.4,,New Cairo,Semi Finished,Yes,Installment,5871000
+Apartment,4.0,3.0,216.1,4,6th of October,Finished,No,Installment,5123000
+Penthouse,6.0,5.0,263.0,3,Sheikh Zayed,Finished,No,Any,9639000
+Apartment,3.0,3.0,124.9,7,Maadi,Semi Finished,No,Installment,3592000
+Penthouse,6.0,5.0,344.5,0,New Cairo,Finished,No,Any,14991000
+Apartment,4.0,,196.5,3,Nasr City,Finished,No,Installment,4911000
+Villa,6.0,5.0,603.2,Ground,North Coast,Finished,No,Any,34301000
+Apartment,2.0,1.0,130.3,,New Cairo,Finished,No,Any,4988000
+Apartment,2.0,1.0,142.1,3,6th of October,Core & Shell,No,Cash,2458000
+Townhouse,6.0,5.0,278.0,Ground,New Cairo,Finished,No,Any,10900000
+Apartment,4.0,3.0,211.1,4,Nasr City,Finished,No,Any,5059000
+Villa,6.0,5.0,603.7,Ground,6th of October,Semi Finished,No,Cash,15195000
+Apartment,2.0,2.0,100.9,2,Sheikh Zayed,Core & Shell,No,Installment,2497000
+Apartment,3.0,3.0,175.0,1,6th of October,Finished,No,Cash,4204000
+Townhouse,5.0,4.0,243.8,Ground,Alexandria,Finished,No,Any,5720000
+Apartment,4.0,3.0,154.6,4,New Cairo,Finished,No,Cash,6215000
+Duplex,3.0,,253.0,2,New Cairo,,No,Cash,8484000
+Twin House,4.0,3.0,327.4,Ground,Alexandria,Semi Finished,No,Installment,8973000
+Villa,,5.0,566.2,Ground,6th of October,Core & Shell,No,Installment,15208000
+Twin House,6.0,5.0,352.3,Ground,Alexandria,Unfinished,Yes,Any,7953000
+Apartment,,3.0,186.6,5,Nasr City,Semi Finished,No,Any,3937000
+Apartment,2.0,2.0,116.7,5,Madinaty,Semi Finished,No,Installment,3690000
+Apartment,2.0,1.0,141.6,4,Sheikh Zayed,Finished,No,Cash,4742000
+Penthouse,6.0,5.0,285.3,0,Shorouk City,Finished,Yes,Installment,7132000
+Studio,1.0,1.0,56.0,5,North Coast,Unfinished,No,Installment,1907000
+Apartment,4.0,3.0,164.4,3,6th of October,Finished,Yes,Installment,4139000
+Duplex,5.0,4.0,337.5,1,New Cairo,Finished,Yes,Cash,15417000
+Apartment,2.0,2.0,131.7,2,Sheikh Zayed,,No,Installment,4772000
+Villa,6.0,5.0,569.1,Ground,New Cairo,Finished,Yes,Cash,32073000
+Villa,6.0,5.0,497.1,Ground,New Cairo,Semi Finished,No,Installment,18259000
+Studio,1.0,1.0,74.3,2,Sheikh Zayed,Semi Finished,Yes,Installment,2408000
+Duplex,6.0,5.0,339.4,2,6th of October,Finished,No,Any,9965000
+Apartment,3.0,3.0,173.4,1,Nasr City,Core & Shell,No,Installment,3227000
+Apartment,3.0,3.0,198.1,5,Sheikh Zayed,Finished,No,Cash,7114000
+Apartment,3.0,2.0,188.1,2,Nasr City,Finished,No,Any,3686000
+Apartment,3.0,,119.1,3,New Cairo,Semi Finished,No,Installment,3635000
+Apartment,4.0,,221.4,0,New Cairo,Semi Finished,No,Cash,6321000
+Chalet,,1.0,115.4,4,New Cairo,Semi Finished,No,Installment,3564000
+Villa,6.0,5.0,439.7,Ground,6th of October,Finished,No,Installment,14727000
+Villa,5.0,5.0,409.9,Ground,New Cairo,Semi Finished,No,Any,15099000
+Apartment,1.0,1.0,88.9,7,Sheikh Zayed,Finished,No,Installment,3201000
+Townhouse,4.0,4.0,226.6,Ground,Sheikh Zayed,,No,Installment,6519000
+Penthouse,6.0,5.0,288.2,0,Madinaty,Finished,No,Cash,10161000
+Apartment,2.0,1.0,115.3,2,New Cairo,Semi Finished,No,Installment,3614000
+Duplex,5.0,4.0,298.7,1,Nasr City,Finished,No,Any,7705000
+Villa,6.0,5.0,563.8,Ground,Maadi,Finished,No,Any,22049000
+Apartment,3.0,3.0,198.2,2,Shorouk City,Finished,Yes,Cash,4561000
+Villa,6.0,5.0,471.5,Ground,North Coast,Core & Shell,No,Cash,21828000
+Villa,6.0,5.0,605.9,Ground,New Cairo,Semi Finished,Yes,Cash,29196000
+Apartment,2.0,2.0,121.9,2,New Cairo,Unfinished,No,Installment,3076000
+Twin House,5.0,4.0,291.5,Ground,Alexandria,Finished,No,Installment,8730000
+Chalet,3.0,,140.9,5,6th of October,Finished,No,Installment,3775000
+Duplex,4.0,3.0,192.1,7,6th of October,Finished,Yes,Installment,5988000
+Villa,6.0,5.0,569.1,Ground,Maadi,Core & Shell,No,Any,15332000
+Apartment,2.0,2.0,121.0,5,Maadi,Finished,No,Installment,3471000
+Duplex,4.0,4.0,326.0,1,North Coast,Core & Shell,No,Cash,11593000
+Villa,6.0,5.0,436.0,Ground,Hurghada,Core & Shell,No,Installment,11198000
+Apartment,3.0,,163.8,5,Maadi,Unfinished,Yes,Any,3670000
+Villa,5.0,5.0,403.7,Ground,Sheikh Zayed,Semi Finished,No,Installment,15849000
+Chalet,1.0,,84.0,4,Alexandria,Semi Finished,No,Installment,1646000
+Villa,5.0,4.0,359.3,Ground,New Cairo,Semi Finished,No,Installment,14394000
+Apartment,2.0,2.0,182.4,3,New Cairo,Finished,No,Any,5372000
+Penthouse,5.0,5.0,358.5,1,Alexandria,Semi Finished,No,Installment,7569000
+Apartment,4.0,3.0,196.8,4,Sheikh Zayed,Finished,No,Cash,7323000
+Apartment,4.0,3.0,213.2,3,New Cairo,Finished,Yes,Any,8985000
+Apartment,1.0,2.0,86.0,2,New Cairo,Finished,No,Any,2679000
+Apartment,4.0,3.0,218.1,5,Madinaty,Finished,Yes,Cash,7195000
+Penthouse,,4.0,284.9,4,6th of October,Finished,No,Installment,7601000
+Villa,5.0,5.0,392.7,Ground,Maadi,Finished,No,Installment,14928000
+Apartment,2.0,2.0,123.0,4,New Cairo,Semi Finished,No,Cash,3722000
+Townhouse,5.0,4.0,239.0,Ground,Shorouk City,Finished,No,Any,6447000
+Townhouse,3.0,2.0,254.2,Ground,Shorouk City,Semi Finished,No,Installment,4994000
+Townhouse,6.0,5.0,282.2,Ground,Sheikh Zayed,Finished,No,Any,12962000
+Apartment,3.0,2.0,158.0,4,Sheikh Zayed,Semi Finished,No,Cash,4399000
+Villa,,5.0,333.1,Ground,New Cairo,Semi Finished,No,Installment,13724000
+Studio,1.0,1.0,62.9,2,Hurghada,Semi Finished,No,Cash,1397000
+Penthouse,5.0,4.0,362.3,3,Nasr City,Semi Finished,No,Installment,6989000
+Apartment,2.0,2.0,193.5,3,North Coast,Finished,No,Installment,7738000
+Apartment,,2.0,192.2,2,Sheikh Zayed,Semi Finished,No,Installment,6083000
+Villa,6.0,5.0,530.2,Ground,Shorouk City,Finished,No,Cash,13453000
+Townhouse,6.0,5.0,316.6,Ground,Shorouk City,Finished,No,Cash,7763000
+Villa,6.0,5.0,586.7,Ground,Maadi,Semi Finished,Yes,Cash,20681000
+Villa,6.0,5.0,444.7,Ground,Hurghada,Finished,Yes,Cash,17275000
+Apartment,1.0,2.0,89.4,2,Sheikh Zayed,Semi Finished,No,Installment,2867000
+Duplex,3.0,2.0,217.5,2,New Cairo,Semi Finished,No,Installment,8416000
+Chalet,1.0,1.0,85.2,0,Maadi,Finished,No,Installment,2775000
+Apartment,4.0,3.0,168.4,2,Maadi,Finished,Yes,Installment,5803000
+Penthouse,5.0,4.0,305.8,,6th of October,Finished,No,Cash,8103000
+Twin House,,4.0,320.4,,New Cairo,Unfinished,No,Cash,11152000
+Apartment,3.0,3.0,185.5,5,6th of October,Semi Finished,No,Cash,3726000
+Villa,6.0,5.0,554.4,Ground,Sheikh Zayed,Finished,No,Any,26425000
+Apartment,2.0,1.0,103.1,4,Sheikh Zayed,Finished,No,Installment,3915000
+Penthouse,3.0,2.0,246.0,0,Nasr City,Semi Finished,No,Cash,4696000
+Villa,6.0,5.0,530.8,Ground,Shorouk City,Core & Shell,No,Cash,11555000
+Duplex,5.0,4.0,236.6,0,New Cairo,Finished,No,Any,9712000
+Penthouse,5.0,4.0,267.4,2,Sheikh Zayed,Finished,No,Installment,11765000
+Apartment,4.0,3.0,226.5,4,Sheikh Zayed,Core & Shell,No,Installment,7064000
+Townhouse,6.0,5.0,299.5,,New Cairo,Finished,No,Installment,11810000
+Villa,6.0,,452.1,Ground,Shorouk City,Finished,No,Cash,11150000
+Apartment,3.0,3.0,181.2,,Alexandria,Unfinished,No,Any,3228000
+Duplex,4.0,4.0,201.0,2,Sheikh Zayed,Semi Finished,No,Installment,7261000
+Penthouse,4.0,4.0,251.5,3,Shorouk City,Finished,No,Cash,6401000
+Apartment,3.0,2.0,176.9,5,Alexandria,Finished,No,Any,4013000
+Chalet,2.0,2.0,104.8,2,Madinaty,Finished,Yes,Installment,3738000
+Townhouse,3.0,3.0,225.8,Ground,New Cairo,Finished,No,Cash,8154000
+Apartment,2.0,2.0,129.1,3,North Coast,Core & Shell,No,Installment,3832000
+Studio,1.0,1.0,54.2,,Sheikh Zayed,,No,Cash,2037000
+Apartment,2.0,2.0,207.3,4,Sheikh Zayed,Semi Finished,No,Cash,6607000
+Apartment,3.0,3.0,195.7,5,New Cairo,Core & Shell,No,Installment,5200000
+Apartment,1.0,2.0,99.3,,6th of October,Finished,Yes,Cash,2674000
+Townhouse,4.0,3.0,298.4,Ground,New Cairo,Finished,No,Any,11917000
+Duplex,,3.0,180.6,,New Cairo,Semi Finished,Yes,Any,6818000
+Apartment,2.0,1.0,160.9,3,Sheikh Zayed,Core & Shell,Yes,Cash,5136000
+Apartment,2.0,1.0,191.6,,Madinaty,Core & Shell,No,Installment,4824000
+Duplex,6.0,5.0,338.6,4,Alexandria,Finished,Yes,Any,9967000
+Apartment,2.0,2.0,108.1,2,Sheikh Zayed,Semi Finished,No,Installment,3485000
+Townhouse,4.0,4.0,287.9,Ground,Madinaty,Semi Finished,No,Installment,8149000
+Chalet,1.0,2.0,89.9,4,Madinaty,Core & Shell,No,Cash,2187000
+Villa,5.0,5.0,395.2,Ground,Shorouk City,Finished,No,Installment,10302000
+Twin House,4.0,3.0,239.8,Ground,New Cairo,Semi Finished,No,Installment,9378000
+Apartment,4.0,3.0,214.1,4,Maadi,Core & Shell,No,Any,5028000
+Studio,1.0,1.0,69.5,3,North Coast,Finished,No,Cash,2864000
+Duplex,4.0,3.0,262.0,4,Maadi,Finished,No,Any,7447000
+Duplex,4.0,3.0,218.6,0,Sheikh Zayed,Finished,No,Cash,9484000
+Apartment,3.0,2.0,167.2,3,6th of October,Finished,Yes,Any,4488000
+Townhouse,5.0,4.0,265.7,Ground,Nasr City,Finished,No,Installment,6406000
+Apartment,3.0,3.0,212.7,2,6th of October,Unfinished,No,Installment,3694000
+Apartment,2.0,1.0,143.0,,New Cairo,Finished,No,Installment,6260000
+Apartment,3.0,3.0,195.3,4,Sheikh Zayed,Finished,No,Cash,7088000
+Villa,6.0,5.0,632.2,Ground,Madinaty,Semi Finished,No,Cash,21879000
+Villa,6.0,5.0,444.2,Ground,Alexandria,Finished,No,Cash,12816000
+Duplex,4.0,4.0,297.0,5,New Cairo,Finished,No,Cash,14184000
+Townhouse,4.0,3.0,254.5,Ground,North Coast,Semi Finished,No,Cash,9888000
+Apartment,,1.0,121.9,2,Sheikh Zayed,Core & Shell,Yes,Installment,4007000
+Penthouse,6.0,5.0,340.4,0,Maadi,Semi Finished,No,Installment,10173000
+Apartment,3.0,3.0,116.4,6,Shorouk City,,No,Cash,2264000
+Chalet,2.0,2.0,128.4,4,Madinaty,,No,Any,3885000
+Chalet,1.0,1.0,102.4,0,North Coast,,No,Installment,2768000
+Villa,6.0,5.0,412.5,Ground,Sheikh Zayed,Finished,No,Any,19189000
+Duplex,4.0,4.0,314.3,1,Madinaty,Semi Finished,No,Installment,9705000
+Apartment,3.0,2.0,111.5,5,New Cairo,Finished,No,Cash,4406000
+Villa,6.0,5.0,391.2,Ground,Maadi,Unfinished,No,Installment,9523000
+Chalet,3.0,3.0,106.3,4,Shorouk City,Semi Finished,No,Installment,2146000
+Villa,6.0,5.0,457.5,,Maadi,Semi Finished,Yes,Cash,17769000
+Apartment,3.0,2.0,158.6,1,Sheikh Zayed,Finished,No,Cash,5907000
+Villa,6.0,5.0,628.7,Ground,Alexandria,Finished,No,Cash,20135000
+Chalet,3.0,3.0,154.3,,New Cairo,Semi Finished,No,Cash,5202000
+Apartment,3.0,2.0,175.9,4,New Cairo,Semi Finished,No,Installment,5771000
+Apartment,2.0,1.0,130.4,4,Maadi,Finished,No,Installment,3945000
+Duplex,4.0,4.0,254.1,1,6th of October,Unfinished,No,Cash,5405000
+Chalet,1.0,1.0,71.9,4,Madinaty,Core & Shell,No,Installment,1825000
+Apartment,2.0,1.0,107.9,,Sheikh Zayed,Finished,No,Installment,3672000
+Apartment,3.0,2.0,190.6,3,New Cairo,Core & Shell,No,Cash,4940000
+Apartment,4.0,3.0,154.2,4,Madinaty,Semi Finished,Yes,Cash,4547000
+Apartment,4.0,3.0,216.0,,6th of October,Finished,No,Cash,5642000
+Villa,6.0,5.0,390.2,Ground,New Cairo,Finished,No,Installment,15755000
+Penthouse,5.0,5.0,311.7,3,Maadi,Semi Finished,Yes,Cash,9970000
+Duplex,4.0,4.0,247.5,1,6th of October,Semi Finished,No,Installment,5704000
+Duplex,3.0,3.0,202.2,1,Nasr City,,No,Installment,5041000
+Apartment,3.0,3.0,157.3,1,6th of October,Semi Finished,No,Installment,3810000
+Chalet,2.0,2.0,109.0,2,Madinaty,Semi Finished,No,Cash,2954000
+Villa,6.0,5.0,476.4,Ground,Madinaty,Semi Finished,No,Cash,18148000
+Studio,1.0,1.0,51.3,7,Maadi,Finished,No,Installment,1546000
+Duplex,5.0,5.0,195.5,0,New Cairo,Core & Shell,No,Any,6518000
+Apartment,,2.0,88.2,7,Madinaty,Finished,No,Installment,2958000
+Duplex,4.0,4.0,197.8,4,Maadi,Finished,No,Installment,6658000
+Apartment,2.0,2.0,113.5,3,Maadi,Finished,Yes,Installment,3645000
+Duplex,4.0,3.0,189.3,0,Sheikh Zayed,Finished,No,Installment,8177000
+Apartment,3.0,2.0,163.4,7,Alexandria,Core & Shell,No,Any,3316000
+Apartment,3.0,3.0,119.9,0,Maadi,Finished,No,Cash,3888000
+Chalet,3.0,2.0,107.7,3,New Cairo,Semi Finished,No,Any,3514000
+Apartment,4.0,3.0,207.4,3,Sheikh Zayed,Finished,No,Installment,7225000
+Chalet,2.0,2.0,95.2,3,Alexandria,Finished,No,Installment,2259000
+Apartment,3.0,2.0,146.8,2,New Cairo,Unfinished,Yes,Cash,4120000
+Duplex,4.0,4.0,294.7,1,Hurghada,Semi Finished,No,Installment,7409000
+Duplex,5.0,4.0,328.6,3,Maadi,Finished,No,Installment,11751000
+Villa,6.0,5.0,443.6,Ground,Nasr City,Semi Finished,No,Cash,9648000
+Apartment,1.0,2.0,103.8,3,Sheikh Zayed,Finished,No,Cash,3381000
+Apartment,2.0,2.0,142.5,3,New Cairo,Finished,No,Any,6000000
+Apartment,4.0,3.0,225.5,5,North Coast,Semi Finished,No,Installment,8572000
+Apartment,2.0,2.0,93.0,4,Sheikh Zayed,Semi Finished,Yes,Installment,3940000
+Duplex,4.0,4.0,305.8,1,Shorouk City,Finished,No,Cash,7554000
+Twin House,5.0,5.0,277.4,Ground,Sheikh Zayed,Unfinished,No,Installment,8089000
+Townhouse,3.0,2.0,234.4,Ground,New Cairo,Semi Finished,No,Installment,8467000
+Penthouse,3.0,3.0,235.0,3,New Cairo,Finished,No,Installment,10882000
+Penthouse,5.0,5.0,194.1,4,6th of October,Semi Finished,No,Installment,4967000
+Duplex,4.0,4.0,192.9,0,Hurghada,Semi Finished,Yes,Installment,5041000
+Apartment,3.0,3.0,208.0,6,Sheikh Zayed,Semi Finished,Yes,Installment,6177000
+Townhouse,4.0,3.0,292.4,Ground,Sheikh Zayed,Finished,No,Cash,11778000
+Duplex,5.0,5.0,314.0,2,Sheikh Zayed,Semi Finished,No,Any,10719000
+Villa,6.0,5.0,358.6,,6th of October,Finished,Yes,Installment,10412000
+Apartment,4.0,3.0,162.1,,6th of October,Core & Shell,No,Cash,3514000
+Apartment,2.0,1.0,131.3,2,Alexandria,Semi Finished,No,Installment,2676000
+Villa,6.0,5.0,618.2,Ground,6th of October,Finished,No,Any,20737000
+Townhouse,5.0,5.0,315.0,Ground,6th of October,Semi Finished,No,Cash,7793000
+Villa,6.0,5.0,445.5,Ground,New Cairo,Unfinished,No,Cash,15780000
+Apartment,3.0,3.0,214.4,0,Hurghada,Unfinished,Yes,Installment,4475000
+Studio,1.0,1.0,47.0,,New Cairo,Finished,Yes,Cash,2223000
+Apartment,2.0,2.0,94.3,0,New Cairo,Finished,No,Installment,3576000
+Apartment,1.0,2.0,132.2,7,Maadi,Semi Finished,No,Cash,3288000
+Apartment,3.0,2.0,168.7,5,Nasr City,Finished,Yes,Installment,4178000
+Penthouse,3.0,2.0,224.6,0,Sheikh Zayed,Unfinished,No,Cash,6864000
+Townhouse,4.0,3.0,298.1,Ground,Sheikh Zayed,Finished,No,Cash,11096000
+Apartment,3.0,2.0,201.6,1,Shorouk City,Finished,No,Any,3908000
+Chalet,2.0,1.0,149.6,3,New Cairo,Finished,No,Installment,6061000
+Apartment,4.0,3.0,212.2,5,Madinaty,Finished,No,Installment,6604000
+Townhouse,4.0,4.0,253.4,Ground,Nasr City,Semi Finished,No,Cash,5364000
+Penthouse,5.0,4.0,301.3,1,Sheikh Zayed,Finished,No,Installment,11905000
+Chalet,2.0,2.0,102.1,4,6th of October,Finished,Yes,Installment,2502000
+Apartment,4.0,3.0,203.9,7,Sheikh Zayed,Finished,No,Any,7768000
+Twin House,6.0,5.0,299.4,Ground,Shorouk City,Semi Finished,No,Any,6673000
+Penthouse,6.0,5.0,338.9,4,6th of October,Finished,No,Installment,8139000
+Apartment,2.0,1.0,91.4,1,Sheikh Zayed,Semi Finished,No,Installment,3005000
+Chalet,1.0,2.0,85.6,1,Nasr City,Semi Finished,No,Installment,1738000
+Apartment,4.0,3.0,153.6,0,Hurghada,Semi Finished,No,Installment,3611000
+Townhouse,4.0,4.0,211.5,Ground,6th of October,Unfinished,No,Cash,3741000
+Apartment,2.0,2.0,177.9,1,North Coast,Core & Shell,No,Cash,5354000
+Duplex,4.0,4.0,326.7,1,Sheikh Zayed,,No,Cash,9809000
+Villa,6.0,5.0,535.3,Ground,New Cairo,Finished,No,Cash,26766000
+Apartment,4.0,3.0,214.6,7,New Cairo,Finished,No,Cash,7988000
+Apartment,3.0,2.0,207.9,1,Sheikh Zayed,Finished,No,Installment,7569000
+Apartment,2.0,2.0,115.3,1,New Cairo,Core & Shell,No,Installment,2931000
+Villa,6.0,5.0,645.6,Ground,New Cairo,Unfinished,Yes,Installment,21598000
+Apartment,4.0,3.0,217.5,7,North Coast,Core & Shell,Yes,Cash,8846000
+Villa,5.0,5.0,403.6,,Madinaty,Finished,No,Cash,15779000
+Apartment,4.0,3.0,227.0,6,Shorouk City,Unfinished,No,Installment,3258000
+Apartment,3.0,2.0,178.3,7,New Cairo,Finished,No,Cash,5861000
+Penthouse,5.0,4.0,333.0,0,New Cairo,Finished,No,Installment,14871000
+Apartment,4.0,3.0,215.0,4,New Cairo,Finished,No,Any,8020000
+Townhouse,3.0,3.0,240.8,Ground,Maadi,Finished,No,Cash,8007000
+Chalet,2.0,1.0,101.3,1,North Coast,Semi Finished,Yes,Cash,4014000
+Duplex,4.0,4.0,319.1,6,6th of October,Finished,No,Installment,9768000
+Villa,6.0,5.0,450.9,Ground,New Cairo,Finished,No,Any,23500000
+Townhouse,4.0,4.0,275.8,Ground,6th of October,Semi Finished,No,Installment,5548000
+Apartment,4.0,3.0,202.6,,Sheikh Zayed,Core & Shell,No,Any,4822000
+Apartment,2.0,2.0,95.4,4,Sheikh Zayed,Semi Finished,No,Cash,2975000
+Apartment,3.0,2.0,176.7,2,Nasr City,Finished,No,Any,4040000
+Penthouse,6.0,5.0,293.5,7,Maadi,Core & Shell,No,Cash,6937000
+Apartment,1.0,1.0,112.8,0,New Cairo,Core & Shell,No,Cash,3203000
+Villa,6.0,5.0,455.8,Ground,New Cairo,Finished,Yes,Any,23992000
+Studio,1.0,,56.6,1,Hurghada,Semi Finished,No,Any,1297000
+Chalet,2.0,1.0,150.5,3,New Cairo,Finished,No,Cash,6028000
+Villa,6.0,5.0,381.0,Ground,New Cairo,Finished,No,Cash,18861000
+Apartment,3.0,2.0,161.6,4,New Cairo,Semi Finished,Yes,Cash,5714000
+Chalet,2.0,1.0,147.1,0,New Cairo,Core & Shell,No,Cash,4230000
+Villa,6.0,5.0,528.7,Ground,Sheikh Zayed,Finished,No,Cash,19585000
+Apartment,2.0,2.0,126.6,0,Madinaty,Core & Shell,Yes,Any,3613000
+Apartment,4.0,3.0,226.8,2,Sheikh Zayed,Core & Shell,No,Installment,5976000
+Townhouse,4.0,4.0,206.0,Ground,6th of October,Core & Shell,No,Installment,4317000
+Duplex,5.0,5.0,295.0,3,Maadi,Finished,No,Installment,11174000
+Chalet,3.0,2.0,136.4,5,6th of October,Core & Shell,No,Installment,2683000
+Townhouse,5.0,5.0,236.1,Ground,Alexandria,Finished,No,Installment,6544000
+Villa,6.0,5.0,471.0,Ground,Alexandria,Semi Finished,No,Installment,12113000
+Villa,6.0,5.0,638.9,Ground,New Cairo,Finished,No,Cash,29531000
+Apartment,2.0,1.0,178.4,5,Shorouk City,Finished,Yes,Installment,3880000
+Apartment,2.0,1.0,132.4,0,6th of October,Semi Finished,No,Installment,2487000
+Apartment,4.0,3.0,214.9,4,Hurghada,Finished,No,Any,4889000
+Penthouse,5.0,4.0,334.2,,6th of October,Finished,Yes,Any,11269000
+Duplex,3.0,3.0,261.4,1,Hurghada,Finished,No,Installment,7359000
+Townhouse,3.0,3.0,217.4,Ground,Shorouk City,Semi Finished,Yes,Installment,5236000
+Apartment,3.0,3.0,111.6,0,New Cairo,,Yes,Cash,4898000
+Duplex,4.0,4.0,202.6,1,6th of October,Core & Shell,Yes,Installment,4749000
+Duplex,6.0,5.0,289.9,5,Hurghada,Finished,No,Installment,8206000
+Villa,6.0,5.0,419.0,Ground,Madinaty,Finished,No,Cash,15586000
+Duplex,4.0,3.0,287.7,2,New Cairo,Finished,No,Installment,13294000
+Apartment,3.0,3.0,151.1,1,Maadi,Finished,Yes,Installment,5265000
+Villa,6.0,5.0,381.9,Ground,Sheikh Zayed,Finished,No,Cash,19263000
+Apartment,2.0,2.0,150.6,1,New Cairo,,No,Any,4743000
+Apartment,2.0,2.0,189.4,1,Sheikh Zayed,Unfinished,No,Cash,4112000
+Villa,6.0,5.0,455.4,Ground,New Cairo,Semi Finished,No,Any,17530000
+Duplex,4.0,4.0,228.9,4,Madinaty,Finished,No,Installment,7482000
+Twin House,4.0,4.0,305.4,Ground,Sheikh Zayed,Finished,Yes,Cash,15489000
+Duplex,5.0,4.0,262.6,1,Madinaty,Core & Shell,No,Installment,6790000
+Penthouse,6.0,5.0,369.8,4,New Cairo,Finished,No,Installment,15096000
+Villa,6.0,5.0,561.4,Ground,Sheikh Zayed,Finished,Yes,Installment,32186000
+Duplex,4.0,3.0,185.5,3,New Cairo,Semi Finished,No,Installment,6411000
+Apartment,2.0,1.0,151.8,3,New Cairo,,No,Installment,4643000
+Apartment,2.0,2.0,129.9,2,New Cairo,Semi Finished,No,Installment,4199000
+Apartment,2.0,1.0,131.7,5,New Cairo,Finished,No,Any,4954000
+Villa,6.0,5.0,591.1,Ground,6th of October,Finished,No,Cash,18594000
+Apartment,3.0,3.0,229.8,5,Sheikh Zayed,Semi Finished,Yes,Installment,7058000
+Apartment,3.0,2.0,226.0,0,Sheikh Zayed,Finished,No,Cash,8508000
+Apartment,2.0,1.0,110.8,0,Sheikh Zayed,Semi Finished,No,Installment,3697000
+Studio,1.0,1.0,54.8,0,Alexandria,Semi Finished,No,Installment,1059000
+Apartment,3.0,2.0,208.5,,Alexandria,Finished,No,Cash,4301000
+Villa,6.0,5.0,499.0,Ground,6th of October,Unfinished,No,Cash,11904000
+Apartment,3.0,2.0,174.6,5,Sheikh Zayed,Core & Shell,No,Cash,5385000
+Duplex,5.0,5.0,206.0,0,New Cairo,,No,Installment,6736000
+Apartment,3.0,3.0,203.2,1,North Coast,Finished,No,Installment,9423000
+Apartment,2.0,2.0,115.4,3,New Cairo,Finished,No,Any,4386000
+Villa,6.0,5.0,541.9,Ground,Sheikh Zayed,Finished,No,Installment,25537000
+Apartment,,1.0,93.9,3,Sheikh Zayed,Finished,No,Cash,4061000
+Apartment,4.0,3.0,193.1,0,Sheikh Zayed,Unfinished,No,Any,5168000
+Apartment,2.0,1.0,134.1,3,New Cairo,Finished,Yes,Installment,4844000
+Apartment,3.0,2.0,188.2,2,Shorouk City,Finished,No,Installment,3972000
+Apartment,4.0,3.0,214.1,,New Cairo,Finished,No,Cash,7766000
+Apartment,2.0,1.0,203.5,0,Nasr City,Semi Finished,Yes,Installment,3975000
+Chalet,1.0,1.0,140.3,3,New Cairo,Finished,Yes,Any,4936000
+Villa,,5.0,396.3,Ground,New Cairo,Finished,No,Installment,18509000
+Villa,6.0,5.0,421.8,Ground,Alexandria,Finished,No,Cash,13187000
+Apartment,3.0,3.0,198.6,5,New Cairo,Core & Shell,No,Installment,6365000
+Twin House,5.0,5.0,332.5,Ground,Madinaty,,No,Any,15418000
+Apartment,2.0,2.0,173.5,2,6th of October,Core & Shell,Yes,Cash,4651000
+Apartment,3.0,2.0,174.9,1,New Cairo,Core & Shell,No,Installment,5000000
+Duplex,3.0,2.0,216.0,1,North Coast,Finished,No,Any,11146000
+Apartment,4.0,3.0,228.5,3,New Cairo,Semi Finished,Yes,Cash,8512000
+Apartment,3.0,3.0,129.7,5,Madinaty,Finished,No,Installment,4134000
+Villa,5.0,4.0,325.5,Ground,New Cairo,Unfinished,No,Installment,10181000
+Townhouse,3.0,2.0,242.7,Ground,Madinaty,Semi Finished,Yes,Installment,8589000
+Villa,6.0,5.0,420.6,,New Cairo,Finished,No,Installment,18602000
+Duplex,4.0,,334.0,2,6th of October,Finished,No,Cash,8876000
+Studio,1.0,1.0,53.2,1,Shorouk City,Finished,Yes,Installment,1385000
+Apartment,,2.0,152.8,7,North Coast,Unfinished,No,Cash,4782000
+Apartment,2.0,1.0,147.5,1,Alexandria,Finished,No,Installment,3333000
+Apartment,2.0,,203.7,5,Madinaty,Semi Finished,No,Cash,5083000
+Apartment,1.0,,116.5,1,Alexandria,Finished,No,Cash,2583000
+Apartment,3.0,3.0,141.9,2,New Cairo,Unfinished,No,Any,3475000
+Townhouse,6.0,5.0,264.1,Ground,Sheikh Zayed,Finished,No,Installment,10830000
+Duplex,4.0,4.0,188.0,0,Sheikh Zayed,Semi Finished,No,Any,6148000
+Duplex,,5.0,257.6,2,Sheikh Zayed,Finished,No,Cash,10704000
+Apartment,2.0,1.0,139.4,3,Sheikh Zayed,Semi Finished,No,Installment,4201000
+Chalet,2.0,1.0,109.5,1,6th of October,Finished,No,Cash,2545000
+Twin House,5.0,5.0,250.0,Ground,New Cairo,Finished,Yes,Installment,13944000
+Chalet,1.0,1.0,75.7,4,Maadi,,No,Installment,2348000
+Apartment,2.0,2.0,191.2,0,New Cairo,Semi Finished,No,Cash,6465000
+Duplex,5.0,5.0,234.3,7,Sheikh Zayed,Finished,No,Any,9760000
+Apartment,2.0,1.0,94.0,1,6th of October,Semi Finished,No,Cash,1872000
+Apartment,,1.0,122.5,5,Shorouk City,Finished,No,Installment,2566000
+Apartment,1.0,2.0,101.0,1,Maadi,Core & Shell,Yes,Any,2553000
+Duplex,4.0,4.0,294.8,,Nasr City,Unfinished,No,Any,5734000
+Duplex,5.0,4.0,301.9,1,New Cairo,Semi Finished,Yes,Any,11821000
+Apartment,2.0,2.0,119.8,0,6th of October,Finished,No,Cash,2632000
+Apartment,4.0,3.0,193.4,0,New Cairo,Finished,No,Cash,8010000
+Villa,6.0,5.0,522.7,Ground,Sheikh Zayed,Finished,Yes,Cash,28566000
+Apartment,2.0,1.0,128.2,3,Sheikh Zayed,Finished,No,Installment,4534000
+Apartment,4.0,3.0,222.7,3,New Cairo,Semi Finished,No,Installment,7737000
+Apartment,2.0,1.0,108.1,0,Sheikh Zayed,Semi Finished,Yes,Cash,4119000
+Penthouse,,5.0,292.6,,North Coast,Unfinished,Yes,Installment,11247000
+Apartment,2.0,,101.6,3,North Coast,Finished,Yes,Cash,4663000
+Apartment,3.0,3.0,197.4,6,Sheikh Zayed,Semi Finished,No,Cash,5342000
+Apartment,2.0,2.0,108.5,0,New Cairo,Finished,No,Installment,3996000
+Twin House,3.0,3.0,246.8,,New Cairo,Semi Finished,No,Installment,9701000
+Duplex,5.0,5.0,274.8,3,Sheikh Zayed,Finished,No,Any,10936000
+Duplex,5.0,5.0,195.7,7,North Coast,Finished,Yes,Cash,10810000
+Apartment,3.0,3.0,97.6,7,New Cairo,Finished,No,Installment,3731000
+Villa,6.0,5.0,512.9,Ground,Shorouk City,Semi Finished,No,Cash,11129000
+Apartment,4.0,3.0,177.1,5,New Cairo,Unfinished,No,Cash,3934000
+Duplex,5.0,5.0,318.0,3,Hurghada,Finished,No,Installment,8819000
+Townhouse,5.0,5.0,245.3,Ground,Sheikh Zayed,Finished,Yes,Any,11275000
+Duplex,6.0,5.0,291.5,3,Shorouk City,Finished,No,Cash,6771000
+Townhouse,5.0,5.0,211.0,Ground,Sheikh Zayed,,No,Cash,8524000
+Penthouse,5.0,5.0,316.4,6,Nasr City,Finished,Yes,Installment,8550000
+Apartment,4.0,3.0,227.3,3,New Cairo,Semi Finished,No,Cash,7389000
+Townhouse,4.0,4.0,212.8,Ground,New Cairo,,No,Any,7383000
+Apartment,4.0,3.0,211.8,5,North Coast,Unfinished,No,Installment,7101000
+Villa,6.0,5.0,500.6,Ground,North Coast,Finished,No,Cash,29487000
+Apartment,,2.0,155.9,4,Alexandria,Core & Shell,No,Installment,2712000
+Apartment,1.0,1.0,126.6,2,Nasr City,Semi Finished,Yes,Installment,2440000
+Apartment,3.0,3.0,141.8,1,Madinaty,Finished,No,Cash,4513000
+Apartment,4.0,3.0,223.0,2,New Cairo,Semi Finished,Yes,Installment,6998000
+Villa,,5.0,435.3,Ground,Sheikh Zayed,Core & Shell,Yes,Cash,17014000
+Villa,6.0,5.0,566.6,Ground,Sheikh Zayed,Finished,No,Installment,27637000
+Apartment,3.0,3.0,140.9,,Nasr City,Finished,No,Cash,3257000
+Apartment,2.0,2.0,179.9,0,Sheikh Zayed,Finished,No,Any,5435000
+Villa,6.0,5.0,450.4,Ground,New Cairo,Semi Finished,No,Installment,19663000
+Apartment,4.0,3.0,151.3,1,Nasr City,Finished,Yes,Cash,4054000
+Penthouse,4.0,4.0,199.6,2,Madinaty,Core & Shell,No,Any,5429000
+Duplex,5.0,5.0,300.0,1,Sheikh Zayed,Semi Finished,No,Cash,9997000
+Chalet,2.0,1.0,122.6,2,New Cairo,Semi Finished,No,Installment,3769000
+Duplex,4.0,4.0,246.2,2,New Cairo,Finished,No,Installment,11530000
+Apartment,2.0,2.0,108.5,1,New Cairo,,No,Cash,3374000
+Duplex,,5.0,296.4,,Sheikh Zayed,Finished,No,Any,13044000
+Apartment,1.0,1.0,85.2,0,Nasr City,Finished,No,Installment,1886000
+Apartment,3.0,2.0,162.1,,Nasr City,Semi Finished,No,Cash,2467000
+Penthouse,4.0,4.0,245.1,3,Maadi,Finished,No,Installment,8026000
+Apartment,1.0,2.0,101.8,3,Sheikh Zayed,Semi Finished,No,Installment,2821000
+Penthouse,5.0,4.0,268.1,4,Madinaty,,No,Any,9718000
+Chalet,1.0,1.0,75.4,1,New Cairo,Finished,No,Cash,2905000
+Chalet,2.0,2.0,128.4,1,6th of October,Finished,No,Installment,3016000
+Townhouse,4.0,3.0,253.4,Ground,Madinaty,Unfinished,No,Installment,6124000
+Apartment,3.0,3.0,196.7,2,New Cairo,,Yes,Installment,7374000
+Apartment,3.0,3.0,222.5,3,New Cairo,Semi Finished,No,Installment,6720000
+Villa,6.0,5.0,365.3,Ground,Alexandria,,No,Cash,11598000
+Apartment,2.0,2.0,121.3,5,Sheikh Zayed,Finished,Yes,Installment,5146000
+Duplex,4.0,4.0,213.8,0,Maadi,Unfinished,Yes,Installment,5928000
+Duplex,4.0,4.0,294.2,5,New Cairo,Finished,No,Any,11950000
+Duplex,6.0,5.0,294.2,3,Maadi,Finished,No,Cash,9991000
+Apartment,1.0,2.0,118.4,1,Sheikh Zayed,Semi Finished,No,Installment,3527000
+Apartment,3.0,3.0,161.9,,New Cairo,Finished,No,Any,6606000
+Apartment,4.0,,221.1,5,Nasr City,Core & Shell,Yes,Installment,4564000
+Apartment,2.0,1.0,100.0,0,New Cairo,Semi Finished,No,Any,3457000
+Townhouse,3.0,2.0,252.7,Ground,Sheikh Zayed,Finished,No,Any,10731000
+Apartment,4.0,3.0,201.4,7,New Cairo,Finished,No,Installment,7232000
+Apartment,2.0,2.0,144.5,1,New Cairo,Finished,No,Installment,5398000
+Apartment,3.0,3.0,200.1,3,Sheikh Zayed,Core & Shell,No,Cash,6121000
+Duplex,4.0,3.0,330.9,4,New Cairo,Semi Finished,Yes,Installment,13894000
+Duplex,4.0,4.0,276.9,5,North Coast,Finished,No,Cash,14003000
+Apartment,3.0,3.0,190.1,2,New Cairo,Finished,No,Installment,7136000
+Apartment,,1.0,125.8,3,6th of October,Semi Finished,No,Installment,2285000
+Apartment,2.0,1.0,91.8,0,New Cairo,Semi Finished,No,Installment,3027000
+Apartment,1.0,1.0,148.7,1,Sheikh Zayed,Finished,No,Cash,4950000
+Duplex,,5.0,307.7,,North Coast,Finished,Yes,Any,15966000
+Duplex,5.0,5.0,280.4,4,New Cairo,Finished,No,Cash,12036000
+Apartment,3.0,2.0,188.3,3,Hurghada,Semi Finished,Yes,Cash,5084000
+Apartment,2.0,2.0,169.6,4,New Cairo,Unfinished,No,Cash,4038000
+Studio,1.0,1.0,53.0,5,Shorouk City,Finished,No,Any,1107000
+Villa,6.0,5.0,616.5,Ground,6th of October,Semi Finished,No,Any,16945000
+Duplex,5.0,5.0,310.3,6,Alexandria,Finished,No,Installment,7821000
+Apartment,3.0,3.0,137.4,1,6th of October,Finished,Yes,Any,3650000
+Villa,6.0,5.0,602.4,Ground,6th of October,Finished,No,Cash,19918000
+Apartment,3.0,3.0,117.3,4,New Cairo,Core & Shell,No,Any,3373000
+Villa,6.0,,376.2,Ground,New Cairo,Finished,No,Cash,19048000
+Twin House,5.0,4.0,305.9,Ground,North Coast,Semi Finished,Yes,Cash,16536000
+Apartment,2.0,1.0,129.3,1,Sheikh Zayed,Finished,No,Cash,4794000
+Apartment,4.0,3.0,206.8,2,Sheikh Zayed,Finished,No,Installment,7466000
+Apartment,4.0,3.0,202.7,4,Shorouk City,Finished,No,Installment,4653000
+Apartment,3.0,2.0,152.4,1,Sheikh Zayed,Semi Finished,No,Installment,4639000
+Apartment,2.0,1.0,148.3,4,North Coast,Finished,No,Any,6682000
+Apartment,2.0,1.0,99.2,4,Maadi,Semi Finished,Yes,Installment,2688000
+Penthouse,5.0,4.0,266.4,0,Nasr City,Finished,No,Cash,6108000
+Villa,6.0,5.0,473.0,Ground,Alexandria,Finished,No,Installment,15383000
+Apartment,3.0,2.0,146.6,3,New Cairo,Finished,No,Installment,5333000
+Townhouse,6.0,5.0,284.1,Ground,Sheikh Zayed,Finished,No,Any,12463000
+Apartment,3.0,3.0,136.7,1,6th of October,Finished,No,Installment,3463000
+Twin House,5.0,4.0,281.7,Ground,New Cairo,Finished,Yes,Installment,15253000
+Apartment,4.0,3.0,215.4,0,Shorouk City,Semi Finished,Yes,Cash,4302000
+Townhouse,4.0,3.0,207.2,Ground,North Coast,Semi Finished,Yes,Installment,9041000
+Duplex,4.0,4.0,218.6,0,Sheikh Zayed,Finished,Yes,Any,10997000
+Chalet,2.0,2.0,106.9,4,Sheikh Zayed,Finished,No,Cash,3946000
+Studio,1.0,1.0,46.8,4,Hurghada,Finished,No,Any,1401000
+Apartment,2.0,2.0,156.7,2,6th of October,Finished,No,Installment,3810000
+Twin House,6.0,5.0,297.3,Ground,6th of October,Finished,No,Cash,8383000
+Apartment,3.0,3.0,159.7,3,Sheikh Zayed,Core & Shell,No,Any,3836000
+Apartment,2.0,2.0,125.2,3,Alexandria,Finished,No,Installment,2679000
+Apartment,1.0,1.0,89.9,0,6th of October,Finished,No,Cash,2215000
+Villa,6.0,5.0,585.2,Ground,Shorouk City,Finished,Yes,Cash,15548000
+Apartment,3.0,2.0,220.9,6,Madinaty,Finished,No,Cash,6946000
+Villa,6.0,5.0,434.5,Ground,Sheikh Zayed,Semi Finished,Yes,Any,17380000
+Villa,6.0,5.0,463.3,Ground,6th of October,Finished,No,Installment,14843000
+Penthouse,3.0,3.0,199.4,3,Madinaty,Finished,No,Any,7855000
+Chalet,1.0,2.0,134.5,0,Sheikh Zayed,Semi Finished,No,Cash,3888000
+Apartment,1.0,1.0,122.0,3,Shorouk City,Finished,No,Cash,2196000
+Apartment,4.0,3.0,228.6,0,North Coast,Semi Finished,No,Cash,8333000
+Apartment,4.0,3.0,169.7,6,Nasr City,Semi Finished,No,Installment,2893000
+Apartment,,2.0,157.5,5,Shorouk City,Finished,No,Any,2900000
+Apartment,1.0,2.0,89.2,3,Madinaty,Semi Finished,No,Installment,2353000
+Apartment,3.0,3.0,155.3,4,Madinaty,Finished,No,Cash,4462000
+Apartment,3.0,3.0,134.5,1,Sheikh Zayed,Semi Finished,No,Any,4050000
+Twin House,6.0,5.0,288.8,Ground,New Cairo,Finished,No,Installment,13345000
+Villa,6.0,5.0,597.9,Ground,Sheikh Zayed,Finished,No,Cash,26748000
+Apartment,2.0,2.0,184.2,3,Maadi,Semi Finished,No,Any,4425000
+Villa,6.0,5.0,583.6,Ground,6th of October,Core & Shell,No,Cash,15088000
+Apartment,2.0,2.0,146.2,3,Shorouk City,Unfinished,No,Cash,2323000
+Apartment,3.0,,200.5,3,Sheikh Zayed,Semi Finished,No,Cash,5720000
+Duplex,3.0,2.0,182.8,3,Nasr City,Finished,No,Installment,4079000
+Villa,5.0,5.0,303.4,Ground,New Cairo,Finished,No,Installment,12186000
+Apartment,3.0,3.0,220.1,5,Shorouk City,Finished,No,Cash,4354000
+Studio,1.0,1.0,73.6,1,6th of October,Finished,No,Cash,1717000
+Townhouse,3.0,2.0,259.9,Ground,New Cairo,Finished,No,Installment,10855000
+Duplex,4.0,4.0,198.2,7,Sheikh Zayed,Core & Shell,No,Any,5801000
+Villa,5.0,4.0,384.3,Ground,Shorouk City,Finished,No,Installment,11103000
+Duplex,,5.0,290.5,4,6th of October,Finished,No,Cash,8417000
+Apartment,3.0,2.0,170.1,1,New Cairo,Finished,No,Cash,6364000
+Apartment,3.0,2.0,189.8,1,Hurghada,Core & Shell,No,Cash,3595000
+Apartment,2.0,2.0,125.7,5,Maadi,Semi Finished,No,Cash,2905000
+Villa,6.0,5.0,363.9,Ground,North Coast,Semi Finished,No,Installment,17297000
+Villa,5.0,,352.8,Ground,Sheikh Zayed,Finished,No,Installment,16408000
+Apartment,3.0,3.0,191.2,3,6th of October,Core & Shell,No,Installment,4021000
+Twin House,4.0,4.0,316.6,,Alexandria,Finished,Yes,Installment,12117000
+Townhouse,4.0,3.0,252.8,Ground,6th of October,Core & Shell,Yes,Cash,5598000
+Penthouse,3.0,2.0,237.8,2,Maadi,Semi Finished,No,Cash,6467000
+Villa,6.0,5.0,548.0,Ground,Sheikh Zayed,Finished,No,Installment,25798000
+Townhouse,6.0,5.0,312.2,Ground,6th of October,Finished,No,Cash,9585000
+Apartment,3.0,3.0,175.3,1,New Cairo,Semi Finished,No,Cash,5899000
+Penthouse,4.0,4.0,200.6,2,New Cairo,Finished,Yes,Installment,9395000
+Apartment,4.0,3.0,213.3,1,New Cairo,Core & Shell,Yes,Cash,5588000
+Penthouse,3.0,3.0,257.2,,New Cairo,Finished,No,Cash,10220000
+Apartment,3.0,2.0,180.8,0,Hurghada,Finished,No,Any,4656000
+Townhouse,4.0,3.0,202.9,Ground,New Cairo,Finished,No,Any,8827000
+Twin House,5.0,5.0,330.4,Ground,Maadi,Finished,No,Cash,14137000
+Apartment,4.0,3.0,168.0,1,Madinaty,Finished,Yes,Cash,6464000
+Villa,6.0,5.0,604.3,Ground,6th of October,Finished,Yes,Installment,22882000
+Studio,1.0,1.0,41.0,0,New Cairo,,No,Cash,1307000
+Villa,,5.0,398.4,Ground,Maadi,Finished,No,Installment,18869000
+Townhouse,3.0,2.0,239.8,Ground,Nasr City,Unfinished,No,Cash,4406000
+Villa,5.0,4.0,337.2,,Maadi,Semi Finished,No,Cash,11196000
+Apartment,3.0,2.0,168.7,1,Shorouk City,Core & Shell,Yes,Installment,2846000
+Apartment,4.0,3.0,167.6,7,Hurghada,Finished,No,Any,4745000
+Apartment,2.0,1.0,98.0,2,6th of October,Finished,No,Cash,2521000
+Penthouse,5.0,5.0,376.4,0,Sheikh Zayed,Finished,No,Cash,14261000
+Apartment,2.0,2.0,103.8,0,Nasr City,Semi Finished,Yes,Cash,2331000
+Villa,5.0,4.0,380.4,Ground,New Cairo,Core & Shell,No,Cash,16037000
+Villa,6.0,5.0,528.0,Ground,Alexandria,Finished,Yes,Any,18647000
+Villa,6.0,5.0,346.0,Ground,New Cairo,Finished,Yes,Installment,17613000
+Townhouse,4.0,3.0,204.1,Ground,Sheikh Zayed,Core & Shell,Yes,Installment,7328000
+Studio,,1.0,42.9,0,Madinaty,Finished,No,Installment,1452000
+Apartment,4.0,3.0,229.4,1,Nasr City,Semi Finished,No,Any,4468000

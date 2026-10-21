@@ -1,3 +1,6 @@
+# Local binaries
+.bin/
+
 # Python & virtual environments
 .venv/
 env/
