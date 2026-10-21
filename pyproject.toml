@@ -1,0 +1,43 @@
+[project]
+name = "machine-learning-labs"
+version = "0.1.0"
+description = "Machine Learning course labs at SibSUTI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "scikit-learn>=1.4.0",
+    "matplotlib>=3.8.0",
+    "seaborn>=0.13.0",
+    "jupyterlab>=4.0.0",
+    "ipykernel>=6.29.0",
+    "nbconvert>=7.16.0",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "ruff>=0.9.0",
+    "prek>=0.2.0",
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort
+    "B",   # flake8-bugbear
+    "UP",  # pyupgrade
+    "N",   # pep8-naming
+]
+ignore = []
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "auto"
