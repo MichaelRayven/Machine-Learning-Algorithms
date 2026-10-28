@@ -1,4 +1,6 @@
 \documentclass[a4paper,14pt,oneside,openany]{memoir}
+\renewcommand{\clearforchapter}{\clearpage}
+\let\cleardoublepage\clearpage
 
 \usepackage[left=30mm, right=15mm, top=20mm, bottom=20mm]{geometry}
 \pagestyle{plain}
@@ -107,7 +109,6 @@
 \input{3_chap1}
 \input{4_chap2}
 \input{5_chap3}
-\input{6_questions}
 \input{7_conclusion}
 
 \end{document}

@@ -1,85 +1,126 @@
-\chapter{Программная реализация конвейера данных и сверточной архитектуры}
+\chapter{Шаг 2. Создание архитектуры нейронной сети (Вариант 2)}
 
-\section{Конвейер подготовки данных и потоковой аугментации}
+\section{Теоретические компоненты архитектуры}
 
-Реализация модели выполнена на языке Python с использованием фреймворка глубокого обучения TensorFlow 2.x и библиотеки Keras. Датасет Oxford Flowers 102 загружается через интерфейс \texttt{tensorflow\_datasets} (TFDS).
+Операция двумерной дискретной свертки входного тензора $I \in \mathbb{R}^{H \times W \times C_{\text{in}}}$ с обучаемым ядром $K \in \mathbb{R}^{k_h \times k_w \times C_{\text{in}}}$ вычисляет взвешенную локальную сумму пикселей:
+\begin{equation}
+    S(i, j) = \sum_{c=1}^{C_{\text{in}}} \sum_{m=0}^{k_h - 1} \sum_{n=0}^{k_w - 1} I(i + m, j + n, c) K(m, n, c) + b,
+    \label{eq:convolution}
+\end{equation}
+где $b$ --- обучаемое смещение. Сверточные ядра извлекают иерархические пространственные признаки: от элементарных градиентов и линий до целостных текстур и форм лепестков.
 
-Поскольку оригинальные фотографии цветковых растений имеют различные исходные разрешения и соотношения сторон, в конвейере данных реализована стандартизация входных тензоров:
-\begin{enumerate}
-    \item \textbf{Геометрическая стандартизация:} приведение всех кадров к пространственному размеру $96 \times 96 \times 3$ с помощью билинейной интерполяции \texttt{tf.image.resize}. Данный размер обеспечивает компромисс между сохранением детализации текстуры лепестков и вычислительной эффективностью сверточных слоев.
-    \item \textbf{Нормализация яркости:} деление целочисленных значений пикселей из интервала $[0, 255]$ на $255.0$, что переводит интенсивности каналов в вещественный диапазон $[0.0, 1.0]$.
-    \item \textbf{Аугментация (Data Augmentation):} ввиду ограниченного объема обучающей выборки (1020 изображений, по 10 на каждый из 102 классов), для предотвращения переобучения сконфигурирован слой аугментации, включающий случайные зеркальные отражения по горизонтали (\texttt{RandomFlip}), повороты в пределах $\pm 10\,\%$ (\texttt{RandomRotation}) и масштабирование (\texttt{RandomZoom}).
-    \item \textbf{Буферизация и предвыборка:} конвейер \texttt{tf.data} оптимизирован вызовами \texttt{cache()} (кэширование обработанных тензоров в памяти), \texttt{shuffle(1020)} (случайное перемешивание на каждой эпохе), \texttt{batch(32)} (объединение в батчи по 32 кадра) и \texttt{prefetch(tf.data.AUTOTUNE)} (асинхронная подготовка следующего пакета параллельно с вычислениями на процессоре).
-\end{enumerate}
+После свертки применяется функция активации $\text{ReLU}(x) = \max(0, x)$, устраняющая затухание градиентов в положительной области. Пространственная редукция выполняется операцией $\text{MaxPooling2D}$ с окном $2 \times 2$ и шагом 2, сокращающей размерность карт признаков в 4 раза по площади.
 
-\section{Архитектура сверточной нейронной сети}
+\subsection{Механизм пакетной нормализации (BatchNormalization)}
 
-В соответствии с требованиями Варианта 2 нейронная сеть состоит строго из 3 сверточных слоев (Conv2D) и 2 полносвязных слоев (Dense), с обязательным применением пакетной нормализации (BatchNormalization) и оптимизатора SGD с моментом.
+Для устранения внутреннего ковариационного сдвига (Internal Covariate Shift) на выходе каждого слоя применяется нормализация по мини-батчу $\mathcal{B} = \{x_1, \dots, x_m\}$:
+\begin{equation}
+    \mu_\mathcal{B} = \frac{1}{m} \sum_{i=1}^m x_i, \qquad \sigma_\mathcal{B}^2 = \frac{1}{m} \sum_{i=1}^m (x_i - \mu_\mathcal{B})^2, \qquad \hat{x}_i = \frac{x_i - \mu_\mathcal{B}}{\sqrt{\sigma_\mathcal{B}^2 + \epsilon}},
+    \label{eq:bn}
+\end{equation}
+где $\epsilon = 10^{-3}$, а итоговый выход слоя определяется с помощью обучаемых параметров масштаба $\gamma$ и сдвига $\beta$:
+\begin{equation}
+    y_i = \gamma \hat{x}_i + \beta.
+    \label{eq:bn_out}
+\end{equation}
+Пакетная нормализация стабилизирует распределение активаций, сглаживает поверхность функции потерь и предотвращает застревание оптимизатора в локальных плато.
 
-Послойная структура модели представлена в таблице~\ref{tab:model_architecture}.
+\subsection{Оптимизатор SGD с моментом Нестерова}
+
+Для минимизации кросс-энтропийной функции потерь используется стохастический градиентный спуск (SGD) со скоростью обучения $\eta = 0.015$ и поправкой Нестерова (NAG) с моментом $\beta = 0.9$:
+\begin{equation}
+    v_t = \beta v_{t-1} + \eta \nabla_\theta \mathcal{L}(\theta_{t-1} - \beta v_{t-1}), \qquad \theta_t = \theta_{t-1} - v_t.
+    \label{eq:nesterov}
+\end{equation}
+Оценка градиента в упреждающей точке шага по инерции устраняет осцилляции в крутых оврагах оптимизационного рельефа.
+
+\section{Послойная спецификация модели}
+
+Архитектура строго соответствует требованиям Варианта 2 (3 Conv2D + 2 Dense + BatchNormalization). Послойное описание приведено в таблице~\ref{tab:model_architecture}.
 
 \begin{table}[H]
 \centering
 \footnotesize
-\caption{Послойная архитектура сверточной нейросети (Вариант 2)}
+\caption{Послойная структура сверточной нейросети (Вариант 2)}
 \label{tab:model_architecture}
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}llrl@{}}
 \toprule
 \textbf{Слой (тип)} & \textbf{Выход} & \textbf{Параметры} & \textbf{Назначение} \\
 \midrule
 InputLayer & $(96, 96, 3)$ & 0 & Входной RGB-тензор \\
-Conv2D (32 фильтра $3\times3$) & $(96, 96, 32)$ & 864 & Выделение базовых градиентов \\
+Conv2D ($32$ фильтра $3\times3$) & $(96, 96, 32)$ & 864 & Выделение базовых градиентов \\
 BatchNormalization & $(96, 96, 32)$ & 128 & Нормализация признаковых карт \\
-ReLU & $(96, 96, 32)$ & 0 & Поэлементная нелинейность \\
+Activation (ReLU) & $(96, 96, 32)$ & 0 & Поэлементная нелинейность \\
 MaxPooling2D ($2\times2$) & $(48, 48, 32)$ & 0 & Пространственная редукция \\
 \midrule
-Conv2D (64 фильтра $3\times3$) & $(48, 48, 64)$ & 18\,432 & Текстуры и контуры \\
+Conv2D ($64$ фильтра $3\times3$) & $(48, 48, 64)$ & 18\,432 & Текстуры и контуры соцветий \\
 BatchNormalization & $(48, 48, 64)$ & 256 & Нормализация активаций \\
-ReLU & $(48, 48, 64)$ & 0 & Поэлементная нелинейность \\
+Activation (ReLU) & $(48, 48, 64)$ & 0 & Поэлементная нелинейность \\
 MaxPooling2D ($2\times2$) & $(24, 24, 64)$ & 0 & Пространственная редукция \\
 \midrule
-Conv2D (128 фильтров $3\times3$) & $(24, 24, 128)$ & 73\,728 & Выделение форм лепестков \\
+Conv2D ($128$ фильтров $3\times3$) & $(24, 24, 128)$ & 73\,728 & Выделение структур лепестков \\
 BatchNormalization & $(24, 24, 128)$ & 512 & Нормализация активаций \\
-ReLU & $(24, 24, 128)$ & 0 & Поэлементная нелинейность \\
+Activation (ReLU) & $(24, 24, 128)$ & 0 & Поэлементная нелинейность \\
 MaxPooling2D ($2\times2$) & $(12, 12, 128)$ & 0 & Пространственная редукция \\
 \midrule
-Flatten & $(18\,432)$ & 0 & Вытягивание карт в вектор \\
-Dense (скрытый) & $(256)$ & 4\,718\,592 & Семантический скрытый слой \\
+Flatten & $(18\,432)$ & 0 & Векторизация карт признаков \\
+Dense (скрытый) & $(256)$ & 4\,718\,592 & Семантическое представление \\
 BatchNormalization & $(256)$ & 1\,024 & Нормализация скрытого слоя \\
-ReLU & $(256)$ & 0 & Поэлементная нелинейность \\
-Dense (выходной) & $(102)$ & 26\,214 & Классификация с Softmax \\
+Activation (ReLU) & $(256)$ & 0 & Поэлементная нелинейность \\
+Dense (выходной) & $(102)$ & 26\,214 & Классификация (Softmax) \\
 \bottomrule
 \end{tabular*}
 \end{table}
 
-Общее число параметров модели составляет $4\,839\,750$ ($\approx 18.46$~МБ). Из них $4\,838\,790$ являются обучаемыми весами, а 960 --- необучаемыми статистиками слоев BatchNormalization (скользящие средние и дисперсии).
+Общее число параметров составляет $4\,839\,750$ ($4\,838\,790$ обучаемых весов и $960$ нетренируемых статистик BatchNormalization).
 
-\section{Программный листинг построения и компиляции модели}
+\section{Программный листинг сборки модели}
 
-В листинге~\ref{lst:model_code} приведен исходный код сборки модели на базе функционального API Keras:
+В листинге~\ref{lst:model_code} приведен исходный код сборки модели на Keras Functional API:
 
 \begin{lstlisting}[language=Python, caption={Создание и компиляция архитектуры CNN (Вариант 2)}, label={lst:model_code}, basicstyle=\ttfamily\scriptsize]
 import tensorflow as tf
 
-def build_cnn_variant2(img_size=96, num_classes=102):
-    inputs = tf.keras.Input(shape=(img_size, img_size, 3))
-    # Сверточный блок 1: 32 фильтра 3x3 + BatchNorm + ReLU + MaxPool
+def build_cnn_model(img_size=96, num_classes=102):
+    inputs = tf.keras.Input(shape=(img_size, img_size, 3), name="input_image")
+    # Блок 1: Conv2D(32, 3x3) + BatchNorm + ReLU + MaxPool(2x2)
     x = tf.keras.layers.Conv2D(32, (3, 3), padding="same", use_bias=False)(inputs)
-    x = tf.keras.layers.MaxPooling2D((2, 2))(tf.keras.layers.Activation("relu")(tf.keras.layers.BatchNormalization()(x)))
-    # Сверточный блок 2: 64 фильтра 3x3 + BatchNorm + ReLU + MaxPool
+    x = tf.keras.layers.BatchNormalization()(x)
+    x = tf.keras.layers.Activation("relu")(x)
+    x = tf.keras.layers.MaxPooling2D(pool_size=(2, 2))(x)
+    # Блок 2: Conv2D(64, 3x3) + BatchNorm + ReLU + MaxPool(2x2)
     x = tf.keras.layers.Conv2D(64, (3, 3), padding="same", use_bias=False)(x)
-    x = tf.keras.layers.MaxPooling2D((2, 2))(tf.keras.layers.Activation("relu")(tf.keras.layers.BatchNormalization()(x)))
-    # Сверточный блок 3: 128 фильтров 3x3 + BatchNorm + ReLU + MaxPool
+    x = tf.keras.layers.BatchNormalization()(x)
+    x = tf.keras.layers.Activation("relu")(x)
+    x = tf.keras.layers.MaxPooling2D(pool_size=(2, 2))(x)
+    # Блок 3: Conv2D(128, 3x3) + BatchNorm + ReLU + MaxPool(2x2)
     x = tf.keras.layers.Conv2D(128, (3, 3), padding="same", use_bias=False)(x)
-    x = tf.keras.layers.MaxPooling2D((2, 2))(tf.keras.layers.Activation("relu")(tf.keras.layers.BatchNormalization()(x)))
-    # Полносвязный классификатор: 2 Dense слоя
+    x = tf.keras.layers.BatchNormalization()(x)
+    x = tf.keras.layers.Activation("relu")(x)
+    x = tf.keras.layers.MaxPooling2D(pool_size=(2, 2))(x)
+    # Полносвязный классификатор: Dense(256) + BatchNorm + ReLU + Dense(102, Softmax)
     x = tf.keras.layers.Flatten()(x)
-    x = tf.keras.layers.Activation("relu")(tf.keras.layers.BatchNormalization()(tf.keras.layers.Dense(256, use_bias=False)(x)))
+    x = tf.keras.layers.Dense(256, use_bias=False)(x)
+    x = tf.keras.layers.BatchNormalization()(x)
+    x = tf.keras.layers.Activation("relu")(x)
     outputs = tf.keras.layers.Dense(num_classes, activation="softmax")(x)
-    model = tf.keras.Model(inputs=inputs, outputs=outputs)
-    # Оптимизатор SGD с моментом Нестерова
+
+    model = tf.keras.Model(inputs=inputs, outputs=outputs, name="CNN_Variant2")
     opt = tf.keras.optimizers.SGD(learning_rate=0.015, momentum=0.9, nesterov=True)
     model.compile(optimizer=opt, loss="sparse_categorical_crossentropy",
                   metrics=["accuracy", tf.keras.metrics.SparseTopKCategoricalAccuracy(k=5, name="top5_acc")])
     return model
 \end{lstlisting}
+
+\section{Краткий вывод по шагу 2}
+
+\noindent\fbox{%
+\parbox{0.96\textwidth}{%
+\textbf{Краткий вывод по шагу 2 (Архитектура сети):}
+\begin{enumerate}[itemsep=1pt, parsep=0pt]
+    \item Сконструирована сверточная нейросеть по индивидуальному Варианту 2: 3 сверточных блока ($32, 64, 128$ фильтров $3\times3$) и 2 полносвязных слоя (Dense на $256$ и $102$ нейрона).
+    \item Использование BatchNormalization перед функциями активации ReLU предотвращает ковариационный сдвиг и обеспечивает стабильность градиентного потока.
+    \item Модель скомпилирована со стохастическим градиентным спуском Нестерова (SGD, $\eta = 0.015, \beta = 0.9$), функцией потерь Sparse Categorical Crossentropy и метриками точности Top-1 и Top-5.
+\end{enumerate}
+}%
+}
