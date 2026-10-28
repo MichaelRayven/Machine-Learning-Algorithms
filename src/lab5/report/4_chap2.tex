@@ -1,4 +1,4 @@
-\chapter{Шаг 2. Создание архитектуры нейронной сети (Вариант 2)}
+\chapter{Архитектура сверточной нейронной сети (Вариант 2)}
 
 \section{Теоретические компоненты архитектуры}
 
@@ -111,16 +111,3 @@ def build_cnn_model(img_size=96, num_classes=102):
                   metrics=["accuracy", tf.keras.metrics.SparseTopKCategoricalAccuracy(k=5, name="top5_acc")])
     return model
 \end{lstlisting}
-
-\section{Краткий вывод по шагу 2}
-
-\noindent\fbox{%
-\parbox{0.96\textwidth}{%
-\textbf{Краткий вывод по шагу 2 (Архитектура сети):}
-\begin{enumerate}[itemsep=1pt, parsep=0pt]
-    \item Сконструирована сверточная нейросеть по индивидуальному Варианту 2: 3 сверточных блока ($32, 64, 128$ фильтров $3\times3$) и 2 полносвязных слоя (Dense на $256$ и $102$ нейрона).
-    \item Использование BatchNormalization перед функциями активации ReLU предотвращает ковариационный сдвиг и обеспечивает стабильность градиентного потока.
-    \item Модель скомпилирована со стохастическим градиентным спуском Нестерова (SGD, $\eta = 0.015, \beta = 0.9$), функцией потерь Sparse Categorical Crossentropy и метриками точности Top-1 и Top-5.
-\end{enumerate}
-}%
-}
